@@ -1,0 +1,799 @@
+CreatureName,Size,Type,Alignment,AC,HP,STR,DEX,CON,INT,WIS,CHA,CR,Sourcebook
+Aarakocra,Medium,Humanoid,NG,12,13,10,14,10,11,12,11,0.25,Monster Manual
+Aboleth,Large,Aberration,LE,17,135,21,9,15,18,15,18,10,Monster Manual
+Albino Dwarf Warrior,Medium,Humanoid,ANY,13,30,13,13,17,12,14,11,0.25,Tomb of Annihilation
+Aldani (Lobsterfolk),Medium,Monstrosity,LN,14,49,13,8,12,10,14,10,1,Tomb of Annihilation
+Allip,Medium,Undead,NE,13,40,6,17,10,17,15,16,5,Mordenkainens Tome of Foes
+Almiraj,Small,Beast,U,13,3,2,16,10,2,14,10,0,Tomb of Annihilation
+Ambush Drake,Medium,Dragon,U,13,22,13,15,14,4,11,6,0.5,Hoard of the Dragon Queen
+Deva,Medium,Celestial,LG,17,136,18,18,18,17,20,20,10,Monster Manual
+Planetar,Large,Celestial,LG,19,200,24,20,24,19,22,25,16,Monster Manual
+Solar,Large,Celestial,LG,21,243,26,22,26,25,25,30,21,Monster Manual
+Animated Object - Armor,Medium,Construct,U,18,33,14,11,13,1,3,1,1,Monster Manual
+Animated Object - Broom of Attack,Small,Construct,U,15,17,10,17,10,1,5,1,0.25,Curse of Strahd
+Animated Object - Flying Sword,Small,Construct,U,17,17,12,15,11,1,5,1,0.25,Monster Manual
+Animated Object - Rug of Smothering,Large,Construct,U,12,33,17,14,10,1,3,1,2,Monster Manual
+Animated Object - Table,Large,Construct,U,15,39,18,8,13,1,3,1,2,Tales from the Yawning Portal
+Ankheg,Large,Monstrosity,U,14,39,17,11,13,1,13,6,2,Monster Manual
+Assassin Vine,Large,Plant,U,13,85,18,10,16,1,10,1,3,Tomb of Annihilation
+Aurochs,Large,Beast,U,11,38,20,10,19,2,12,5,2,Volos Guide to Monsters
+Cattle,Large,Beast,U,10,15,18,10,14,2,10,4,0.25,Volos Guide to Monsters
+Dolphin,Medium,Beast,U,12,11,14,13,13,6,12,7,0.13,Volos Guide to Monsters
+Swarm of Rot Grubs,Medium,Beast ,U,8,22,2,7,10,1,2,1,0.5,Volos Guide to Monsters
+Astral Dreadnought,Gargantuan,Monstrosity,U,20,297,28,7,25,5,14,18,21,Mordenkainens Tome of Foes
+Atropal,Huge,Undead,NE,7,225,19,5,22,25,19,24,13,Tomb of Annihilation
+Avatar of Death,Medium,Undead,NE,20,25,16,16,16,16,16,16,5,Dungeon Masters Guide
+Awakened Zurkhwood,Huge,Plant,U,13,59,19,6,15,10,10,7,2,Out of the Abyss
+Azer,Medium,Elemental,LN,17,39,17,12,15,12,13,10,2,Monster Manual
+Baba Lysagas Creeping Hut,Gargantuan,Construct,U,16,263,26,7,20,1,3,3,11,Curse of Strahd
+Balhannoth,Large,Aberration,CE,17,114,17,8,18,6,15,8,11,Mordenkainens Tome of Foes
+Banderhobb,Large,Monstrosity,NE,15,84,20,12,20,11,14,8,5,Volos Guide to Monsters
+Banshee,Medium,Undead,CE,12,58,1,14,10,12,11,17,4,Monster Manual
+Barghest,Large,Fiend,NE,17,90,19,15,14,13,12,14,4,Volos Guide to Monsters
+Basilisk,Medium,Monstrosity,U,15,52,16,8,15,2,8,7,3,Monster Manual
+Behir,Huge,Monstrosity,NE,17,168,23,16,18,7,16,12,11,Monster Manual
+Beholder,Large,Aberration,LE,18,180,10,14,18,17,15,17,13,Monster Manual
+Death Kiss,Large,Aberration,NE,16,161,18,14,18,10,12,10,10,Volos Guide to Monsters
+Death Tyrant,Large,Undead,LE,19,187,10,14,14,19,15,19,14,Monster Manual
+Gauth,Medium,Aberration,LE,15,67,10,14,16,15,15,13,6,Volos Guide to Monsters
+Gazer,Tiny,Aberration,NE,13,13,3,17,14,3,10,7,0.5,Volos Guide to Monsters
+Spectator,Medium,Aberration,LN,14,39,8,14,14,13,14,11,3,Monster Manual
+Berbalang,Medium,Aberration,NE,14,38,9,16,9,17,11,10,2,Mordenkainens Tome of Foes
+Black Earth Guard,Medium,Humanoid,NE,18,39,17,11,14,10,10,9,2,Princes of the Apocalypse
+Black Earth Priest,Medium,Humanoid,NE,17,45,15,11,14,12,10,16,3,Princes of the Apocalypse
+Burrowshark,Medium,Humanoid,NE,18,82,18,12,16,10,11,13,4,Princes of the Apocalypse
+Sacred Stone Monk,Medium,Humanoid,LE,14,22,13,15,12,10,14,9,0.5,Princes of the Apocalypse
+Stonemelder,Medium,Humanoid,NE,17,75,15,10,16,12,11,17,4,Princes of the Apocalypse
+Needle Blight,Medium,Plant,NE,12,11,12,12,13,4,8,3,0.25,Monster Manual
+Tree Blight,Huge,Plant,NE,15,149,23,10,20,6,10,3,7,Curse of Strahd
+Twig Blight,Small,Plant,NE,13,4,6,13,12,4,8,3,0.13,Monster Manual
+Vine Blight,Medium,Plant,NE,12,26,15,8,14,5,10,3,0.5,Monster Manual
+Bodak,Medium,Undead,CE,15,58,15,16,15,7,12,12,6,Volos Guide to Monsters
+Boggle,Small,Fey,CN,14,18,8,18,13,6,12,7,0.13,Volos Guide to Monsters
+Boneclaw,Large,Undead,CE,16,127,19,16,15,13,15,9,12,Mordenkainens Tome of Foes
+Bugbear,Medium,Humanoid,CE,16,27,15,14,13,8,11,9,1,Monster Manual
+Bugbear Chief,Medium,Humanoid,CE,17,65,17,14,14,11,12,11,3,Monster Manual
+Bulette,Large,Monstrosity,U,17,94,19,11,21,2,10,5,5,Monster Manual
+Bullywug,Medium,Humanoid,NE,15,11,12,12,13,7,10,7,0.25,Monster Manual
+Cadaver Collector,Large,Construct,LE,17,189,21,14,20,5,11,8,14,Mordenkainens Tome of Foes
+Cambion,Medium,Fiend,ANY EVIL,19,82,18,18,16,14,12,16,5,Monster Manual
+Carrion Crawler,Large,Monstrosity,U,13,51,14,13,16,1,12,5,2,Monster Manual
+Catoblepas,Large,Monstrosity,U,14,84,19,12,21,3,4,8,5,Volos Guide to Monsters
+Cave Fisher,Medium,Monstrosity,U,16,58,16,13,14,3,10,3,3,Volos Guide to Monsters
+Centaur,Large,Monstrosity,NG,12,45,18,14,14,9,13,11,2,Monster Manual
+Centaur Mummy,Large,Undead,LE,13,85,20,12,16,5,14,12,6,Tales from the Yawning Portal
+Chimera,Large,Monstrosity,CE,14,114,19,11,19,3,14,10,6,Monster Manual
+Chitine,Small,Monstrosity,CE,14,18,10,14,12,10,10,7,0.5,Volos Guide to Monsters
+Choldrith,Medium,Monstrosity,CE,15,66,12,16,12,11,14,10,3,Volos Guide to Monsters
+Choker,Small,Aberration,CE,16,13,16,14,13,4,12,7,1,Mordenkainens Tome of Foes
+Chuul,Large,Aberration,CE,16,93,19,10,16,5,11,5,4,Monster Manual
+Chwinga,Tiny,Elemental,N,15,5,1,20,10,14,16,16,0,Tomb of Annihilation
+Cloaker,Large,Aberration,CN,14,78,17,15,12,13,12,14,8,Monster Manual
+Bronze Scout,Medium,Construct,U,13,18,10,16,11,3,14,1,1,Mordenkainens Tome of Foes
+Iron Cobra,Medium,Construct,U,13,45,12,16,14,3,10,1,4,Mordenkainens Tome of Foes
+Oaken Bolter,Medium,Construct,U,16,58,12,18,15,3,10,1,5,Mordenkainens Tome of Foes
+Stone Defender,Medium,Construct,U,16,52,19,10,17,3,10,1,4,Mordenkainens Tome of Foes
+Cockatrice,Small,Monstrosity,U,11,27,6,12,12,2,13,5,0.5,Monster Manual
+Corpse Flower,Large,Plant,CE,12,127,14,14,16,7,15,3,8,Mordenkainens Tome of Foes
+Couatl,Medium,Celestial,LG,19,97,16,20,17,18,20,18,4,Monster Manual
+Crag Cat,Large,Beast,U,13,34,16,17,16,4,14,8,1,Storm Kings Thunder
+Cranium Rat,Tiny,Beast,LE,12,2,2,14,10,4,11,8,0,Volos Guide to Monsters
+Cranium Rat Swarm,Medium,Beast ,LE,12,36,9,14,10,15,11,14,5,Volos Guide to Monsters
+Crawling Claw,Tiny,Undead,NE,12,2,13,14,11,5,10,4,0,Monster Manual
+Crushing Wave Priest,Medium,Humanoid,NE,13,52,15,11,14,10,11,16,2,Princes of the Apocalypse
+Crushing Wave Reaver,Medium,Humanoid,NE,14,22,15,14,13,10,11,8,0.5,Princes of the Apocalypse
+Dark Tide Knight,Medium,Humanoid,LE,13,58,17,16,14,10,11,11,3,Princes of the Apocalypse
+Fathomer,Medium,Humanoid,NE,10,52,14,11,14,11,11,15,2,Princes of the Apocalypse
+One-Eyed Shiver,Medium,Humanoid,CE,12,49,10,14,12,13,13,17,3,Princes of the Apocalypse
+Cyclops,Huge,Giant,CN,14,138,22,11,20,8,6,10,6,Monster Manual
+Darkling,Small,Fey,CN,14,13,9,16,12,10,12,10,0.5,Volos Guide to Monsters
+Darkling Elder,Medium,Fey,CN,15,27,13,17,12,10,14,13,2,Volos Guide to Monsters
+Darkmantle,Small,Monstrosity,U,11,22,16,12,13,2,10,5,0.5,Monster Manual
+Death Knight,Medium,Undead,CE,20,180,20,11,20,12,16,18,17,Monster Manual
+Deathlock,Medium,Undead,NE,12,36,11,15,10,14,12,16,4,Mordenkainens Tome of Foes
+Deathlock Mastermind,Medium,Undead,NE,13,110,11,16,12,15,12,17,8,Mordenkainens Tome of Foes
+Deathlock Wight,Medium,Undead,NE,12,37,11,14,16,12,14,16,3,Mordenkainens Tome of Foes
+Decapus,Large,Monstrosity,U,14,75,15,14,14,4,10,7,4,The Tortle Package
+Deep Scion,Medium,Humanoid,NE,11,67,18,13,16,10,12,14,3,Volos Guide to Monsters
+Demilich,Tiny,Undead,NE,20,80,1,20,10,20,17,20,18,Monster Manual
+Baphomet,Huge,Fiend,CE,22,275,30,14,26,18,24,16,23,Mordenkainens Tome of Foes
+Demogorgon,Huge,Fiend,CE,22,406,29,14,26,20,17,25,26,Mordenkainens Tome of Foes
+Fraz-UrbLuu,Large,Fiend,CE,18,337,29,12,25,26,24,26,23,Mordenkainens Tome of Foes
+GrazZt,Large,Fiend,CE,20,346,22,15,21,23,21,26,24,Mordenkainens Tome of Foes
+Juiblex,Huge,Fiend,CE,18,350,24,10,23,20,20,16,23,Mordenkainens Tome of Foes
+Orcus,Huge,Fiend,CE,20,405,27,14,25,20,20,25,26,Mordenkainens Tome of Foes
+Yeenoghu,Huge,Fiend,CE,20,333,29,16,23,15,24,15,24,Mordenkainens Tome of Foes
+Zuggtmoy,Large,Fiend,CE,18,304,22,15,18,20,19,24,23,Mordenkainens Tome of Foes
+Abyssal Wretch,Medium,Fiend,CE,11,18,9,12,11,5,8,5,0.25,Mordenkainens Tome of Foes
+Alkilith,Medium,Fiend,CE,17,157,12,19,22,6,11,7,11,Mordenkainens Tome of Foes
+Armanite,Large,Fiend,CE,16,84,21,18,21,8,12,13,7,Mordenkainens Tome of Foes
+Babau,Medium,Fiend,CE,16,82,19,16,16,11,12,13,4,Volos Guide to Monsters
+Balor,Huge,Fiend,CE,19,262,26,15,22,20,16,22,19,Monster Manual
+Barlgura,Large,Fiend,CE,15,68,18,15,16,7,14,9,5,Monster Manual
+Bulezau,Medium,Fiend,CE,14,52,15,14,17,8,9,6,3,Mordenkainens Tome of Foes
+Chasme,Large,Fiend,CE,15,84,15,15,12,11,14,10,6,Monster Manual
+Draegloth,Large,Fiend,CE,15,123,20,15,18,13,11,11,7,Volos Guide to Monsters
+Dretch,small,Fiend,CE,11,18,11,11,12,5,8,3,0.25,Monster Manual
+Dybbuk,Medium,Fiend,CE,14,37,6,19,16,16,15,14,4,Mordenkainens Tome of Foes
+Glabrezu,Large,Fiend,CE,17,157,20,15,21,19,17,16,9,Monster Manual
+Goristro,Huge,Fiend,CE,19,310,25,11,25,6,13,14,17,Monster Manual
+Hezrou,Large,Fiend,CE,16,136,19,17,20,5,12,13,8,Monster Manual
+Manes,Small,Fiend,CE,9,9,10,9,13,3,8,4,0.13,Monster Manual
+Marilith,Large,Fiend,CE,18,189,18,20,20,18,16,20,16,Monster Manual
+Maurezhi,Medium,Fiend,CE,15,88,14,17,12,11,12,15,7,Mordenkainens Tome of Foes
+Maw,Medium,Fiend,CE,13,33,14,8,13,5,8,5,1,Volos Guide to Monsters
+Molydeus,Huge,Fiend,CE,19,216,28,22,25,21,24,24,21,Mordenkainens Tome of Foes
+Nabassu,Medium,Fiend,CE,18,190,22,14,21,14,15,17,15,Mordenkainens Tome of Foes
+Nalfeshnee,Large,Fiend,LE,18,184,21,10,22,19,12,15,13,Monster Manual
+Quasit,Tiny,Fiend,CE,13,7,5,17,10,7,10,10,1,Monster Manual
+Rutterkin,Medium,Fiend,CE,12,37,14,15,17,5,12,6,2,Mordenkainens Tome of Foes
+Shadow Demon,Medium,Fiend,CE,13,66,1,17,12,14,13,14,4,Monster Manual
+Shoosuva,Large,Fiend,CE,14,110,18,13,17,7,14,9,8,Volos Guide to Monsters
+Sibriex,Huge,Fiend,CE,19,150,10,3,23,25,24,25,18,Mordenkainens Tome of Foes
+Vrock,Large,Fiend,CE,15,104,17,15,18,8,13,8,6,Monster Manual
+Wastrilith,Large,Fiend,CE,18,157,19,18,21,19,12,14,13,Mordenkainens Tome of Foes
+Yochlol,Medium,Fiend,CE,15,136,15,14,18,13,15,15,10,Monster Manual
+Derro,Small,Humanoid,CE,13,13,10,14,12,11,5,9,0.25,Mordenkainens Tome of Foes
+Derro Savant,Small,Humanoid,CE,13,36,9,14,12,11,5,14,3,Mordenkainens Tome of Foes
+Black Abishai,Medium,Fiend,LE,15,58,14,17,14,13,16,11,7,Mordenkainens Tome of Foes
+Blue Abishai,Medium,Fiend,LE,19,195,15,14,17,22,23,18,17,Mordenkainens Tome of Foes
+Green Abishai,Medium,Fiend,LE,18,187,12,17,16,17,12,19,15,Mordenkainens Tome of Foes
+Red Abishai,Medium,Fiend,LE,22,255,23,16,19,14,15,19,19,Mordenkainens Tome of Foes
+White Abishai,Medium,Fiend,LE,15,68,16,11,18,11,12,13,6,Mordenkainens Tome of Foes
+Amnizu,Medium,Fiend,LE,21,202,11,13,16,20,12,18,18,Mordenkainens Tome of Foes
+Bael,Large,Fiend,LE,18,189,24,17,20,21,24,24,19,Mordenkainens Tome of Foes
+Geryon,Huge,Fiend,LE,19,300,29,17,22,19,16,23,22,Mordenkainens Tome of Foes
+Hutijin,Large,Fiend,LE,19,200,27,15,25,23,19,25,21,Mordenkainens Tome of Foes
+Moloch,Large,Fiend,LE,19,253,26,19,22,21,18,23,21,Mordenkainens Tome of Foes
+Titivilus,Medium,Fiend,LE,20,127,19,22,17,24,22,26,16,Mordenkainens Tome of Foes
+Zariel,Large,Fiend,LE,21,580,27,24,28,26,27,30,26,Mordenkainens Tome of Foes
+Barbed,Medium,Fiend,LE,15,110,16,17,18,12,14,14,5,Monster Manual
+Bearded,Medium,Fiend,LE,13,52,16,15,15,9,11,11,3,Monster Manual
+Bone,Large,Fiend,LE,19,142,18,16,18,13,14,16,9,Monster Manual
+Chain,Medium,Fiend,LE,16,85,18,15,18,11,12,14,8,Monster Manual
+Erinyes,Medium,Fiend,LE,18,153,18,16,18,14,14,18,12,Monster Manual
+Hellfire Engine,Huge,Construct,LE,18,216,20,16,24,2,10,1,16,Mordenkainens Tome of Foes
+Horned,Large,Fiend,LE,18,178,22,17,21,12,16,17,11,Monster Manual
+Ice,Large,Fiend,LE,18,180,21,14,18,18,15,18,14,Monster Manual
+Imp,Tiny,Fiend,LE,13,10,6,17,13,11,12,14,1,Monster Manual
+Lemure,Medium,Fiend,LE,7,13,10,5,11,1,11,3,0,Monster Manual
+Merregon,Medium,Fiend,LE,16,45,18,14,17,6,12,8,4,Mordenkainens Tome of Foes
+Narzugon,Medium,Fiend,LE,20,112,20,10,17,16,14,19,13,Mordenkainens Tome of Foes
+Nupperibo,Medium,Fiend,LE,13,11,16,11,13,3,8,1,0.5,Mordenkainens Tome of Foes
+Orthon,Large,Fiend,LE,17,105,22,16,21,15,15,16,10,Mordenkainens Tome of Foes
+Pit Fiend,Large,Fiend,LE,19,300,26,14,24,22,18,24,20,Monster Manual
+Spined,Small,Fiend,LE,15,22,10,15,12,11,14,8,2,Monster Manual
+Devourer,Large,Fiend,CE,16,178,20,12,20,13,10,16,13,Volos Guide to Monsters
+Allosaurus,Large,Beast,U,13,51,19,13,17,2,12,5,2,Monster Manual
+Ankylosaurus,Huge,Beast,U,15,68,19,11,15,2,12,5,3,Monster Manual
+Brontosaurus,Gargantuan,Beast,U,15,121,21,9,17,2,10,7,5,Volos Guide to Monsters
+Deinonychus,Medium,Beast,U,13,26,15,15,14,4,12,6,1,Volos Guide to Monsters
+Dimetrodon,Medium,Beast,U,12,19,14,10,15,2,10,5,0.25,Volos Guide to Monsters
+Hadrosaurus,Large,Beast,U,11,19,15,10,13,2,10,5,0.25,Volos Guide to Monsters
+Plesiosaurus,Large,Beast,U,13,68,18,15,16,2,12,5,2,Monster Manual
+Pteranodon,Medium,Beast,U,13,13,12,15,10,2,9,5,0.25,Monster Manual
+Quetzalcoatlus,Huge,Beast,U,13,30,15,13,13,2,10,5,2,Volos Guide to Monsters
+Stegosaurus,Huge,Beast,U,13,76,20,9,17,2,11,5,4,Volos Guide to Monsters
+Triceratops,Huge,Beast,U,13,95,22,9,17,2,11,5,5,Monster Manual
+Tyrannosaurus Rex,Huge,Beast,U,13,136,25,10,19,2,12,9,8,Monster Manual
+Velociraptor,Tiny,Beast,U,13,10,6,14,13,4,12,6,0.25,Volos Guide to Monsters
+Displacer Beast,Large,Monstrosity,LE,13,85,18,15,16,6,12,8,3,Monster Manual
+Doppelganger,Medium,Monstrosity,N,14,52,11,18,14,11,12,14,3,Monster Manual
+Adult Black Chromatic Dragon,Huge,Dragon,CE,19,195,23,14,21,14,13,17,14,Monster Manual
+Ancient Black Chromatic Dragon,Gargantuan,Dragon,CE,22,367,27,14,25,16,15,19,21,Monster Manual
+Wyrmling Black Chromatic Dragon,Medium,Dragon,CE,17,33,15,14,13,10,11,13,2,Monster Manual
+Young Black Chromatic Dragon,Large,Dragon,CE,18,127,19,14,17,12,11,15,7,Monster Manual
+Adult Blue Chromatic Dragon,Huge,Dragon,LE,19,225,25,10,23,16,15,19,16,Monster Manual
+Ancient Blue Chromatic Dragon,Gargantuan,Dragon,LE,22,481,29,10,27,18,17,21,23,Monster Manual
+Wyrmling Blue Chromatic Dragon,Medium,Dragon,LE,17,52,17,10,15,12,11,15,3,Monster Manual
+Young Blue Chromatic Dragon,Large,Dragon,LE,18,152,21,10,19,14,13,17,9,Monster Manual
+Adult Green Chromatic Dragon,Huge,Dragon,LE,19,207,23,12,21,18,15,17,15,Monster Manual
+Ancient Green Chromatic Dragon,Gargantuan,Dragon,LE,21,385,27,12,25,20,17,19,22,Monster Manual
+Wyrmling Green Chromatic Dragon,Medium,Dragon,LE,17,38,15,12,13,14,11,13,2,Monster Manual
+Young Green Chromatic Dragon,Large,Dragon,LE,18,136,19,12,17,16,13,15,8,Monster Manual
+Adult Red Chromatic Dragon,Huge,Dragon,CE,19,256,27,10,25,16,13,21,17,Monster Manual
+Ancient Red Chromatic Dragon,Gargantuan,Dragon,CE,22,546,30,10,29,18,15,23,24,Monster Manual
+Wyrmling Red Chromatic Dragon,Medium,Dragon,CE,17,75,19,10,17,12,11,15,4,Monster Manual
+Young Red Chromatic Dragon,Large,Dragon,CE,18,178,23,10,21,14,11,19,10,Monster Manual
+Adult White Chromatic Dragon,Huge,Dragon,CE,18,200,22,10,22,8,12,12,13,Monster Manual
+Ancient White Chromatic Dragon,Gargantuan,Dragon,CE,20,333,26,10,26,10,13,14,20,Monster Manual
+Wyrmling White Chromatic Dragon,Medium,Dragon,CE,16,32,14,10,14,5,10,11,2,Monster Manual
+Young White Chromatic Dragon,Large,Dragon,CE,14,133,18,10,18,6,11,12,6,Monster Manual
+Adult Brass Metallic Dragon,Huge,Dragon,CG,18,172,23,10,21,14,13,17,13,Monster Manual
+Ancient Brass Metallic Dragon,Gargantuan,Dragon,CG,20,297,27,10,25,16,15,19,20,Monster Manual
+Wyrmling Brass Metallic Dragon,Medium,Dragon,CG,16,16,15,10,13,10,11,13,1,Monster Manual
+Young Brass Metallic Dragon,Large,Dragon,CG,17,110,19,10,17,12,11,15,6,Monster Manual
+Adult Bronze Metallic Dragon,Huge,Dragon,LG,19,212,25,10,23,16,15,19,15,Monster Manual
+Ancient Bronze Metallic Dragon,Gargantuan,Dragon,LG,22,444,29,10,27,18,17,21,22,Monster Manual
+Wyrmling Bronze Metallic Dragon,Medium,Dragon,LG,17,32,17,10,15,12,11,15,2,Monster Manual
+Young Bronze Metallic Dragon,Large,Dragon,LG,18,142,21,10,19,14,13,17,8,Monster Manual
+Adult Copper Metallic Dragon,Huge,Dragon,CG,18,184,23,12,21,18,15,17,14,Monster Manual
+Ancient Copper Metallic Dragon,Gargantuan,Dragon,CG,21,350,27,12,25,20,17,19,21,Monster Manual
+Wyrmling Copper Metallic Dragon,Medium,Dragon,CG,16,22,15,12,13,14,11,13,1,Monster Manual
+Young Copper Metallic Dragon,Large,Dragon,CG,17,119,19,12,17,16,13,15,7,Monster Manual
+Adult Gold Metallic Dragon,Huge,Dragon,LG,19,256,27,14,25,16,15,24,17,Monster Manual
+Ancient Gold Metallic Dragon,Gargantuan,Dragon,LG,22,546,30,14,29,18,17,28,24,Monster Manual
+Wyrmling Gold Metallic Dragon,Medium,Dragon,LG,17,60,19,14,17,14,11,16,3,Monster Manual
+Young Gold Metallic Dragon,Large,Dragon,LG,18,178,23,14,21,16,13,20,10,Monster Manual
+Adult Silver Metallic Dragon,Huge,Dragon,LG,19,243,27,10,25,16,13,21,16,Monster Manual
+Ancient Silver Metallic Dragon,Gargantuan,Dragon,LG,22,487,30,10,29,18,15,23,23,Monster Manual
+Wyrmling Silver Metallic Dragon,Medium,Dragon,LG,17,45,19,10,17,12,11,15,2,Monster Manual
+Young Silver Metallic Dragon,Large,Dragon,LG,18,168,23,10,21,14,11,19,9,Monster Manual
+Dragon Turtle,Gargantuan,Dragon,N,20,341,25,10,20,10,12,12,17,Monster Manual
+Dragonclaw,Medium,Humanoid,NE,14,16,9,16,13,11,10,12,1,Hoard of the Dragon Queen
+Dragonfang,Medium,Humanoid,NE,15,78,11,16,14,12,12,14,5,Rise of Tiamat
+Dragonsoul,Medium,Humanoid,NE,16,110,11,18,14,13,12,16,7,Rise of Tiamat
+Dragonwing,Medium,Humanoid,NE,14,32,9,16,13,11,10,12,2,Hoard of the Dragon Queen
+Dread Warrior,Medium,Undead,NE,18,37,15,11,16,10,12,10,1,Tales from the Yawning Portal
+Drider,Large,Monstrosity,CE,19,123,16,16,18,13,14,12,6,Monster Manual
+Drow,Medium,Humanoid,NE,15,13,10,14,10,11,11,12,0.25,Monster Manual
+Drow Arachnomancer,Medium,Humanoid,CE,15,162,11,17,14,19,14,16,13,Mordenkainens Tome of Foes
+Drow Elite Warrior,Medium,Humanoid,NE,18,71,13,18,14,11,13,12,5,Monster Manual
+Drow Favored Consort,Medium,Humanoid,NE,15,225,15,20,16,18,15,18,18,Mordenkainens Tome of Foes
+Drow House Captain,Medium,Humanoid,NE,16,162,14,19,15,12,14,13,9,Mordenkainens Tome of Foes
+Drow Inquisitor,Medium,Humanoid,NE,16,143,11,15,14,16,21,20,14,Mordenkainens Tome of Foes
+Drow Mage,Medium,Humanoid,NE,12,45,9,14,10,17,13,12,7,Monster Manual
+Drow Matron Mother,Medium,Humanoid,NE,17,262,12,18,16,17,21,22,20,Mordenkainens Tome of Foes
+Drow Priestess of Lolth,Medium,Humanoid,NE,16,71,10,14,12,13,17,18,8,Monster Manual
+Drow Shadowblade,Medium,Humanoid,NE,17,150,14,21,16,12,14,13,11,Mordenkainens Tome of Foes
+Dryad,Medium,Fey,N,11,22,1,12,11,14,15,18,1,Monster Manual
+Duergar,Medium,Humanoid,LE,16,26,14,11,14,11,10,9,1,Monster Manual
+Duergar Darkhaft,Medium,Humanoid,LE,16,26,14,11,14,11,10,9,2,Out of the Abyss
+Duergar Despot,Medium,Humanoid,LE,21,119,20,5,19,15,14,13,12,Mordenkainens Tome of Foes
+Duergar Hammerer,Medium,Humanoid,LE,17,33,17,7,12,5,5,5,2,Mordenkainens Tome of Foes
+Duergar Kavalrachni,Medium,Humanoid,LE,16,26,14,11,14,11,10,9,2,Mordenkainens Tome of Foes
+Duergar Keeper of the Flame,Medium,Humanoid,LE,16,26,14,11,14,11,10,9,2,Out of the Abyss
+Duergar Mind Master,Medium,Humanoid,LE,14,39,11,17,14,15,10,12,2,Mordenkainens Tome of Foes
+Duergar Screamer,Medium,Construct,LE,15,38,18,7,12,5,5,5,3,Mordenkainens Tome of Foes
+Duergar Soulblade,Medium,Humanoid,LE,14,18,11,16,10,11,10,12,1,Mordenkainens Tome of Foes
+Duergar Spy,Medium,Humanoid,LE,15,33,10,16,12,12,10,13,2,Tales from the Yawning Portal
+Duergar Stone Guard,Medium,Humanoid,LE,18,39,18,11,14,11,10,9,2,Mordenkainens Tome of Foes
+Duergar Warlord,Medium,Humanoid,LE,20,75,18,11,17,12,12,14,6,Mordenkainens Tome of Foes
+Duergar Xarrorn,Medium,Humanoid,LE,18,26,16,11,14,11,10,9,2,Mordenkainens Tome of Foes
+Eblis,Large,Monstrosity,NE,13,26,11,16,12,12,14,11,1,Tomb of Annihilation
+Eidolon,Medium,Undead,ANY,9,63,7,8,9,14,19,16,12,Mordenkainens Tome of Foes
+Sacred Statue,Large,Construct,ANY,19,95,19,8,19,14,19,16,12,Mordenkainens Tome of Foes
+Autumn Eladrin,Medium,Fey,CN,19,127,12,16,16,14,17,18,10,Mordenkainens Tome of Foes
+Spring Eladrin,Medium,Fey,CN,19,127,14,16,16,18,11,18,10,Mordenkainens Tome of Foes
+Summer Eladrin,Medium,Fey,CN,19,127,19,21,16,14,12,18,10,Mordenkainens Tome of Foes
+Winter Eladrin,Medium,Fey,CN,19,127,11,10,16,18,17,13,10,Mordenkainens Tome of Foes
+Elder Elemental Tempest,Gargantuan,Elemental,N,19,264,23,28,23,2,21,18,23,Mordenkainens Tome of Foes
+Elder Elemental Leviathan,Gargantuan,Elemental,N,17,328,30,24,30,2,18,17,20,Mordenkainens Tome of Foes
+Elder Elemental Phoenix,Gargantuan,Elemental,N,18,175,19,26,25,2,21,18,16,Mordenkainens Tome of Foes
+Elder Elemental Zaratan,Gargantuan,Elemental,N,21,307,30,10,30,2,21,18,22,Mordenkainens Tome of Foes
+Air Elemental Myrmidon,Medium,Elemental,N,18,117,18,14,14,9,10,10,7,Mordenkainens Tome of Foes
+Earth Elemental Myrmidon,Medium,Elemental,N,18,127,18,10,17,8,10,10,7,Mordenkainens Tome of Foes
+Fire Elemental Myrmidon,Medium,Elemental,N,18,123,13,18,15,9,10,10,7,Mordenkainens Tome of Foes
+Water Elemental Myrmidon,Medium,Elemental,N,18,127,18,14,15,8,10,10,7,Mordenkainens Tome of Foes
+Air Elemental,Large,Elemental,N,15,90,14,20,14,6,10,6,5,Monster Manual
+Earth Elemental,Large,Elemental,N,17,126,20,8,20,5,10,5,5,Monster Manual
+Fire Elemental,large,Elemental,N,13,102,10,17,16,6,10,7,5,Monster Manual
+Water Elemental,Large,Elemental,N,14,114,18,14,18,5,10,8,5,Monster Manual
+Empyrean,Huge,Celestial,CG/NE,22,313,30,21,30,21,22,27,23,Monster Manual
+Eternal Flame Guardian,Medium,Humanoid,CE,17,45,15,13,14,8,11,13,2,Princes of the Apocalypse
+Eternal Flame Priest,Medium,Humanoid,NE,12,52,12,15,14,10,11,16,3,Princes of the Apocalypse
+Flamewrath,Medium,Humanoid,CE,12,105,10,14,16,11,10,16,6,Princes of the Apocalypse
+Razerblast,Medium,Humanoid,CE,17,112,16,11,16,9,10,13,5,Princes of the Apocalypse
+Ettercap,Medium,Monstrosity,NE,13,44,14,15,13,7,12,8,2,Monster Manual
+Ettin,large,Giant,CE,12,85,21,8,17,6,10,8,4,Monster Manual
+Faerie Dragon,Tiny,Dragon,CG,15,14,3,20,13,14,12,16,1,Monster Manual
+Firenewt Warlock of Imix,Medium,Humanoid,NE,10,33,13,11,12,9,11,14,1,Volos Guide to Monsters
+Firenewt Warrior,Medium,Humanoid,NE,16,22,10,13,12,7,11,8,0.5,Volos Guide to Monsters
+Flail Snail,Large,Elemental,U,16,52,17,5,20,3,10,5,3,Volos Guide to Monsters
+Flameskull,Tiny,Undead,NE,13,40,1,17,14,16,10,11,4,Monster Manual
+Flumph,Small,Aberration,LG,12,7,6,15,10,14,14,11,0.13,Monster Manual
+Flying Monkey,Small,Beast,U,12,3,8,14,11,5,12,6,0,Tomb of Annihilation
+Fomorian,Huge,Giant,CE,14,149,23,10,20,9,14,6,8,Monster Manual
+Froghemoth,Huge,Monstrosity,U,14,184,23,13,20,2,12,5,10,Volos Guide to Monsters
+Gas Spore,Large,Plant,U,5,1,5,1,3,1,1,1,0.5,Monster Manual
+Shrieker,Medium,Plant,U,5,13,1,1,10,1,10,3,0,Monster Manual
+Violet Fungus,Medium,Plant,U,5,18,3,1,10,1,3,1,0.25,Monster Manual
+Galeb Duhr,Medium,Elemental,N,16,85,20,14,20,11,12,11,6,Monster Manual
+Gargoyle,Medium,Elemental,CE,15,52,15,11,16,6,11,7,2,Monster Manual
+Giant Four-Armed Gargoyle,Large,Elemental,CE,17,147,19,11,20,6,11,9,10,Tomb of Annihilation
+Dao,Large,Elemental,NE,18,187,23,12,24,12,13,14,11,Monster Manual
+Djinni,Large,Elemental,CG,17,161,21,15,22,15,16,20,11,Monster Manual
+Efreeti,Large,Elemental,LE,17,200,22,12,24,16,15,16,11,Monster Manual
+Marid,Large,Elemental,CN,17,229,22,12,26,18,17,18,11,Monster Manual
+Geonid,Small,Elemental,N,17,26,12,10,16,9,14,11,0.25,The Tortle Package
+Ghost,Medium,Undead,ANY,11,45,7,13,10,10,12,17,4,Monster Manual
+Ghoul,Medium,Undead,CE,12,22,13,15,10,7,10,6,1,Monster Manual
+Ghast,Medium,Undead,CE,13,36,16,17,10,11,10,8,2,Monster Manual
+Giant Crayfish,Large,Beast,U,15,45,15,13,13,1,9,3,2,Tales from the Yawning Portal
+Giant Fly,Large,Beast,U,11,19,14,13,13,2,10,3,0,Dungeon Masters Guide
+Giant Ice Toad,Large,Monstrosity,N,14,52,16,13,14,8,10,6,3,Tales from the Yawning Portal
+Giant Lightning Eel,Large,Beast,U,13,42,11,17,16,2,12,3,3,Tales from the Yawning Portal
+Giant Snapping Turtle,Large,Beast,U,17,75,19,10,14,2,12,5,3,Tomb of Annihilation
+Giant Strider,Large,Monstrosity,NE,14,22,18,13,14,4,12,6,1,Volos Guide to Monsters
+Giant Subterranean Lizard,Huge,Beast,U,14,66,21,9,17,2,10,7,4,Tales from the Yawning Portal
+Cloud Giant,Huge,Giant,N,14,200,27,10,22,12,16,16,9,Monster Manual
+Cloud Giant Smiling One,Huge,Giant,CN,15,262,26,12,22,15,16,17,11,Volos Guide to Monsters
+Fire Giant,Huge,Giant,LE,18,162,25,9,23,10,14,13,9,Monster Manual
+Fire Giant Dreadnought,Huge,Giant,LE,21,187,27,9,23,8,10,11,14,Volos Guide to Monsters
+Frost Giant,Huge,Giant,NE,15,138,23,9,21,9,10,12,8,Monster Manual
+Frost Giant Everlasting One,Huge,Giant,CE,15,189,25,9,24,9,10,12,12,Volos Guide to Monsters
+Hill Giant,Huge,Giant,CE,13,105,21,8,19,5,9,6,5,Monster Manual
+Hill Giant Mouth of Grolantor,Huge,Giant,CE,14,105,21,10,18,5,7,5,6,Volos Guide to Monsters
+Stone Giant,Huge,Giant,N,17,126,23,15,20,10,12,9,7,Monster Manual
+Stone Giant Dreamwalker,Huge,Giant,CN,18,161,23,14,21,10,8,12,10,Volos Guide to Monsters
+Storm Giant,Huge,Giant,CG,16,230,29,14,20,16,18,18,13,Monster Manual
+Storm Giant Quintessent,Huge,Giant,CG,12,230,29,14,20,17,20,19,16,Volos Guide to Monsters
+Gibbering Mouther,Medium,Aberration,N,9,67,10,8,16,3,10,6,2,Monster Manual
+Giff,Medium,Humanoid,LN,16,60,18,14,17,11,12,12,3,Mordenkainens Tome of Foes
+Girallon,Large,Monstrosity,U,13,59,18,16,16,5,12,7,4,Volos Guide to Monsters
+Githyanki Gish,Medium,Humanoid,LE,17,123,17,15,14,16,15,16,10,Mordenkainens Tome of Foes
+Githyanki KithRak,Medium,Humanoid,LE,18,180,18,16,17,16,15,17,12,Mordenkainens Tome of Foes
+Githyanki Knight,Medium,Humanoid,LE,18,91,16,14,15,14,14,15,8,Monster Manual
+Githyanki Supreme Commander,Medium,Humanoid,LE,18,187,19,17,18,16,16,18,14,Mordenkainens Tome of Foes
+Githyanki Warrior,Medium,Humanoid,LE,17,49,15,14,12,13,13,10,3,Monster Manual
+Githzerai Anarch,Medium,Humanoid,LN,20,144,16,21,18,18,20,14,16,Mordenkainens Tome of Foes
+Githzerai Enlightened,Medium,Humanoid,LN,18,112,14,19,16,17,19,13,10,Mordenkainens Tome of Foes
+Githzerai Monk,Medium,Humanoid,LN,14,38,12,15,12,13,14,10,2,Monster Manual
+Githzerai Zerth,Medium,Humanoid,LN,17,84,13,18,15,16,17,12,6,Monster Manual
+Gnoll,Medium,Humanoid,CE,15,22,14,12,11,6,10,7,0.5,Monster Manual
+Gnoll Fang of Yeenoghu,Medium,Humanoid,CE,14,65,17,15,15,10,11,13,4,Monster Manual
+Gnoll Flesh Gnawer,Medium,Humanoid,CE,14,22,12,14,12,8,10,8,1,Volos Guide to Monsters
+Gnoll Hunter,Medium,Humanoid,CE,13,22,14,14,12,8,12,8,0.5,Volos Guide to Monsters
+Gnoll Pack Lord,Medium,Humanoid,CE,15,49,16,14,13,8,11,9,2,Monster Manual
+Gnoll Witherling,Medium,Undead,CE,12,11,14,8,12,5,5,5,0.25,Volos Guide to Monsters
+Flind,Medium,Humanoid,CE,16,127,20,10,19,11,13,12,9,Volos Guide to Monsters
+Deep Gnome (Svirfneblin),Small,Humanoid,NG,15,16,15,14,14,12,10,9,0.5,Monster Manual
+Goblin,small,Humanoid,NE,15,7,8,14,10,10,8,8,0.25,Monster Manual
+Goblin Boss,small,Humanoid,NE,17,21,10,14,10,10,8,10,1,Monster Manual
+Clay Golem,Large,Construct,U,14,133,20,9,18,3,8,1,9,Monster Manual
+Flesh Golem,Medium,Construct,N,9,93,19,9,18,6,10,5,5,Monster Manual
+Iron Golem,Large,Construct,U,20,210,24,9,20,3,11,1,16,Monster Manual
+Stone Golem,Large,Construct,U,17,178,22,9,20,3,11,1,10,Monster Manual
+Gorgon,Large,Construct,U,19,114,20,11,18,2,12,7,5,Monster Manual
+Gray Render,Large,Monstrosity,CN,19,189,19,13,20,3,6,8,12,Mordenkainens Tome of Foes
+Grell,Medium,Aberration,NE,12,55,15,14,13,12,11,9,3,Monster Manual
+Grick,Medium,Monstrosity,N,14,27,14,14,11,3,14,5,2,Monster Manual
+Grick Alpha,Medium,Monstrosity,N,18,75,18,16,15,4,14,9,7,Monster Manual
+Griffon,Large,Monstrosity,U,12,59,18,15,16,2,13,8,2,Monster Manual
+Grimlock,Medium,Humanoid,NE,11,11,16,12,12,9,8,6,0.25,Monster Manual
+Grung,Small,Humanoid,LE,12,11,7,14,15,10,11,10,0.25,Volos Guide to Monsters
+Grung Elite Warrior,Small,Humanoid,LE,13,49,7,16,15,10,11,12,2,Volos Guide to Monsters
+Grung Wildling,Small,Humanoid,LE,13,27,7,16,15,10,15,11,1,Volos Guide to Monsters
+Guard Drake,Medium,Dragon,U,14,52,16,11,16,4,10,7,2,Volos Guide to Monsters
+Guardian Portrait,Medium,Construct,U,5,22,1,1,10,14,10,10,1,Curse of Strahd
+Annis Hag,Large,Fey,CE,17,75,21,12,14,13,14,15,6,Volos Guide to Monsters
+Bheur Hag,Medium,Fey,CE,17,91,13,16,14,12,13,16,7,Volos Guide to Monsters
+Green Hag,Medium,Fey,NE,17,82,18,12,16,13,14,14,3,Monster Manual
+Night Hag,Medium,Fiend,NE,17,112,18,15,16,16,14,16,5,Monster Manual
+Sea Hag,Medium,Fey,CE,14,52,16,13,16,12,12,13,2,Monster Manual
+Harpy,Medium,Monstrosity,CE,11,38,12,13,12,7,10,13,1,Monster Manual
+Hell Hound,Medium,Fiend,LE,15,45,17,12,14,6,13,6,3,Monster Manual
+Helmed Horror,Medium,Construct,N,20,60,18,13,16,10,10,10,4,Monster Manual
+Hippogriff,Large,Monstrosity,U,11,19,17,13,13,2,12,8,1,Monster Manual
+Hobgoblin,Medium,Humanoid,LE,18,11,13,12,12,10,10,9,0.5,Monster Manual
+Hobgoblin Captain,Medium,Humanoid,LE,17,39,15,14,14,12,10,13,3,Monster Manual
+Hobgoblin Devastator,Medium,Humanoid,LE,13,45,13,12,14,16,13,11,4,Volos Guide to Monsters
+Hobgoblin Iron Shadow,Medium,Humanoid,LE,15,32,14,16,15,14,15,11,2,Volos Guide to Monsters
+Hobgoblin Warlord,Medium,Humanoid,LE,20,97,16,14,16,14,11,15,6,Monster Manual
+Homunculus,Tiny,Construct,N,13,5,4,15,11,10,10,7,0,Monster Manual
+Hook Horror,Large,Monstrosity,N,15,75,18,10,15,6,12,7,3,Monster Manual
+Howler,Large,Fiend,CE,16,90,17,16,15,5,20,6,8,Mordenkainens Tome of Foes
+Howling Hatred Initiate,Medium,Humanoid,NE,13,9,10,15,10,10,9,11,0.13,Princes of the Apocalypse
+Howling Hatred Priest,Medium,Humanoid,NE,15,45,12,16,10,14,10,14,2,Princes of the Apocalypse
+Feathergale Knight,Medium,Humanoid,LE,16,33,14,14,12,11,10,14,1,Princes of the Apocalypse
+Hurricane,Medium,Humanoid,LE,14,33,12,16,13,10,12,10,2,Princes of the Apocalypse
+Skyweaver,Medium,Humanoid,CE,12,44,8,14,12,11,10,16,3,Princes of the Apocalypse
+Hulking Crab,Huge,Beast,U,17,76,19,8,16,3,11,3,5,Storm Kings Thunder
+Hydra,Huge,Monstrosity,U,15,172,20,12,20,2,10,7,8,Monster Manual
+Ice Toad,Medium,Monstrosity,N,12,32,13,10,14,8,10,6,1,Rise of Tiamat
+Inevitable Marut,Large,Construct,LN,22,432,28,12,26,19,15,18,25,Mordenkainens Tome of Foes
+Intellect Devourer,Tiny,Aberration,LE,12,21,6,14,13,12,11,10,2,Monster Manual
+Invisible Stalker,Medium,Elemental,N,14,104,16,19,14,10,15,11,6,Monster Manual
+Ixitxachitl,Small,Aberration,CE,15,18,12,16,13,12,13,7,0.25,Out of the Abyss
+Vampiric Ixitxachitl,Medium,Aberration,CE,16,44,14,18,13,12,13,7,2,Out of the Abyss
+Jackalwere,Medium,Humanoid,CE,12,18,11,15,11,13,11,10,0.5,Monster Manual
+Jaculi,Large,Beast,U,14,16,15,14,11,2,8,3,0.5,Tomb of Annihilation
+Kalka-Kylla,Large,Monstrosity,N,15,85,17,12,16,15,16,12,3,Tales from the Yawning Portal
+Kamadan,Large,Monstrosity,U,13,67,16,16,14,3,14,10,4,Tomb of Annihilation
+Kelpie,Medium,Plant,NE,14,67,14,14,16,7,12,10,4,Tales from the Yawning Portal
+Kenku,Medium,Humanoid,CN,13,13,10,16,10,11,10,10,0.25,Monster Manual
+Ki-Rin,Huge,Celestial,LG,20,152,21,16,16,19,20,20,12,Volos Guide to Monsters
+Kobold,Small,Humanoid,LE,12,5,7,15,9,8,7,8,0.13,Monster Manual
+Kobold Dragonshield,Small,Humanoid,LE,15,44,12,15,14,8,9,10,1,Volos Guide to Monsters
+Kobold Inventor,Small,Humanoid,LE,12,13,7,15,12,8,7,8,0.25,Volos Guide to Monsters
+Kobold Scale Sorcerer,Small,Humanoid,LE,15,27,7,15,14,10,9,14,1,Volos Guide to Monsters
+Winged Kobold,Small,Humanoid,LE,13,7,7,16,9,8,7,8,0.25,Monster Manual
+Korred,Small,Fey,CN,17,102,23,14,20,10,15,9,7,Volos Guide to Monsters
+Kraken,Gargantuan,Monstrosity,CE,18,472,30,11,25,22,18,20,23,Monster Manual
+Malformed Kraken,Huge,Monstrosity,CE,17,172,25,11,20,11,15,15,10,Tales from the Yawning Portal
+Kruthik Hive Lord,Large,Monstrosity,U,20,102,19,16,17,10,14,10,5,Mordenkainens Tome of Foes
+Adult Kruthik,Medium,Monstrosity,U,18,39,15,16,15,7,12,8,2,Mordenkainens Tome of Foes
+Young Kruthik,Small,Monstrosity,U,16,9,13,16,13,4,10,6,0.13,Mordenkainens Tome of Foes
+Kuo-Toa,Medium,Humanoid,NE,13,13,13,10,11,11,10,8,0.25,Monster Manual
+Kuo-Toa Archpriest,Medium,Humanoid,NE,13,97,16,14,16,13,16,14,6,Monster Manual
+Kuo-Toa Whip,Medium,Humanoid,NE,11,65,14,10,14,12,14,11,1,Monster Manual
+Lamia,Large,Monstrosity,CE,13,97,16,13,15,14,15,16,4,Monster Manual
+Leucrotta,Large,Monstrosity,CE,14,67,18,14,15,9,12,6,3,Volos Guide to Monsters
+Lich,Medium,Undead,ANY EVIL,17,135,11,16,16,20,14,16,21,Monster Manual
+Lizard King/Queen,Medium,Humanoid,CE,15,78,17,12,15,11,11,15,4,Monster Manual
+Lizardfolk,Medium,Humanoid,N,15,22,15,10,13,7,12,7,0.5,Monster Manual
+Lizardfolk Shaman,Medium,Humanoid,N,13,27,15,10,13,10,15,8,2,Monster Manual
+Werebear,Medium,Humanoid,NG,11,135,19,10,17,11,12,12,5,Monster Manual
+Wereboar,Medium,Humanoid,NE,11,78,17,10,15,10,11,8,4,Monster Manual
+Wererat,Medium,Humanoid,LE,12,33,10,15,12,11,10,8,2,Monster Manual
+Wereraven,Medium,Humanoid,LG,12,31,10,15,11,13,15,14,2,Curse of Strahd
+Weretiger,Medium,Humanoid,N,12,120,17,15,16,10,13,11,4,Monster Manual
+Werewolf,Medium,Humanoid,CE,12,58,15,13,14,10,11,10,3,Monster Manual
+Magmin,Small,Elemental,CN,14,9,7,15,12,8,11,10,0.5,Monster Manual
+Manticore,Large,Monstrosity,LE,14,68,17,16,17,7,12,8,3,Monster Manual
+Mantrap,Large,Plant,U,12,45,15,14,12,1,10,2,1,Tomb of Annihilation
+Meazel,Medium,Humanoid,NE,13,35,8,17,9,14,13,10,1,Mordenkainens Tome of Foes
+Medusa,Medium,Monstrosity,LE,15,127,10,15,16,12,13,15,6,Monster Manual
+Meenlock,Small,Fey,NE,15,31,7,15,12,11,10,8,2,Volos Guide to Monsters
+Dust Mephit,Small,Elemental,NE,12,17,5,14,10,9,11,10,0.5,Monster Manual
+Ice Mephit,Small,Elemental,NE,11,21,7,13,10,9,11,12,0.5,Monster Manual
+Magma Mephit,Small,Elemental,NE,11,22,8,12,12,7,10,10,0.5,Monster Manual
+Mud Mephit,Small,Elemental,NE,11,27,8,12,12,9,11,7,0.25,Monster Manual
+Smoke Mephit,Small,Elemental,NE,12,22,6,14,12,10,10,11,0.25,Monster Manual
+Steam Mephit,Small,Elemental,NE,10,21,5,11,10,11,10,12,0.25,Monster Manual
+Merfolk,Medium,Humanoid,N,11,11,10,13,12,11,11,12,0.13,Monster Manual
+Merrow,Large,Monstrosity,CE,13,45,18,10,15,8,10,9,2,Monster Manual
+Mimic,Medium,Monstrosity,N,12,58,17,12,15,5,13,8,2,Monster Manual
+Mind Flayer,Medium,Aberration,LE,15,71,11,12,12,19,17,17,7,Monster Manual
+Illithlich,Medium,Undead,ANY EVIL,17,135,11,16,16,20,14,16,22,Volos Guide to Monsters
+Alhoon,Medium,Undead,ANY EVIL,15,120,11,12,16,19,17,17,10,Volos Guide to Monsters
+Elder Brain,Large,Aberration,LE,10,210,15,10,20,21,19,24,14,Volos Guide to Monsters
+Ulitharid,Large,Aberration,LE,15,127,15,12,15,21,19,21,9,Volos Guide to Monsters
+Mindwitness,Large,Aberration,LE,15,75,10,14,14,15,15,10,5,Volos Guide to Monsters
+Minotaur,Large,Monstrosity,CE,14,76,18,11,16,6,16,9,3,Monster Manual
+Ape,Medium,Beast,U,12,19,16,14,14,6,12,7,0.5,Monster Manual
+Awakened Shrub,Small,Plant,U,9,10,3,8,11,10,10,6,0,Monster Manual
+Awakened Tree,Huge,Plant,U,13,59,19,6,15,10,10,7,2,Monster Manual
+Axe Beak,Large,Beast,U,11,19,14,12,12,2,10,5,0.25,Monster Manual
+Baboon,Small,Beast,U,12,3,8,14,11,4,12,6,0,Monster Manual
+Badger,Tiny,Beast,U,10,3,4,11,12,2,12,5,0,Monster Manual
+Bat,Tiny,Beast,U,12,1,2,15,8,2,12,4,0,Monster Manual
+Black Bear,Medium,Beast,U,11,19,15,10,14,2,12,7,0.5,Monster Manual
+Blink Dog,Medium,Fey,LG,13,22,12,17,12,10,13,11,0.25,Monster Manual
+Blood Hawk,Small,Beast,U,12,7,6,14,10,3,14,5,0.13,Monster Manual
+Boar,Medium,Beast,U,11,11,13,11,12,2,9,5,0.25,Monster Manual
+Brown Bear,Large,Beast,U,11,34,19,10,16,2,13,7,1,Monster Manual
+Camel,Large,Beast,U,9,15,16,8,14,2,8,5,0.13,Monster Manual
+Cat,Tiny,Beast,U,12,2,3,15,10,3,12,7,0,Monster Manual
+Constrictor Snake,large,Beast,U,12,13,15,14,12,1,10,3,0.25,Monster Manual
+Crab,Tiny,Beast,U,11,2,2,11,10,1,8,2,0,Monster Manual
+Crocodile,Large,Beast,U,12,19,15,10,13,2,10,5,0.5,Monster Manual
+Death Dog,Medium,Monstrosity,NE,12,39,15,14,14,3,13,6,1,Monster Manual
+Deer,Medium,Beast,U,13,4,11,16,11,2,14,5,0,Monster Manual
+Dire Wolf,Large,Beast,U,14,37,17,15,15,3,12,7,1,Monster Manual
+Draft Horse,Large,Beast,U,10,19,18,10,12,2,11,7,0.25,Monster Manual
+Eagle,Small,Beast,U,12,3,6,15,10,2,14,7,0,Monster Manual
+Elephant,Huge,Beast,U,12,76,22,9,17,3,11,6,4,Monster Manual
+Elk,Large,Beast,U,10,13,16,10,12,2,10,6,0.25,Monster Manual
+Flying Snake,Tiny,Beast,U,14,5,4,18,11,2,12,5,0.13,Monster Manual
+Frog,Tiny,Beast,U,11,1,1,13,8,1,8,3,0,Monster Manual
+Giant Ape,Huge,Beast,U,12,157,23,14,18,7,12,7,7,Monster Manual
+Giant Badger,Medium,Beast,U,10,13,13,10,15,2,12,5,0.25,Monster Manual
+Giant Bat,Large,Beast,U,13,22,15,16,11,2,12,6,0.25,Monster Manual
+Giant Boar,Large,Beast,U,12,42,17,10,16,2,7,5,2,Monster Manual
+Giant Centipede,small,Beast,U,13,4,5,14,12,1,7,3,0.25,Monster Manual
+Giant Constrictor Snake,Huge,Beast,U,12,60,19,14,12,1,10,3,2,Monster Manual
+Giant Crab,Medium,Beast,U,15,13,13,15,11,1,9,3,0.13,Monster Manual
+Giant Crocodile,Huge,Beast,U,14,85,21,9,17,2,10,7,5,Monster Manual
+Giant Eagle,Large,Beast,U,13,26,16,17,13,8,14,10,1,Monster Manual
+Giant Elk,Huge,Beast,U,14,42,19,16,14,7,14,10,2,Monster Manual
+Giant Fire Beetle,small,Beast,U,13,4,8,10,12,1,7,3,0,Monster Manual
+Giant Frog,Medium,Beast,U,11,18,12,13,11,2,10,3,0.25,Monster Manual
+Giant Goat,Large,Beast,U,11,19,17,11,12,3,12,6,0.5,Monster Manual
+Giant Hyena,Large,Beast,U,12,45,16,14,14,2,12,7,1,Monster Manual
+Giant Lizard,Large,Beast,U,12,19,15,12,13,2,10,5,0.25,Monster Manual
+Giant Octopus,Large,Beast,U,11,52,17,13,13,4,10,4,1,Monster Manual
+Giant Owl,Large,Beast,U,12,19,13,15,12,8,13,10,0.25,Monster Manual
+Giant Poisonous Snake,Medium,Beast,U,14,11,10,18,13,2,10,3,0.25,Monster Manual
+Giant Rat,Small,Beast,U,12,7,7,15,11,2,10,4,0.13,Monster Manual
+Giant Scorpion,Large,Beast,U,15,52,15,13,15,1,9,3,3,Monster Manual
+Giant Sea Horse,Large,Beast,U,13,16,12,15,11,2,12,5,0.5,Monster Manual
+Giant Shark,Huge,Beast,U,13,126,23,11,21,1,10,5,5,Monster Manual
+Giant Spider,Large,Beast,U,14,26,14,16,12,2,11,4,1,Monster Manual
+Giant Toad,Large,Beast,U,11,39,15,13,13,2,10,3,1,Monster Manual
+Giant Vulture,Large,Beast,NE,10,22,15,10,15,6,12,7,1,Monster Manual
+Giant Wasp,Medium,Beast,U,12,13,10,14,10,1,10,3,0.5,Monster Manual
+Giant Weasel,Medium,Beast,U,13,9,11,16,10,4,12,5,0.13,Monster Manual
+Giant Wolf Spider,Medium,Beast,U,13,11,12,16,13,3,12,4,0.25,Monster Manual
+Goat,Medium,Beast,U,10,4,12,10,11,2,10,5,0,Monster Manual
+Hawk,Tiny,Beast,U,13,1,5,16,8,2,14,6,0,Monster Manual
+Hunter Shark,Large,Beast,U,12,45,18,13,15,1,10,4,2,Monster Manual
+Hyena,Medium,Beast,U,11,5,11,13,12,2,12,5,0,Monster Manual
+Jackal,Small,Beast,U,12,3,8,15,11,3,12,6,0,Monster Manual
+Killer Whale,Huge,Beast,U,12,90,19,10,13,3,12,7,3,Monster Manual
+Lion,Large,Beast,U,12,26,17,15,13,3,12,8,1,Monster Manual
+Lizard,Tiny,Beast,U,10,2,2,11,10,1,8,3,0,Monster Manual
+Mammoth,Huge,Beast,U,13,126,24,9,21,3,11,6,6,Monster Manual
+Mastiff,Medium,Beast,U,12,5,13,14,12,3,12,7,0.13,Monster Manual
+Mule,Medium,Beast,U,10,11,14,10,13,2,10,5,0.13,Monster Manual
+Octopus,Small,Beast,U,12,3,4,15,11,3,10,4,0,Monster Manual
+Owl,Tiny,Beast,U,11,1,3,13,8,2,12,7,0,Monster Manual
+Panther,Medium,Beast,U,12,13,14,15,10,3,14,7,0.25,Monster Manual
+Phase Spider,Large,Monstrosity,U,13,32,15,15,12,6,10,6,3,Monster Manual
+Poisonous Snake,Tiny,Beast,U,13,13,2,16,11,1,10,3,0.13,Monster Manual
+Polar Bear,Large,Beast,U,12,42,20,10,16,2,13,7,2,Monster Manual
+Pony,Medium,Beast,U,10,11,15,10,13,2,11,7,0.13,Monster Manual
+Quipper,Tiny,Beast,U,13,1,2,16,9,1,7,2,0,Monster Manual
+Rat,Tiny,Beast,U,10,1,2,11,9,2,10,4,0,Monster Manual
+Raven,Tiny,Beast,U,12,1,2,14,8,2,12,6,0,Monster Manual
+Reef Shark,Medium,Beast,U,12,22,14,13,13,1,10,4,0.5,Monster Manual
+Rhinoceros,Large,Beast,U,11,45,21,8,15,2,12,6,2,Monster Manual
+Riding Horse,Large,Beast,U,10,13,16,10,12,2,11,7,0.25,Monster Manual
+Saber-Toothed Tiger,Large,Beast,U,12,52,18,14,15,3,12,8,2,Monster Manual
+Scorpion,Tiny,Beast,U,11,1,2,11,8,1,8,2,0,Monster Manual
+Sea Horse,Tiny,Beast,U,11,1,1,12,8,1,10,2,0,Monster Manual
+Spider,Tiny,Beast,U,12,1,2,14,8,1,10,2,0,Monster Manual
+Swarm of Bats,Medium,Beast,U,12,22,5,15,10,2,12,4,0.25,Monster Manual
+Swarm of Insects,Medium,Beast,U,12,22,3,13,10,1,7,1,0.5,Monster Manual
+Swarm of Poisonous Snakes,Medium,Beast,U,14,36,8,18,11,1,10,3,2,Monster Manual
+Swarm of Quippers,Medium,Beast,U,13,28,13,16,9,1,7,2,1,Monster Manual
+Swarm of Rats,Medium,Beast,U,10,24,9,11,9,2,10,3,0.25,Monster Manual
+Swarm of Ravens,Medium,Beast,U,12,24,6,14,8,3,12,6,0.25,Monster Manual
+Tiger,Large,Beast,U,12,37,17,15,14,3,12,8,1,Monster Manual
+Vulture,Medium,Beast,U,10,5,7,10,13,2,12,4,0,Monster Manual
+Warhorse,Large,Beast,U,11,19,18,12,13,2,12,7,0.5,Monster Manual
+Weasel,Tiny,Beast,U,13,1,3,16,8,2,12,3,0,Monster Manual
+Winter Wolf,Large,Monstrosity,NE,13,75,18,13,14,7,12,8,3,Monster Manual
+Wolf,Medium,Beast,U,13,11,12,15,12,3,12,6,0.25,Monster Manual
+Worg,Large,Monstrosity,NE,13,26,16,13,13,7,11,8,0.5,Monster Manual
+Duodrone,Medium,Construct,LN,15,11,11,13,12,6,10,7,0.25,Monster Manual
+Monodrone,Medium,Construct,LN,15,5,1,13,12,4,10,5,0.13,Monster Manual
+Pentadrone,Large,Construct,LN,16,32,15,14,12,10,10,13,2,Monster Manual
+Quadrone,Medium,Construct,LN,16,22,12,14,12,10,10,11,1,Monster Manual
+Tridrone,Medium,Construct,LN,15,16,12,13,12,9,10,9,0.5,Monster Manual
+Mongrelfolk,Medium,Humanoid,ANY,11,26,12,9,15,9,10,6,0.25,Curse of Strahd
+Morkoth,Medium,Aberration,CE,17,130,14,14,14,20,15,13,11,Volos Guide to Monsters
+Mummy,Medium,Undead,LE,11,58,16,8,15,6,10,12,3,Monster Manual
+Mummy Lord,Medium,Undead,LE,17,97,18,10,17,11,18,16,15,Monster Manual
+Myconid Adult,Medium,Plant,LN,12,22,10,10,12,10,13,7,0.5,Monster Manual
+Myconid Sovereign,Large,Plant,LN,13,60,12,10,14,13,15,10,2,Monster Manual
+Myconid Sprout,Small,Plant,LN,10,7,8,10,10,8,11,5,0,Monster Manual
+Naergoth Bladelord,Medium,Undead,NE,18,135,20,12,16,12,14,16,11,Rise of Tiamat
+Bone Naga,Large,Undead,LE,15,58,15,16,12,15,15,16,4,Monster Manual
+Guardian Naga,Large,Monstrosity,LG,18,127,19,18,16,16,19,18,10,Monster Manual
+Spirit Naga,Large,Monstrosity,CE,15,75,18,17,14,16,15,16,8,Monster Manual
+Nagpa,Medium,Humanoid,NE,19,187,9,15,12,23,18,21,17,Mordenkainens Tome of Foes
+Neogi,Small,Aberration,LE,15,33,6,16,14,13,12,15,3,Volos Guide to Monsters
+Neogi Hatchling,Tiny,Aberration,LE,11,7,3,13,10,6,10,9,0.13,Volos Guide to Monsters
+Neogi Master,Medium,Aberration,LE,15,71,6,16,14,16,12,18,4,Volos Guide to Monsters
+Neothelid,Gargantuan,Aberration,CE,16,325,27,7,21,3,16,12,13,Volos Guide to Monsters
+Nereid,Medium,Fey,ANY CHAOTIC,13,44,10,17,12,13,14,16,2,Tales from the Yawning Portal
+Nightmare,Large,Fiend,NE,13,68,18,15,16,10,13,15,3,Monster Manual
+Nightwalker,Huge,Undead,CE,14,297,22,19,24,6,9,8,20,Mordenkainens Tome of Foes
+Nilbog,Small,Humanoid,CE,13,7,8,14,10,10,8,15,1,Volos Guide to Monsters
+Nothic,Medium,Aberration,NE,15,45,14,16,16,13,10,8,2,Monster Manual
+Abjurer,Medium,Humanoid,ANY,12,84,9,14,14,18,12,11,9,Volos Guide to Monsters
+Acolyte,Medium,Humanoid,ANY,10,9,10,10,10,10,14,11,0.25,Monster Manual
+Apprentice Wizard,Medium,Humanoid,ANY,10,9,10,10,10,14,10,11,0.25,Volos Guide to Monsters
+Archdruid,Medium,Humanoid,ANY,16,132,10,14,12,12,20,11,12,Volos Guide to Monsters
+Archer,Medium,Humanoid,ANY,16,75,11,18,16,11,13,10,3,Volos Guide to Monsters
+Archmage,Medium,Humanoid,ANY,12,99,10,14,12,20,15,16,12,Monster Manual
+Assassin,Medium,Humanoid,NOT GOOD,15,78,11,16,14,13,11,10,8,Monster Manual
+Bandit,Medium,Humanoid,NOT LAWFUL,12,11,11,12,12,10,10,10,0.13,Monster Manual
+Bandit Captain,Medium,Humanoid,NOT LAWFUL,15,65,15,16,14,14,11,14,2,Monster Manual
+Bard,Medium,Humanoid,ANY,15,44,11,14,12,10,13,14,2,Volos Guide to Monsters
+Berserker,Medium,Humanoid,ANY CHAOTIC,13,67,16,12,17,9,11,9,2,Monster Manual
+Blackguard,Medium,Humanoid,NOT GOOD,18,153,18,11,18,11,14,15,8,Volos Guide to Monsters
+Champion,Medium,Humanoid,ANY,18,143,20,15,14,10,14,12,9,Volos Guide to Monsters
+Commoner,Medium,Humanoid,ANY,10,4,10,10,10,10,10,10,0,Monster Manual
+Conjurer,Medium,Humanoid,ANY,12,40,9,14,11,17,12,11,6,Volos Guide to Monsters
+Cult Fanatic,Medium,Humanoid,NOT GOOD,13,33,11,14,12,10,13,14,2,Monster Manual
+Cultist,Medium,Humanoid,NOT GOOD,12,9,11,12,10,10,11,10,0.13,Monster Manual
+Diviner,Medium,Humanoid,ANY,12,67,9,14,11,18,12,11,8,Volos Guide to Monsters
+Druid,Medium,Humanoid,ANY,11,27,10,12,13,12,15,11,2,Monster Manual
+Enchanter,Medium,Humanoid,ANY,12,40,9,14,11,17,12,11,5,Volos Guide to Monsters
+Evoker,Medium,Humanoid,ANY,12,66,9,14,12,17,12,11,9,Volos Guide to Monsters
+Gladiator,Medium,Humanoid,ANY,16,112,18,15,16,10,12,15,5,Monster Manual
+Guard,Medium,Humanoid,ANY,16,11,13,12,12,10,11,10,0.13,Monster Manual
+Illusionist,Medium,Humanoid,ANY,12,38,9,14,13,16,11,12,3,Volos Guide to Monsters
+Knight,Medium,Humanoid,ANY,18,52,16,11,14,11,11,15,3,Monster Manual
+Kraken Priest,Medium,Humanoid,ANY,10,75,12,10,16,10,15,14,5,Volos Guide to Monsters
+Mage,Medium,Humanoid,ANY,12,40,9,14,11,17,12,11,6,Monster Manual
+Martial Arts Adept,Medium,Humanoid,ANY,16,60,11,17,13,11,16,10,3,Volos Guide to Monsters
+Master Thief,Medium,Humanoid,ANY,16,84,11,18,14,11,11,12,5,Volos Guide to Monsters
+Necromancer,Medium,Humanoid,ANY,12,66,9,14,12,17,12,11,9,Volos Guide to Monsters
+Noble,Medium,Humanoid,ANY,15,9,11,12,11,12,14,16,0.13,Monster Manual
+Priest,Medium,Humanoid,ANY,13,27,10,10,12,13,16,13,2,Monster Manual
+Scout,Medium,Humanoid,ANY,13,16,11,14,12,11,13,11,0.5,Monster Manual
+Spy,Medium,Humanoid,ANY,12,27,10,15,10,12,14,16,1,Monster Manual
+Swashbuckler,Medium,Humanoid,NOT LAWFUL,17,66,12,18,12,14,11,15,3,Volos Guide to Monsters
+Thug,Medium,Humanoid,NOT GOOD,11,32,15,11,14,10,10,11,0.5,Monster Manual
+Transmuter,Medium,Humanoid,ANY,12,40,9,14,11,17,12,11,5,Volos Guide to Monsters
+Tribal Warrior,Medium,Humanoid,ANY,12,11,13,11,12,8,11,8,0.13,Monster Manual
+Veteran,Medium,Humanoid,ANY,17,58,16,13,14,10,11,10,3,Monster Manual
+War Priest,Medium,Humanoid,ANY,18,117,16,10,14,11,17,13,9,Volos Guide to Monsters
+Warlock of the Archfey,Medium,Humanoid,ANY,11,49,9,13,11,11,12,18,4,Volos Guide to Monsters
+Warlock of the Fiend,Medium,Humanoid,ANY,12,78,10,14,15,12,12,18,7,Volos Guide to Monsters
+Warlock of the Great Old One,Medium,Humanoid,ANY,12,91,9,14,15,12,12,18,6,Volos Guide to Monsters
+Warlord,Medium,Humanoid,ANY,18,229,20,16,18,12,12,18,12,Volos Guide to Monsters
+Oblex Spawn,Tiny,Ooze,LE,13,18,8,16,15,14,11,10,0.25,Mordenkainens Tome of Foes
+Adult Oblex,Medium,Ooze,LE,14,75,8,19,16,19,12,15,5,Mordenkainens Tome of Foes
+Elder Oblex,Huge,Ooze,LE,16,115,15,16,21,22,13,18,10,Mordenkainens Tome of Foes
+Ogre,Large,Giant,CE,11,59,19,8,16,5,7,7,2,Monster Manual
+Ogre Battering Ram,Large,Giant,CE,14,59,19,8,16,5,7,7,4,Mordenkainens Tome of Foes
+Ogre Bolt Launcher,Large,Giant,CE,13,59,19,12,16,5,7,7,2,Mordenkainens Tome of Foes
+Ogre Chain Brute,Large,Giant,CE,11,59,19,8,16,5,7,7,3,Mordenkainens Tome of Foes
+Ogre Howdah,Large,Giant,CE,13,59,19,8,16,5,7,7,2,Mordenkainens Tome of Foes
+Half Ogre,Large,Giant,ANY CHAOTIC,12,30,17,10,14,7,9,10,1,Monster Manual
+Oni,Large,Giant,LE,16,110,19,11,16,14,12,15,7,Monster Manual
+Ooze Master,Huge,Undead,LE,9,138,16,1,20,17,10,16,10,Tales from the Yawning Portal
+Black Pudding,Large,Ooze,U,7,85,16,5,16,1,6,1,4,Monster Manual
+Gelatinous Cube,Large,Ooze,U,6,84,14,3,20,1,6,1,2,Monster Manual
+Gray Ooze,Medium,Ooze,U,8,22,12,6,16,1,6,2,0.5,Monster Manual
+Ochre Jelly,Large,Ooze,U,8,45,15,6,14,2,6,1,2,Monster Manual
+Orc,Medium,Humanoid,CE,13,15,16,12,16,7,11,10,0.5,Monster Manual
+Orc Blade of Ilneval,Medium,Humanoid,CE,18,60,17,11,17,10,12,14,4,Volos Guide to Monsters
+Orc Claw of Luthic,Medium,Humanoid,CE,14,45,14,15,16,10,15,11,2,Volos Guide to Monsters
+Orc Eye of Gruumsh,Medium,Humanoid,CE,16,45,16,12,16,9,13,12,2,Monster Manual
+Orc Hand of Yurtrus,Medium,Humanoid,CE,12,30,12,11,16,11,14,9,2,Volos Guide to Monsters
+Orc Nurtured One of Yurtrus,Medium,Humanoid,CE,9,30,15,8,16,7,11,7,0.5,Volos Guide to Monsters
+Orc Red Fang of Shargaas,Medium,Humanoid,CE,15,52,11,16,15,9,11,9,3,Volos Guide to Monsters
+Orc War Chief,Medium,Humanoid,CE,16,93,18,12,18,11,11,16,4,Monster Manual
+Orog,Medium,Humanoid,CE,18,42,18,12,18,12,11,12,2,Monster Manual
+Tanarukk,Medium,Fiend,CE,14,95,18,13,20,9,9,9,5,Volos Guide to Monsters
+Otyugh,Large,Aberration,N,14,114,16,11,19,6,13,6,5,Monster Manual
+Owlbear,Large,Monstrosity,U,13,59,20,12,17,3,12,7,3,Monster Manual
+Pegasus,Large,Celestial,CG,12,59,18,15,16,10,15,13,2,Monster Manual
+Peryton,Medium,Monstrosity,CE,13,33,16,12,13,9,12,10,2,Monster Manual
+Phantom Warrior,Medium,Undead,ANY,16,45,16,11,16,8,10,15,3,Curse of Strahd
+Piercer,Medium,Monstrosity,U,15,22,10,13,16,1,7,3,0.5,Monster Manual
+Pixie,Tiny,Fey,NG,15,1,2,20,8,10,14,15,0.25,Monster Manual
+Prince of Apocalypse Imix,Huge,Elemental,NE,17,325,19,24,22,15,16,23,19,Princes of the Apocalypse
+Prince of Apocalypse Ogremoch,Gargantuan,Elemental,NE,20,526,26,11,28,11,15,22,20,Princes of the Apocalypse
+Prince of Apocalypse Olhydra,Huge,Elemental,NE,18,324,21,22,24,17,18,23,18,Princes of the Apocalypse
+Prince of Apocalypse Yan-C-BIn,Huge,Elemental,NE,22,283,18,24,24,16,21,23,18,Princes of the Apocalypse
+Pseudodragon,Tiny,Dragon,NG,13,7,6,15,13,10,12,10,0.25,Monster Manual
+Pterafolk,Large,Monstrosity,NE,12,26,15,13,12,9,10,11,1,Tomb of Annihilation
+Purple Worm,Gargantuan,Monstrosity,U,18,247,28,7,22,1,8,4,15,Monster Manual
+Purple Worm Wormling,Large,Monstrosity,U,12,42,16,7,16,1,6,2,2,Storm Kings Thunder
+Quaggoth,Medium,Humanoid,CN,13,45,17,12,16,6,12,7,2,Monster Manual
+Quickling,Tiny,Fey,CE,16,10,4,23,13,10,12,7,1,Volos Guide to Monsters
+Rakshasa,Medium,Fiend,LE,16,110,14,17,18,13,16,20,13,Monster Manual
+Redcap,Small,Fey,CE,13,45,18,13,18,10,12,9,3,Volos Guide to Monsters
+Remorhaz,Huge,Monstrosity,U,17,195,24,13,21,4,10,5,11,Monster Manual
+Young Remorhaz,Large,Monstrosity,U,14,93,18,13,17,3,10,4,5,Monster Manual
+Retriever,Large,Construct,LE,19,210,22,16,20,3,11,4,14,Mordenkainens Tome of Foes
+Revenant,Medium,Undead,N,13,136,18,14,18,13,16,18,5,Monster Manual
+Roc,Gargantuan,Monstrosity,U,15,248,28,10,20,3,10,9,11,Monster Manual
+Roper,Large,Monstrosity,NE,20,93,18,8,17,7,16,6,5,Monster Manual
+Rust Monster,Medium,Monstrosity,U,14,27,13,12,13,2,13,6,0.5,Monster Manual
+Sahuagin,Medium,Humanoid,LE,12,22,13,11,12,12,13,9,0.5,Monster Manual
+Sahuagin Baron,Large,Humanoid,LE,16,76,19,15,16,14,13,17,5,Monster Manual
+Sahuagin Priestess,Medium,Humanoid,LE,12,33,13,11,12,12,14,13,2,Monster Manual
+Salamander,Large,Elemental,NE,15,90,18,14,15,11,10,12,5,Monster Manual
+Fire Snake,Medium,Elemental,NE,14,22,12,14,11,7,10,8,1,Monster Manual
+Frost Salamander,Huge,Elemental,U,17,168,20,12,18,7,11,7,9,Mordenkainens Tome of Foes
+Satyr,Medium,Fey,CN,14,31,12,16,11,12,10,14,0.5,Monster Manual
+Scarecrow,Medium,Construct,CE,11,36,11,13,11,10,10,13,1,Monster Manual
+Sea Lion,Large,Monstrosity,U,15,90,17,15,15,3,12,8,5,Tales from the Yawning Portal
+Sea Spawn,Medium,Humanoid,NE,11,32,15,8,15,6,10,8,1,Volos Guide to Monsters
+Shadar-Kai Gloom Weaver,Medium,Humanoid,N,14,104,11,18,14,15,12,18,9,Mordenkainens Tome of Foes
+Shadar-Kai Shadow Dancer,Medium,Humanoid,N,15,71,12,16,13,11,12,12,7,Mordenkainens Tome of Foes
+Shadar-Kai Soul Monger,Medium,Humanoid,N,15,123,8,17,14,19,15,13,11,Mordenkainens Tome of Foes
+Shadow,Medium,Undead,CE,12,16,6,14,13,6,10,8,0.5,Monster Manual
+Shadow Mastiff,Medium,Monstrosity,NE,12,33,16,14,13,5,12,5,2,Volos Guide to Monsters
+Shadow Mastiff Alpha,Medium,Monstrosity,NE,12,48,16,14,13,6,12,5,2,Volos Guide to Monsters
+Shambling Mound,Large,Plant,U,15,136,18,8,16,5,10,5,5,Monster Manual
+Shield Guardian,Large,Construct,U,17,142,18,8,18,7,10,3,7,Monster Manual
+Siren,Medium,Fey,CG,14,38,10,18,12,13,14,16,3,Tales from the Yawning Portal
+Skeleton,Medium,Undead,LE,13,13,10,14,15,6,8,5,0.25,Monster Manual
+Giant Skeleton,Huge,Undead,NE,17,115,21,10,20,4,6,6,7,Tales from the Yawning Portal
+Minotaur Skeleton,Large,Undead,LE,12,67,18,11,15,6,8,5,2,Monster Manual
+Warhorse Skeleton,Large,Undead,LE,13,22,18,12,15,2,8,5,0.5,Monster Manual
+Skulk,Medium,Humanoid,CN,14,18,6,19,10,10,7,1,0.5,Mordenkainens Tome of Foes
+Skull Lord,Medium,Undead,LE,18,105,14,16,17,16,15,21,15,Mordenkainens Tome of Foes
+Slaad Tadpole,Tiny,Aberration,CN,12,10,7,15,10,3,5,3,0.13,Monster Manual
+Blue Slaad,Large,Aberration,CN,15,123,20,15,18,7,7,9,7,Monster Manual
+Death Slaad,Medium,Aberration,CE,18,170,20,15,19,15,10,16,10,Monster Manual
+Gray Slaad,Medium,Aberration,CN,18,127,17,17,16,13,8,14,9,Monster Manual
+Green Slaad,Large,Aberration,CN,16,127,18,15,16,11,8,12,8,Monster Manual
+Red Slaad,Large,Aberration,CN,14,93,16,12,16,6,6,7,5,Monster Manual
+Slithering Tracker,Medium,Ooze,CE,14,32,16,19,15,10,14,11,3,Volos Guide to Monsters
+The Angry,Medium,Monstrosity,NE,18,255,17,10,19,8,13,6,13,Mordenkainens Tome of Foes
+The Hungry,Medium,Monstrosity,NE,17,225,19,10,17,6,11,6,11,Mordenkainens Tome of Foes
+The Lonely,Medium,Monstrosity,NE,16,112,16,12,17,6,11,6,9,Mordenkainens Tome of Foes
+The Lost,Medium,Monstrosity,NE,15,78,17,12,15,6,7,5,7,Mordenkainens Tome of Foes
+The Wretched,Small,Monstrosity,NE,15,10,7,12,9,5,6,5,0.25,Mordenkainens Tome of Foes
+Spawn of Kyuss,Medium,Undead,CE,10,76,16,11,18,5,7,3,5,Volos Guide to Monsters
+Specter,Medium,Undead,CE,12,22,1,14,11,10,10,11,1,Monster Manual
+Androsphinx,Large,Monstrosity,LN,17,199,22,10,20,16,18,23,17,Monster Manual
+Gynosphinx,Large,Monstrosity,LN,17,136,18,15,16,18,18,18,11,Monster Manual
+Sprite,Tiny,Fey,NG,15,2,3,18,10,14,13,11,0.25,Monster Manual
+Star Spawn Grue,Small,Aberration,NE,11,17,6,13,10,9,11,6,0.25,Mordenkainens Tome of Foes
+Star Spawn Hulk,Large,Aberration,CE,16,136,20,8,21,7,12,9,10,Mordenkainens Tome of Foes
+Star Spawn Larva Mage,Medium,Aberration,CE,16,168,17,12,23,18,12,16,16,Mordenkainens Tome of Foes
+Star Spawn Mangler,Medium,Aberration,CE,14,71,8,18,12,11,12,7,5,Mordenkainens Tome of Foes
+Star Spawn Seer,Medium,Aberration,NE,17,153,14,12,18,22,19,16,13,Mordenkainens Tome of Foes
+Female Steeder,Large,Monstrosity,U,14,30,15,16,14,2,10,3,1,Mordenkainens Tome of Foes
+Male Steeder,Medium,Monstrosity,U,12,13,15,12,14,2,10,3,0.25,Mordenkainens Tome of Foes
+Steel Predator,Large,Construct,LE,20,207,24,17,22,4,14,6,16,Mordenkainens Tome of Foes
+Stirge,Tiny,Beast,U,14,2,4,16,11,2,8,6,0.13,Monster Manual
+Stone Cursed,Medium,Construct,LE,17,19,16,5,14,5,8,7,1,Mordenkainens Tome of Foes
+Stone Juggernaut,Large,Construct,U,15,157,22,1,21,2,11,3,12,Tomb of Annihilation
+Strahds Animated Armor,Medium,Construct,LE,21,112,17,13,16,9,10,9,6,Curse of Strahd
+Su-Monster,Medium,Monstrosity,CE,12,27,14,15,12,9,13,9,1,Tomb of Annihilation
+Succubus/Incubus,Medium,Fiend,NE,15,66,8,17,13,15,12,20,4,Monster Manual
+Sword Wraith Commander,Medium,Undead,LE,18,127,18,14,18,11,12,14,8,Mordenkainens Tome of Foes
+Sword Wraith Warrior,Medium,Undead,LE,16,45,18,12,17,6,9,10,3,Mordenkainens Tome of Foes
+Tabaxi Hunter,Medium,Humanoid,CG,14,40,10,17,11,13,14,15,1,Tomb of Annihilation
+Tabaxi Minstrel,Medium,Humanoid,CG,12,22,10,15,11,14,12,16,0.25,Tomb of Annihilation
+Tarrasque,Gargantuan,Monstrosity,U,25,676,30,11,30,3,11,11,30,Monster Manual
+Tecuziztecatl,Large,Monstrosity,N,13,102,17,10,16,15,16,13,4,Tales from the Yawning Portal
+Thayan Apprentice,Medium,Humanoid,NOT GOOD,12,27,10,14,12,15,13,11,2,Tales from the Yawning Portal
+Thayan Warrior,Medium,Humanoid,NOT GOOD,16,52,16,13,14,10,11,11,2,Tales from the Yawning Portal
+Thorn Slinger,Large,Plant,U,11,32,13,12,12,1,10,1,0.5,Tales from the Yawning Portal
+Thorny,Medium,Plant,N,14,27,13,12,13,2,10,6,1,Volos Guide to Monsters
+Thri-Kreen,Medium,Humanoid,CN,15,33,12,15,13,8,12,7,1,Monster Manual
+Tiamat,Gargantuan,Fiend,CE,25,615,30,10,30,26,26,28,30,Rise of Tiamat
+Tiny Servant,Tiny,Construct,U,15,10,4,16,10,2,10,1,1,Xanathars Guide to Everything
+Tlincalli,Large,Monstrosity,NE,15,85,16,13,16,8,12,8,5,Volos Guide to Monsters
+Topi,Small,Undead,CE,13,13,7,15,12,6,10,5,0.5,The Tortle Package
+Tortle,Medium,Humanoid,LG,17,22,15,10,12,11,13,12,0.25,Mordenkainens Tome of Foes
+Tortle Druid,Medium,Humanoid,LN,17,33,14,10,12,11,15,12,2,Mordenkainens Tome of Foes
+Trapper,Large,Monstrosity,U,13,85,17,10,17,2,13,4,3,Volos Guide to Monsters
+Treant,Huge,Plant,CG,16,138,23,8,21,12,16,12,9,Monster Manual
+Tressym,Tiny,Beast,CN,12,5,3,15,10,11,12,12,0,Storm Kings Thunder
+Tri-Flower Frond,Medium,Plant,U,10,11,1,10,12,1,10,1,0.5,Tomb of Annihilation
+Troglodyte,Medium,Humanoid,CE,11,13,14,10,14,6,10,6,0.25,Monster Manual
+Troglodyte Champion of Laogzed,Medium,Humanoid,CE,14,59,18,12,18,8,12,12,3,Out of the Abyss
+Troll,Large,Giant,CE,15,84,18,13,20,7,9,7,5,Monster Manual
+Dire Troll,Huge,Giant,CE,15,172,22,15,21,9,11,5,13,Mordenkainens Tome of Foes
+Rot Troll,Large,Giant,CE,16,138,18,13,22,5,8,4,9,Mordenkainens Tome of Foes
+Spirit Troll,Large,Giant,CE,17,97,1,17,13,8,9,16,11,Mordenkainens Tome of Foes
+Venom Troll,Large,Giant,CE,15,94,18,13,20,7,9,7,7,Mordenkainens Tome of Foes
+Umber Hulk,Large,Monstrosity,CE,18,93,20,13,16,9,10,10,5,Monster Manual
+Unicorn,Large,Celestial,LG,12,67,18,14,15,11,17,16,5,Monster Manual
+Uthgardt Shaman,Medium,Humanoid,NE,13,38,14,12,13,10,15,12,2,Storm Kings Thunder
+Vampire,Medium,Undead,LE,16,144,18,18,18,17,15,18,13,Monster Manual
+Vampire Spawn,Medium,Undead,NE,15,82,16,16,16,11,10,12,5,Monster Manual
+Vampiric Mist,Medium,Undead,CE,13,30,6,16,16,6,12,7,3,Mordenkainens Tome of Foes
+Vargouille,Tiny,Fiend,CE,12,13,6,14,14,4,7,2,1,Volos Guide to Monsters
+Vegepygmy,Small,Plant,N,13,9,7,14,13,6,11,7,0.25,Volos Guide to Monsters
+Vegepygmy Chief,Small,Plant,N,14,33,14,14,14,7,12,9,2,Volos Guide to Monsters
+Water Weird,Large,Elemental,N,13,58,17,16,13,11,10,10,3,Monster Manual
+White Maw,Gargantuan,Ooze,CN,5,217,18,1,20,12,10,3,10,Tales from the Yawning Portal
+Wight,Medium,Undead,NE,14,45,15,14,16,10,13,15,3,Monster Manual
+Will-O-Wisp,Tiny,Undead,CE,19,22,1,28,10,13,14,11,2,Monster Manual
+Wood Woad,Medium,Plant,LN,18,75,18,12,16,10,13,8,5,Volos Guide to Monsters
+Wraith,Medium,Undead,NE,13,67,6,16,16,12,14,15,5,Monster Manual
+Wyvern,Large,Dragon,U,13,110,19,1,16,5,12,6,6,Monster Manual
+Xorn,Medium,Elemental,N,19,73,17,10,22,11,10,11,5,Monster Manual
+Xvart,Small,Humanoid,CE,13,7,8,14,10,8,7,7,0.13,Volos Guide to Monsters
+Xvart Speaker,Small,Humanoid,CE,13,7,8,14,10,13,7,7,0.13,Volos Guide to Monsters
+Xvart Warlock of Raxivort,Small,Humanoid,CE,12,22,8,14,12,8,11,12,1,Volos Guide to Monsters
+Yakfolk Priest,Large,Monstrosity,NE,12,52,16,11,15,14,18,14,4,Storm Kings Thunder
+Yakfolk Warrior,Large,Monstrosity,NE,11,60,18,11,15,14,15,14,3,Storm Kings Thunder
+Yellow Musk Creeper,Medium,Plant,U,6,60,12,3,12,1,10,3,2,Tomb of Annihilation
+Yellow Musk Zombie,Medium,Undead,U,9,33,13,9,12,1,6,3,0.25,Tomb of Annihilation
+Yeth Hound,Large,Fey,NE,14,51,18,17,16,5,12,7,4,Volos Guide to Monsters
+Yeti,Large,Monstrosity,CE,12,51,18,13,16,8,12,7,3,Monster Manual
+Abominable Yeti,Huge,Monstrosity,CE,15,137,24,10,22,9,13,9,9,Monster Manual
+Yuan-Ti Abomination,Large,Monstrosity,NE,15,127,19,16,17,17,15,18,7,Monster Manual
+Yuan-Ti Anathema,Huge,Monstrosity,NE,16,189,23,13,19,19,17,20,12,Volos Guide to Monsters
+Yuan-Ti Broodguard,Medium,Humanoid,NE,14,45,15,14,14,6,11,4,2,Volos Guide to Monsters
+Yuan-Ti Malison,Medium,Monstrosity,NE,12,66,16,14,13,14,12,16,3,Monster Manual
+Yuan-Ti Mind Whisperer,Medium,Monstrosity,NE,14,71,16,14,13,14,12,16,4,Volos Guide to Monsters
+Yuan-Ti Nightmare Speaker,Medium,Monstrosity,NE,14,71,16,14,13,14,12,16,4,Volos Guide to Monsters
+Yuan-Ti Pit Master,Medium,Monstrosity,NE,14,88,16,14,13,14,12,16,5,Volos Guide to Monsters
+Yuan-Ti Pureblood,Medium,Monstrosity,NE,11,40,11,12,11,13,12,14,1,Monster Manual
+Arcanaloth,Medium,Fiend,NE,17,104,17,12,14,20,16,17,12,Monster Manual
+Canoloth,Medium,Fiend,NE,16,120,18,10,17,5,17,12,8,Mordenkainens Tome of Foes
+Dhergoloth,Medium,Fiend,NE,15,119,17,10,19,7,10,9,7,Mordenkainens Tome of Foes
+Hydroloth,Medium,Fiend,NE,15,135,12,21,16,19,10,14,9,Mordenkainens Tome of Foes
+Merrenoloth,Medium,Fiend,NE,13,40,8,17,10,17,14,11,3,Mordenkainens Tome of Foes
+Mezzoloth,Medium,Fiend,NE,18,75,18,11,16,7,10,11,5,Monster Manual
+Nycaloth,Large,Fiend,NE,18,123,20,11,19,12,10,15,9,Monster Manual
+Oinoloth,Medium,Fiend,NE,17,126,19,17,18,17,16,19,12,Mordenkainens Tome of Foes
+Ultroloth,Medium,Fiend,NE,19,153,16,16,18,18,15,19,13,Monster Manual
+Yagnoloth,Large,Fiend,NE,17,147,19,14,21,16,15,18,11,Mordenkainens Tome of Foes
+Zombie,Medium,Undead,NE,8,22,13,6,16,3,6,5,0.25,Monster Manual
+Ankylosaurus Zombie,Huge,Undead,U,14,68,19,9,15,2,6,3,3,Tomb of Annihilation
+Beholder Zombie,Large,Undead,NE,15,93,10,8,16,3,8,5,5,Monster Manual
+Girallon Zombie,Large,Undead,CE,11,59,18,12,16,3,7,5,3,Tomb of Annihilation
+Greater Zombie,Medium,Undead,NE,15,97,18,10,17,4,6,6,5,Tales from the Yawning Portal
+Ogre Zombie,Large,Undead,NE,8,93,19,6,18,3,6,5,2,Monster Manual
+Strahd Zombie,Medium,Undead,U,8,30,13,6,16,3,6,5,1,Curse of Strahd
+Tyrannosaurus Zombie,Huge,Undead,U,11,136,25,6,19,1,3,5,8,Tomb of Annihilation
+Zorbo,Small,Monstrosity,U,10,27,13,11,13,3,12,7,0.5,Tomb of Annihilation
+Bridesmaid of Zuggtmoy,Medium,Plant,CE,13,22,14,11,11,14,8,18,0.13,Out of the Abyss
+Chamberlain of Zuggtmoy,Large,Plant,CE,13,45,17,7,14,11,8,12,2,Out of the Abyss

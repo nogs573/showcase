@@ -1,0 +1,576 @@
+CreatureName,DamageName
+Allip,Fire
+Allip,Lightning
+Allip,Thunder
+Allip,Bludgeoning
+Allip,Piercing
+Allip,Slashing
+Deva,Bludgeoning
+Deva,Piercing
+Deva,Slashing
+Planetar,Bludgeoning
+Planetar,Piercing
+Planetar,Slashing
+Solar,Bludgeoning
+Solar,Piercing
+Solar,Slashing
+Animated Object - Flying Sword,Fire
+Assassin Vine,Fire
+Swarm of Rot Grubs,Slashing
+Banshee,Fire
+Banshee,Lightning
+Banshee,Thunder
+Banshee,Bludgeoning
+Banshee,Piercing
+Banshee,Slashing
+Barghest,Fire
+Barghest,Lightning
+Barghest,Bludgeoning
+Barghest,Piercing
+Barghest,Slashing
+Basilisk,Bludgeoning
+Basilisk,Piercing
+Basilisk,Slashing
+Beholder,Bludgeoning
+Beholder,Piercing
+Beholder,Slashing
+Bodak,Fire
+Bodak,Necrotic
+Bodak,Bludgeoning
+Bodak,Piercing
+Bodak,Slashing
+Boneclaw,Necrotic
+Boneclaw,Bludgeoning
+Boneclaw,Piercing
+Boneclaw,Slashing
+Cambion,Fire
+Cambion,Lightning
+Cambion,Poison
+Cambion,Bludgeoning
+Cambion,Piercing
+Cambion,Slashing
+Centaur Mummy,Bludgeoning
+Centaur Mummy,Piercing
+Centaur Mummy,Slashing
+Cranium Rat Swarm,Slashing
+Deathlock,Bludgeoning
+Deathlock,Piercing
+Deathlock,Slashing
+Deathlock Mastermind,Bludgeoning
+Deathlock Mastermind,Piercing
+Deathlock Mastermind,Slashing
+Deathlock Wight,Bludgeoning
+Deathlock Wight,Piercing
+Deathlock Wight,Slashing
+Baphomet,Fire
+Baphomet,Lightning
+Demogorgon,Fire
+Demogorgon,Lightning
+Fraz-UrbLuu,Fire
+Fraz-UrbLuu,Lightning
+GrazZt,Fire
+GrazZt,Lightning
+Juiblex,Fire
+Juiblex,Lightning
+Orcus,Fire
+Orcus,Lightning
+Yeenoghu,Fire
+Yeenoghu,Lightning
+Zuggtmoy,Fire
+Zuggtmoy,Lightning
+Abyssal Wretch,Fire
+Abyssal Wretch,Lightning
+Alkilith,Cold
+Alkilith,Fire
+Alkilith,Bludgeoning
+Alkilith,Piercing
+Alkilith,Slashing
+Armanite,Fire
+Armanite,Lightning
+Babau,Fire
+Babau,Lightning
+Babau,Bludgeoning
+Babau,Piercing
+Babau,Slashing
+Balor,Cold
+Balor,Lightning
+Balor,Bludgeoning
+Balor,Piercing
+Balor,Slashing
+Barlgura,Fire
+Barlgura,Lightning
+Bulezau,Fire
+Bulezau,Lightning
+Chasme,Fire
+Chasme,Lightning
+Draegloth,Fire
+Draegloth,Lightning
+Dretch,Fire
+Dretch,Lightning
+Dybbuk,Cold
+Dybbuk,Fire
+Dybbuk,Thunder
+Dybbuk,Bludgeoning
+Dybbuk,Piercing
+Dybbuk,Slashing
+Glabrezu,Fire
+Glabrezu,Lightning
+Glabrezu,Bludgeoning
+Glabrezu,Piercing
+Glabrezu,Slashing
+Goristro,Fire
+Goristro,Lightning
+Goristro,Bludgeoning
+Goristro,Piercing
+Goristro,Slashing
+Hezrou,Fire
+Hezrou,Lightning
+Hezrou,Bludgeoning
+Hezrou,Piercing
+Hezrou,Slashing
+Manes,Fire
+Manes,Lightning
+Marilith,Fire
+Marilith,Lightning
+Marilith,Bludgeoning
+Marilith,Piercing
+Marilith,Slashing
+Maurezhi,Fire
+Maurezhi,Lightning
+Maurezhi,Necrotic
+Maurezhi,Bludgeoning
+Maurezhi,Piercing
+Maurezhi,Slashing
+Maw,Fire
+Maw,Lightning
+Molydeus,Fire
+Molydeus,Lightning
+Molydeus,Bludgeoning
+Molydeus,Piercing
+Molydeus,Slashing
+Nabassu,Fire
+Nabassu,Lightning
+Nabassu,Bludgeoning
+Nabassu,Piercing
+Nabassu,Slashing
+Nalfeshnee,Fire
+Nalfeshnee,Lightning
+Nalfeshnee,Bludgeoning
+Nalfeshnee,Piercing
+Nalfeshnee,Slashing
+Quasit,Fire
+Quasit,Lightning
+Quasit,Bludgeoning
+Quasit,Piercing
+Quasit,Slashing
+Rutterkin,Fire
+Rutterkin,Lightning
+Shadow Demon,Acid
+Shadow Demon,Fire
+Shadow Demon,Necrotic
+Shadow Demon,Thunder
+Shadow Demon,Bludgeoning
+Shadow Demon,Piercing
+Shadow Demon,Slashing
+Shoosuva,Fire
+Shoosuva,Lightning
+Shoosuva,Bludgeoning
+Shoosuva,Piercing
+Shoosuva,Slashing
+Sibriex,Fire
+Sibriex,Lightning
+Sibriex,Bludgeoning
+Sibriex,Piercing
+Sibriex,Slashing
+Vrock,Fire
+Vrock,Lightning
+Vrock,Bludgeoning
+Vrock,Piercing
+Vrock,Slashing
+Wastrilith,Fire
+Wastrilith,Lightning
+Wastrilith,Bludgeoning
+Wastrilith,Piercing
+Wastrilith,Slashing
+Wastrilith,Poison
+Yochlol,Fire
+Yochlol,Lightning
+Yochlol,Bludgeoning
+Yochlol,Piercing
+Yochlol,Slashing
+Black Abishai,Bludgeoning
+Black Abishai,Piercing
+Black Abishai,Slashing
+Blue Abishai,Bludgeoning
+Blue Abishai,Piercing
+Blue Abishai,Slashing
+Green Abishai,Bludgeoning
+Green Abishai,Piercing
+Green Abishai,Slashing
+Red Abishai,Bludgeoning
+Red Abishai,Piercing
+Red Abishai,Slashing
+Amnizu,Bludgeoning
+Amnizu,Piercing
+Amnizu,Slashing
+Bael,Bludgeoning
+Bael,Piercing
+Bael,Slashing
+Hutijin,Bludgeoning
+Hutijin,Piercing
+Hutijin,Slashing
+Moloch,Bludgeoning
+Moloch,Piercing
+Moloch,Slashing
+Titivilus,Bludgeoning
+Titivilus,Piercing
+Titivilus,Slashing
+Zariel,Fire
+Zariel,Radiant
+Zariel,Bludgeoning
+Zariel,Piercing
+Zariel,Slashing
+Barbed,Bludgeoning
+Barbed,Piercing
+Barbed,Slashing
+Bearded,Bludgeoning
+Bearded,Piercing
+Bearded,Slashing
+Bone,Bludgeoning
+Bone,Piercing
+Bone,Slashing
+Chain,Bludgeoning
+Chain,Piercing
+Chain,Slashing
+Erinyes,Bludgeoning
+Erinyes,Piercing
+Erinyes,Slashing
+Hellfire Engine,Psychic
+Hellfire Engine,Bludgeoning
+Hellfire Engine,Piercing
+Hellfire Engine,Slashing
+Horned,Bludgeoning
+Horned,Piercing
+Horned,Slashing
+Imp,Bludgeoning
+Imp,Piercing
+Imp,Slashing
+Merregon,Bludgeoning
+Merregon,Piercing
+Merregon,Slashing
+Narzugon,Cold
+Narzugon,Bludgeoning
+Narzugon,Piercing
+Narzugon,Slashing
+Nupperibo,Cold
+Nupperibo,Bludgeoning
+Nupperibo,Piercing
+Nupperibo,Slashing
+Orthon,Bludgeoning
+Orthon,Piercing
+Orthon,Slashing
+Pit Fiend,Bludgeoning
+Pit Fiend,Piercing
+Pit Fiend,Slashing
+Pit Fiend,Fire
+Pit Fiend,Poison
+Spined,Bludgeoning
+Spined,Piercing
+Spined,Slashing
+Devourer,Fire
+Devourer,Lightning
+Dragonfang,Cold
+Dragonfang,Fire
+Dragonfang,Lightning
+Dragonfang,Poison
+Dragonsoul,Cold
+Dragonsoul,Fire
+Dragonsoul,Lightning
+Dragonsoul,Poison
+Eidolon,Fire
+Eidolon,Lightning
+Eidolon,Thunder
+Eidolon,Bludgeoning
+Eidolon,Piercing
+Eidolon,Slashing
+Sacred Statue,Fire
+Sacred Statue,Lightning
+Sacred Statue,Bludgeoning
+Sacred Statue,Piercing
+Sacred Statue,Slashing
+Winter Eladrin,Bludgeoning
+Winter Eladrin,Piercing
+Winter Eladrin,Slashing
+Elder Elemental Zaratan,Cold
+Elder Elemental Zaratan,Fire
+Elder Elemental Zaratan,Lightning
+Elder Elemental Zaratan,Bludgeoning
+Elder Elemental Zaratan,Piercing
+Elder Elemental Zaratan,Slashing
+Air Elemental Myrmidon,Thunder
+Air Elemental Myrmidon,Bludgeoning
+Air Elemental Myrmidon,Piercing
+Air Elemental Myrmidon,Slashing
+Water Elemental Myrmidon,Bludgeoning
+Water Elemental Myrmidon,Piercing
+Water Elemental Myrmidon,Slashing
+Air Elemental,Thunder
+Air Elemental,Bludgeoning
+Air Elemental,Piercing
+Air Elemental,Slashing
+Earth Elemental,Bludgeoning
+Earth Elemental,Piercing
+Earth Elemental,Slashing
+Water Elemental,Bludgeoning
+Water Elemental,Piercing
+Water Elemental,Slashing
+Flameskull,Necrotic
+Froghemoth,Lightning
+Ghost,Fire
+Ghost,Lightning
+Ghost,Thunder
+Ghost,Bludgeoning
+Ghost,Piercing
+Ghost,Slashing
+Storm Giant Quintessent,Bludgeoning
+Storm Giant Quintessent,Piercing
+Storm Giant Quintessent,Slashing
+Annis Hag,Bludgeoning
+Annis Hag,Piercing
+Annis Hag,Slashing
+Night Hag,Fire
+Night Hag,Bludgeoning
+Night Hag,Piercing
+Night Hag,Slashing
+Howler,Fire
+Howler,Lightning
+Howler,Bludgeoning
+Howler,Piercing
+Howler,Slashing
+Inevitable Marut,Bludgeoning
+Inevitable Marut,Piercing
+Inevitable Marut,Slashing
+Kelpie,Fire
+Kobold Dragonshield,Cold
+Kobold Dragonshield,Fire
+Kobold Dragonshield,Lightning
+Kobold Dragonshield,Poison
+Lich,Lightning
+Lich,Necrotic
+Illithlich,Lightning
+Illithlich,Necrotic
+Alhoon,Lightning
+Alhoon,Necrotic
+Swarm of Bats,Slashing
+Swarm of Insects,Slashing
+Swarm of Poisonous Snakes,Slashing
+Swarm of Quippers,Slashing
+Swarm of Rats,Slashing
+Swarm of Ravens,Slashing
+Mummy,Bludgeoning
+Mummy,Piercing
+Mummy,Slashing
+Naergoth Bladelord,Bludgeoning
+Naergoth Bladelord,Piercing
+Naergoth Bladelord,Slashing
+Nightwalker,Cold
+Nightwalker,Fire
+Nightwalker,Lightning
+Nightwalker,Thunder
+Nightwalker,Bludgeoning
+Nightwalker,Piercing
+Nightwalker,Slashing
+Archmage,Bludgeoning
+Archmage,Piercing
+Archmage,Slashing
+Ooze Master,Necrotic
+Ooze Master,Bludgeoning
+Ooze Master,Piercing
+Ooze Master,Slashing
+Gray Ooze,Cold
+Gray Ooze,Fire
+Tanarukk,Poison
+Prince of Apocalypse Olhydra,Bludgeoning
+Prince of Apocalypse Olhydra,Piercing
+Prince of Apocalypse Olhydra,Slashing
+Prince of Apocalypse Yan-C-BIn,Fire
+Prince of Apocalypse Yan-C-BIn,Bludgeoning
+Prince of Apocalypse Yan-C-BIn,Piercing
+Prince of Apocalypse Yan-C-BIn,Slashing
+Rakshasa,Bludgeoning
+Rakshasa,Piercing
+Rakshasa,Slashing
+Revenant,Psychic
+Salamander,Bludgeoning
+Salamander,Piercing
+Salamander,Slashing
+Fire Snake,Bludgeoning
+Fire Snake,Piercing
+Fire Snake,Slashing
+Scarecrow,Bludgeoning
+Scarecrow,Piercing
+Scarecrow,Slashing
+Shadow,Acid
+Shadow,Cold
+Shadow,Fire
+Shadow,Lightning
+Shadow,Thunder
+Shadow,Bludgeoning
+Shadow,Piercing
+Shadow,Slashing
+Shambling Mound,Fire
+Skull Lord,Necrotic
+Skull Lord,Bludgeoning
+Skull Lord,Piercing
+Skull Lord,Slashing
+Slaad Tadpole,Cold
+Slaad Tadpole,Fire
+Slaad Tadpole,Lightning
+Slaad Tadpole,Thunder
+Blue Slaad,Cold
+Blue Slaad,Fire
+Blue Slaad,Lightning
+Blue Slaad,Thunder
+Death Slaad,Cold
+Death Slaad,Fire
+Death Slaad,Lightning
+Death Slaad,Thunder
+Gray Slaad,Cold
+Gray Slaad,Fire
+Gray Slaad,Lightning
+Gray Slaad,Thunder
+Green Slaad,Cold
+Green Slaad,Fire
+Green Slaad,Lightning
+Green Slaad,Thunder
+Red Slaad,Cold
+Red Slaad,Fire
+Red Slaad,Lightning
+Red Slaad,Thunder
+Slithering Tracker,Bludgeoning
+Slithering Tracker,Piercing
+Slithering Tracker,Slashing
+Specter,Cold
+Specter,Fire
+Specter,Lightning
+Specter,Thunder
+Specter,Bludgeoning
+Specter,Piercing
+Specter,Slashing
+Star Spawn Larva Mage,Bludgeoning
+Star Spawn Larva Mage,Piercing
+Star Spawn Larva Mage,Slashing
+Star Spawn Seer,Bludgeoning
+Star Spawn Seer,Piercing
+Star Spawn Seer,Slashing
+Steel Predator,Lightning
+Steel Predator,Necrotic
+Steel Predator,Thunder
+Strahds Animated Armor,Fire
+Succubus/Incubus,Fire
+Succubus/Incubus,Lightning
+Succubus/Incubus,Poison
+Succubus/Incubus,Bludgeoning
+Succubus/Incubus,Piercing
+Succubus/Incubus,Slashing
+Sword Wraith Commander,Bludgeoning
+Sword Wraith Commander,Piercing
+Sword Wraith Commander,Slashing
+Sword Wraith Warrior,Bludgeoning
+Sword Wraith Warrior,Piercing
+Sword Wraith Warrior,Slashing
+Spirit Troll,Cold
+Spirit Troll,Fire
+Spirit Troll,Lightning
+Spirit Troll,Thunder
+Vampire,Bludgeoning
+Vampire,Piercing
+Vampire,Slashing
+Vampire Spawn,Bludgeoning
+Vampire Spawn,Piercing
+Vampire Spawn,Slashing
+Vampiric Mist,Cold
+Vampiric Mist,Lightning
+Vampiric Mist,Necrotic
+Vampiric Mist,Thunder
+Vampiric Mist,Bludgeoning
+Vampiric Mist,Piercing
+Vampiric Mist,Slashing
+Vargouille,Fire
+Vargouille,Lightning
+Water Weird,Bludgeoning
+Water Weird,Piercing
+Water Weird,Slashing
+White Maw,Cold
+White Maw,Fire
+Wight,Bludgeoning
+Wight,Piercing
+Wight,Slashing
+Will-O-Wisp,Acid
+Will-O-Wisp,Cold
+Will-O-Wisp,Fire
+Will-O-Wisp,Necrotic
+Will-O-Wisp,Thunder
+Will-O-Wisp,Bludgeoning
+Will-O-Wisp,Piercing
+Will-O-Wisp,Slashing
+Wraith,Cold
+Wraith,Fire
+Wraith,Lightning
+Wraith,Thunder
+Wraith,Bludgeoning
+Wraith,Piercing
+Wraith,Slashing
+Yuan-Ti Anathema,Fire
+Yuan-Ti Anathema,Lightning
+Arcanaloth,Fire
+Arcanaloth,Lightning
+Arcanaloth,Bludgeoning
+Arcanaloth,Piercing
+Arcanaloth,Slashing
+Canoloth,Fire
+Canoloth,Lightning
+Canoloth,Bludgeoning
+Canoloth,Piercing
+Canoloth,Slashing
+Dhergoloth,Fire
+Dhergoloth,Lightning
+Dhergoloth,Bludgeoning
+Dhergoloth,Piercing
+Dhergoloth,Slashing
+Hydroloth,Cold
+Hydroloth,Lightning
+Hydroloth,Bludgeoning
+Hydroloth,Piercing
+Hydroloth,Slashing
+Merrenoloth,Fire
+Merrenoloth,Lightning
+Merrenoloth,Bludgeoning
+Merrenoloth,Piercing
+Merrenoloth,Slashing
+Mezzoloth,Fire
+Mezzoloth,Lightning
+Mezzoloth,Bludgeoning
+Mezzoloth,Piercing
+Mezzoloth,Slashing
+Nycaloth,Fire
+Nycaloth,Lightning
+Nycaloth,Bludgeoning
+Nycaloth,Piercing
+Nycaloth,Slashing
+Oinoloth,Fire
+Oinoloth,Lightning
+Oinoloth,Bludgeoning
+Oinoloth,Piercing
+Oinoloth,Slashing
+Ultroloth,Fire
+Ultroloth,Lightning
+Ultroloth,Bludgeoning
+Ultroloth,Piercing
+Ultroloth,Slashing
+Yagnoloth,Fire
+Yagnoloth,Lightning
+Yagnoloth,Bludgeoning
+Yagnoloth,Piercing
+Yagnoloth,Slashing
+Greater Zombie,Necrotic

@@ -1,0 +1,1794 @@
+CreatureName,Feature
+Aarakocra,Dive Attack
+Aboleth,Amphibious
+Aboleth,Mucous Cloud
+Aboleth,Probing Telepathy
+Aboleth,Legendary
+Aboleth,Lair
+Albino Dwarf Warrior,Dwarven Resilience
+Aldani (Lobsterfolk),Amphibious
+Allip,Incorporeal Movement
+Almiraj,Keen Hearing
+Almiraj,Keen Sight
+Ambush Drake,Pack Tactics
+Ambush Drake,Surprise Attack
+Deva,Angelic Weapons
+Deva,Innate Spellcasting
+Deva,Magic Resistance
+Planetar,Angelic Weapons
+Planetar,Divine Awareness
+Planetar,Innate Spellcasting
+Planetar,Magic Resistance
+Solar,Angelic Weapons
+Solar,Divine Awareness
+Solar,Innate Spellcasting
+Solar,Magic Resistance
+Solar,Legendary
+Animated Object - Armor,Antimagic
+Animated Object - Armor,FALSE
+Animated Object - Broom of Attack,FALSE
+Animated Object - Flying Sword,Antimagic
+Animated Object - Flying Sword,FALSE
+Animated Object - Rug of Smothering,Antimagic
+Animated Object - Rug of Smothering,Damage Transfer
+Animated Object - Rug of Smothering,FALSE
+Animated Object - Table,Antimagic Susceptibility
+Animated Object - Table,False Appearance
+Animated Object - Table,Charge
+Assassin Vine,False Appearance
+Aurochs,Charge
+Cattle,Charge
+Dolphin,Charge
+Dolphin,Hold Breath
+Swarm of Rot Grubs,Swarm
+Astral Dreadnought,Antimagic Cone
+Astral Dreadnought,Astral Entity
+Astral Dreadnought,Demiplanar Donjon
+Astral Dreadnought,Legendary
+Astral Dreadnought,Magic Weapons
+Astral Dreadnought,Sever Silver Cord
+Atropal,Magic Resistance
+Atropal,Negative Energy Aura
+Atropal,Turn Resistance Aura
+Atropal,Legendary
+Avatar of Death,Incorporeal Movement
+Avatar of Death,Turning Immunity
+Awakened Zurkhwood,False Appearance
+Azer,Heated Body
+Azer,Heated Weapons
+Azer,Illumination
+Baba Lysagas Creeping Hut,FALSE
+Baba Lysagas Creeping Hut,Siege
+Balhannoth,Legendary
+Balhannoth,Lair
+Banderhobb,Resonant Connection
+Banderhobb,Shadow Stealth
+Banshee,Detect Life
+Banshee,Incorporeal Movement
+Barghest,Shapechanger
+Barghest,Fire Banishment
+Barghest,Keen Smell
+Barghest,Innate Spellcasting
+Basilisk,Barbed Hide
+Basilisk,Devils Sight
+Basilisk,Magic Resistance
+Beholder,Devils Sight
+Beholder,Magic Resistance
+Beholder,Steadfast
+Death Kiss,Lightning Blood
+Gauth,Stunning Gaze
+Gauth,Death Throes
+Gazer,Aggressive
+Gazer,Mimicry
+Spectator,Antimagic Cone
+Spectator,Lair
+Spectator,Legendary
+Berbalang,Spectral Duplicate
+Berbalang,Innate Spellcasting
+Black Earth Priest,Normal Spellcasting
+Burrowshark,Bond of the Black Earth
+Sacred Stone Monk,Unarmored Defense
+Sacred Stone Monk,Unarmored Movement
+Stonemelder,Death Burst
+Stonemelder,Normal Spellcasting
+Tree Blight,FALSE
+Tree Blight,Siege
+Twig Blight,False Appearance
+Vine Blight,False Appearance
+Bodak,Aura of Annihilation
+Bodak,Death Gazer
+Bodak,Sunlight Hypersensitivity
+Boggle,Boggle Oil
+Boggle,Dimensional Rift
+Boggle,Uncanny Smell
+Boneclaw,Rejuvenation
+Boneclaw,Shadow Stealth
+Bugbear,Brute
+Bugbear,Surprise Attack
+Bugbear Chief,Brute
+Bugbear Chief,Hearth of Hruggek
+Bugbear Chief,Surprise Attack
+Bulette,Standing Leap
+Bullywug,Amphibious
+Bullywug,Speak with Frogs
+Bullywug,Speak with Toads
+Bullywug,Swamp Camouflage
+Bullywug,Standing Leap
+Cadaver Collector,Magic Resistance
+Cadaver Collector,Summon Specters
+Cambion,Fiendish Blessing
+Cambion,Innate Spellcasting
+Carrion Crawler,Keen Smell
+Carrion Crawler,Spider Climb
+Catoblepas,Keen Smell
+Catoblepas,Stench
+Cave Fisher,Adhesive Filament
+Cave Fisher,Flammable Blood
+Cave Fisher,Spider Climb
+Centaur,Charge
+Centaur Mummy,Charge
+Chitine,Fey Ancestry
+Chitine,Sunlight Sensitivity
+Chitine,Web Sense
+Chitine,Web Walker
+Choldrith,Fey Ancestry
+Choldrith,Normal Spellcasting
+Choldrith,Spider Climb
+Choldrith,Sunlight Sensitivity
+Choldrith,Web Sense
+Choldrith,Web Walker
+Choker,Aberrant Quickness
+Choker,Boneless
+Choker,Spider Climb
+Chuul,Amphibious
+Chuul,Sense Magic
+Chwinga,Evasion
+Chwinga,Innate Spellcasting
+Cloaker,Damage Transfer
+Cloaker,False Appearance
+Cloaker,Light Sensitivity
+Bronze Scout,Earth Armor
+Bronze Scout,Magic Resistance
+Iron Cobra,Magic Resistance
+Oaken Bolter,Magic Resistance
+Stone Defender,False Appearance
+Stone Defender,Magic Resistance
+Corpse Flower,Corpses
+Corpse Flower,Spider Climb
+Corpse Flower,Stench of Death
+Couatl,Innate Spellcasting
+Couatl,Magic Weapons
+Couatl,Shielded Mind
+Crag Cat,Nondetection
+Crag Cat,Pounce
+Crag Cat,Spell Turning
+Cranium Rat,Illumination
+Cranium Rat,Telepathic Shroud
+Cranium Rat Swarm,Illumination
+Cranium Rat Swarm,Innate Spellcasting
+Cranium Rat Swarm,Swarm
+Cranium Rat Swarm,Telepathic Shroud
+Crawling Claw,Turn Immunity
+Crushing Wave Priest,Normal Spellcasting
+Dark Tide Knight,Bonded Mount
+Fathomer,Shapechanger
+Fathomer,Olhydras Armor
+Fathomer,Normal Spellcasting
+One-Eyed Shiver,Chilling Mist
+Cyclops,Poor Depth Perception
+Darkling,Death Flash
+Darkling,Light Sensitivity
+Darkling Elder,Death Burn
+Darkmantle,Echolocation
+Darkmantle,False Appearance
+Death Knight,Magic Resistance
+Death Knight,Marshal Undead
+Death Knight,Spellcasting
+Deathlock,Innate Spellcasting
+Deathlock,Normal Spellcasting
+Deathlock,Turn Resistance
+Deathlock Mastermind,Innate Spellcasting
+Deathlock Mastermind,Normal Spellcasting
+Deathlock Mastermind,Turn Resistance
+Deathlock Wight,Innate Spellcasting
+Deathlock Wight,Sunlight Sensitivity
+Deep Scion,Shapechanger
+Deep Scion,Amphibious
+Demilich,Avoidance
+Demilich,Legendary Resistance
+Demilich,Turn Immunity
+Demilich,Legendary
+Demilich,Lair
+Baphomet,Charge
+Baphomet,Innate Spellcasting
+Baphomet,Labyrinthine Recall
+Baphomet,Legendary
+Baphomet,Magic Resistance
+Baphomet,Magic Weapons
+Baphomet,Reckless
+Baphomet,Lair
+Demogorgon,Innate Spellcasting
+Demogorgon,Legendary
+Demogorgon,Magic Resistance
+Demogorgon,Lair
+Demogorgon,Magic Weapons
+Demogorgon,Two Heads
+Fraz-UrbLuu,Innate Spellcasting
+Fraz-UrbLuu,Legendary
+Fraz-UrbLuu,Lair
+Fraz-UrbLuu,Magic Resistance
+Fraz-UrbLuu,Magic Weapons
+Fraz-UrbLuu,Undetectable
+GrazZt,Shapechanger
+GrazZt,Innate Spellcasting
+GrazZt,Legendary
+GrazZt,Lair
+GrazZt,Magic Resistance
+GrazZt,Magic Weapons
+Juiblex,Foul
+Juiblex,Innate Spellcasting
+Juiblex,Legendary
+Juiblex,Lair
+Juiblex,Magic Resistance
+Juiblex,Magic Weapons
+Juiblex,Regeneration
+Juiblex,Spider Climb
+Orcus,Wand of Orcus
+Orcus,Innate Spellcasting
+Orcus,Legendary
+Orcus,Lair
+Orcus,Magic Resistance
+Orcus,Magic Weapons
+Orcus,Master of Undeath
+Yeenoghu,Innate Spellcasting
+Yeenoghu,Legendary
+Yeenoghu,Lair
+Yeenoghu,Magic Resistance
+Yeenoghu,Magic Weapons
+Yeenoghu,Rampage
+Zuggtmoy,Innate Spellcasting
+Zuggtmoy,Legendary
+Zuggtmoy,Lair
+Zuggtmoy,Magic Resistance
+Zuggtmoy,Magic Weapons
+Alkilith,Amorphous
+Alkilith,False Appearance
+Alkilith,Foment Madness
+Alkilith,Magic Resistance
+Armanite,Magic Resistance
+Armanite,Magic Weapons
+Babau,Innate Spellcasting
+Balor,Death Throes
+Balor,Fire Aura
+Balor,Magic Resistance
+Balor,Magic Weapons
+Barlgura,Innate Spellcasting
+Barlgura,Reckless
+Barlgura,Running Leap
+Bulezau,Rotting Presence
+Bulezau,Standing Leap
+Bulezau,Sure-Footed
+Chasme,Drone
+Chasme,Magic Resistance
+Chasme,Spider Climb
+Draegloth,Fey Ancestry
+Draegloth,Innate Spellcasting
+Dybbuk,Incorporeal Movement
+Dybbuk,Innate Spellcasting
+Dybbuk,Magic Resistance
+Dybbuk,Violate Corpse
+Glabrezu,Innate Spellcasting
+Glabrezu,Magic Resistance
+Goristro,Charge
+Goristro,Labyrinthine Recall
+Goristro,Magic Resistance
+Goristro,Siege
+Hezrou,Magic Resistance
+Hezrou,Stench
+Marilith,Magic Resistance
+Marilith,Magic Weapons
+Marilith,Reactive
+Maurezhi,Assume Form
+Maurezhi,Magic Resistance
+Maw,Rampage
+Molydeus,Innate Spellcasting
+Molydeus,Legendary
+Molydeus,Magic Resistance
+Molydeus,Magic Weapons
+Nabassu,Demonic Shadows
+Nabassu,Devour Soul
+Nabassu,Magic Resistance
+Nabassu,Magic Weapons
+Nalfeshnee,Magic Resistance
+Quasit,Shapechanger
+Quasit,Magic Resistance
+Rutterkin,Crippling Fear
+Shadow Demon,Incorporeal Movement
+Shadow Demon,Light Sensitivity
+Shadow Demon,Shadow Stealth
+Shoosuva,Rampage
+Sibriex,Contamination
+Sibriex,Innate Spellcasting
+Sibriex,Legendary
+Sibriex,Magic Resistance
+Vrock,Magic Resistance
+Wastrilith,Amphibious
+Wastrilith,Corrupt Water
+Wastrilith,Magic Resistance
+Wastrilith,Undertow
+Yochlol,Shapechanger
+Yochlol,Magic Resistance
+Yochlol,Spider Climb
+Yochlol,Innate Spellcasting
+Yochlol,Web Walker
+Derro,Magic Resistance
+Derro,Sunlight Sensitivity
+Derro Savant,Magic Resistance
+Derro Savant,Normal Spellcasting
+Derro Savant,Sunlight Sensitivity
+Black Abishai,Devils Sight
+Black Abishai,Magic Resistance
+Black Abishai,Magic Weapons
+Black Abishai,Shadow Stealth
+Blue Abishai,Devils Sight
+Blue Abishai,Magic Resistance
+Blue Abishai,Magic Weapons
+Blue Abishai,Normal Spellcasting
+Green Abishai,Devils Sight
+Green Abishai,Innate Spellcasting
+Green Abishai,Magic Resistance
+Green Abishai,Magic Weapons
+Red Abishai,Devils SIght
+Red Abishai,Magic Resistance
+Red Abishai,Magic Weapons
+White Abishai,Devils Sight
+White Abishai,Magic Resistance
+White Abishai,Magic Weapons
+White Abishai,Reckless
+Amnizu,Devils Sight
+Amnizu,Innate Spellcasting
+Amnizu,Magic Resistance
+Bael,Dreadful
+Bael,Innate Spellcasting
+Bael,Legendary Resistance
+Bael,Magic Resistance
+Bael,Magic Weapons
+Bael,Regeneration
+Bael,Lair
+Geryon,Innate Spellcasting
+Geryon,Legendary
+Geryon,Lair
+Geryon,Magic Resistance
+Geryon,Magic Weapons
+Geryon,Regeneration
+Hutijin,Infernal Despair
+Hutijin,Innate Spellcasting
+Hutijin,Legendary
+Hutijin,Magic Resistance
+Hutijin,Lair
+Hutijin,Magic Weapons
+Hutijin,Regeneration
+Moloch,Innate Spellcasting
+Moloch,Legendary
+Moloch,Lair
+Moloch,Magic Resistance
+Moloch,Magic Weapons
+Moloch,Regeneration
+Titivilus,Innate Spellcasting
+Titivilus,Legendary
+Titivilus,Lair
+Titivilus,Magic Resistance
+Titivilus,Magic Weapons
+Titivilus,Regeneration
+Titivilus,Ventriloquism
+Zariel,Devils Sight
+Zariel,Fiery Weapons
+Zariel,Innate Spellcasting
+Zariel,Legendary
+Zariel,Lair
+Zariel,Magic Resistance
+Zariel,Regeneration
+Barbed,Barbed Hide
+Barbed,Devils Sight
+Barbed,Magic Resistance
+Bearded,Devils Sight
+Bearded,Magic Resistance
+Bearded,Steadfast
+Bone,Devils Sight
+Bone,Magic Resistance
+Chain,Devils Sight
+Chain,Magic Resistance
+Erinyes,Hellish Weapons
+Erinyes,Magic Resistance
+Hellfire Engine,Immutable Form
+Hellfire Engine,Magic Resistance
+Horned,Devils Sight
+Horned,Magic Resistance
+Ice,Devils Sight
+Ice,Magic Resistance
+Imp,Shapechanger
+Imp,Devils Sight
+Imp,Magic Resistance
+Lemure,Devils Sight
+Lemure,Hellish Rejuvenation
+Merregon,Devils Sight
+Merregon,Magic Resistance
+Narzugon,Diabolical Sense
+Narzugon,Infernal Tack
+Narzugon,Magic Resistance
+Nupperibo,Cloud of Vermin
+Nupperibo,Hunger-Driven
+Orthon,Invisibility Field
+Orthon,Magic Resistance
+Pit Fiend,Fear Aura
+Pit Fiend,Magic Resistance
+Pit Fiend,Magic Weapon
+Pit Fiend,Innate Spellcasting
+Spined,Devils Sight
+Spined,Flyby
+Spined,Limited Spines
+Spined,Magic Resistance
+Allosaurus,Pounce
+Deinonychus,Pounce
+Plesiosaurus,Hold Breath
+Pteranodon,Flyby
+Quetzalcoatlus,Dive Attack
+Quetzalcoatlus,FLyby
+Triceratops,Trampling Charge
+Velociraptor,Pack Tactics
+Displacer Beast,Avoidance
+Displacer Beast,Displacement
+Doppelganger,Shapechanger
+Doppelganger,Ambusher
+Doppelganger,Surprise Attack
+Adult Black Chromatic Dragon,Amphibious
+Adult Black Chromatic Dragon,Legendary Resistance
+Adult Black Chromatic Dragon,Legendary
+Adult Black Chromatic Dragon,Lair
+Ancient Black Chromatic Dragon,Amphibious
+Ancient Black Chromatic Dragon,Legendary Resistance
+Ancient Black Chromatic Dragon,Legendary
+Ancient Black Chromatic Dragon,Lair
+Wyrmling Black Chromatic Dragon,Amphibious
+Young Black Chromatic Dragon,Amphibious
+Adult Blue Chromatic Dragon,Legendary
+Adult Blue Chromatic Dragon,Legendary Resistance
+Adult Blue Chromatic Dragon,Lair
+Ancient Blue Chromatic Dragon,Legendary
+Ancient Blue Chromatic Dragon,Legendary Resistance
+Ancient Blue Chromatic Dragon,Lair
+Adult Green Chromatic Dragon,Amphibious
+Adult Green Chromatic Dragon,Legendary Resistance
+Adult Green Chromatic Dragon,Legendary
+Adult Green Chromatic Dragon,Lair
+Ancient Green Chromatic Dragon,Amphibious
+Ancient Green Chromatic Dragon,Legendary Resistance
+Ancient Green Chromatic Dragon,Legendary
+Ancient Green Chromatic Dragon,Lair
+Wyrmling Green Chromatic Dragon,Amphibious
+Young Green Chromatic Dragon,Amphibious
+Adult Red Chromatic Dragon,Legendary Resistance
+Adult Red Chromatic Dragon,Legendary
+Adult Red Chromatic Dragon,Lair
+Ancient Red Chromatic Dragon,Legendary Resistance
+Ancient Red Chromatic Dragon,Legendary
+Ancient Red Chromatic Dragon,Lair
+Adult White Chromatic Dragon,Ice Walk
+Adult White Chromatic Dragon,Legendary Resistance
+Adult White Chromatic Dragon,Legendary
+Adult White Chromatic Dragon,Lair
+Ancient White Chromatic Dragon,Ice Walk
+Ancient White Chromatic Dragon,Legendary Resistance
+Ancient White Chromatic Dragon,Legendary
+Ancient White Chromatic Dragon,Lair
+Wyrmling White Chromatic Dragon,Ice Walk
+Young White Chromatic Dragon,Ice Walk
+Adult Brass Metallic Dragon,Legendary
+Adult Brass Metallic Dragon,Legendary Resistance
+Adult Brass Metallic Dragon,Lair
+Ancient Brass Metallic Dragon,Legendary
+Ancient Brass Metallic Dragon,Legendary Resistance
+Ancient Brass Metallic Dragon,Lair
+Adult Bronze Metallic Dragon,Amphibious
+Adult Bronze Metallic Dragon,Legendary Resistance
+Adult Bronze Metallic Dragon,Legendary
+Adult Bronze Metallic Dragon,Lair
+Ancient Bronze Metallic Dragon,Amphibious
+Ancient Bronze Metallic Dragon,Legendary Resistance
+Ancient Bronze Metallic Dragon,Legendary
+Ancient Bronze Metallic Dragon,Lair
+Wyrmling Bronze Metallic Dragon,Amphibious
+Young Bronze Metallic Dragon,Amphibious
+Adult Copper Metallic Dragon,Legendary Resistance
+Adult Copper Metallic Dragon,Legendary
+Adult Copper Metallic Dragon,Lair
+Ancient Copper Metallic Dragon,Legendary Resistance
+Ancient Copper Metallic Dragon,Legendary
+Ancient Copper Metallic Dragon,Lair
+Adult Gold Metallic Dragon,Amphibious
+Adult Gold Metallic Dragon,Legendary Resistance
+Adult Gold Metallic Dragon,Legendary
+Adult Gold Metallic Dragon,Lair
+Ancient Gold Metallic Dragon,Amphibious
+Ancient Gold Metallic Dragon,Legendary Resistance
+Ancient Gold Metallic Dragon,Legendary
+Ancient Gold Metallic Dragon,Lair
+Wyrmling Gold Metallic Dragon,Amphibious
+Young Gold Metallic Dragon,Amphibious
+Adult Silver Metallic Dragon,Legendary Resistance
+Adult Silver Metallic Dragon,Legendary
+Adult Silver Metallic Dragon,Lair
+Ancient Silver Metallic Dragon,Legendary Resistance
+Ancient Silver Metallic Dragon,Legendary
+Ancient Silver Metallic Dragon,Lair
+Dragon Turtle,Amphibious
+Dragonclaw,Dragon Fanatic
+Dragonclaw,Fanatical Advantage
+Dragonclaw,Pack Tactics
+Dragonfang,Dragon Fanatic
+Dragonfang,Fanatic Advantage
+Dragonfang,Limited Flight
+Dragonfang,Pack Tactics
+Dragonsoul,Dragon Fanatic
+Dragonsoul,Fanatic Advantage
+Dragonsoul,Limited Flight
+Dragonsoul,Pack Tactics
+Dragonwing,Dragon Fanatic
+Dragonwing,Fanatical Advantage
+Dragonwing,Pack Tactics
+Dread Warrior,Undead Fortitude
+Drider,Fey Ancestry
+Drider,Innate Spellcasting
+Drider,Spider Climb
+Drider,Sunlight Sensitivity
+Drider,Web Walker
+Drow,Fey Ancestry
+Drow,Innate Spellcasting
+Drow,Sunlight Sensitivity
+Drow Arachnomancer,Change Shape
+Drow Arachnomancer,Fey Ancestry
+Drow Arachnomancer,Innate Spellcasting
+Drow Arachnomancer,Normal Spellcasting
+Drow Arachnomancer,Spider Climb
+Drow Arachnomancer,Sunlight Sensitivity
+Drow Elite Warrior,Fey Ancestry
+Drow Elite Warrior,Innate Spellcasting
+Drow Elite Warrior,Sunlight Sensitivity
+Drow Favored Consort,Fey Ancestry
+Drow Favored Consort,Innate Spellcasting
+Drow Favored Consort,Normal Spellcasting
+Drow Favored Consort,Sunlight Sensitivity
+Drow Favored Consort,War Magic
+Drow House Captain,Battle Command
+Drow House Captain,Fey Ancestry
+Drow House Captain,Innate Spellcasting
+Drow House Captain,Sunlight Sensitivity
+Drow Inquisitor,Discern Lie
+Drow Inquisitor,Fey Ancestry
+Drow Inquisitor,Innate Spellcasting
+Drow Inquisitor,Magic Resistance
+Drow Inquisitor,Spellcasting
+Drow Inquisitor,Sunlight Sensitivity
+Drow Mage,Fey Ancestry
+Drow Mage,Innate Spellcasting
+Drow Mage,Normal Spellcasting
+Drow Mage,Sunlight Sensitivity
+Drow Matron Mother,Fey Ancestry
+Drow Matron Mother,Innate Spellcasting
+Drow Matron Mother,Lolths Fickle Favor
+Drow Matron Mother,Magic Resistance
+Drow Matron Mother,Normal Spellcasting
+Drow Matron Mother,Sunlight Sensitivity
+Drow Priestess of Lolth,Fey Ancestry
+Drow Priestess of Lolth,Innate Spellcasting
+Drow Priestess of Lolth,Normal Spellcasting
+Drow Priestess of Lolth,Sunlight Sensitivity
+Drow Shadowblade,Fey Ancestry
+Drow Shadowblade,Innate Spellcasting
+Drow Shadowblade,Shadow Step
+Drow Shadowblade,Sunlight Sensitivity
+Dryad,Innate Spellcasting
+Dryad,Magic Resistance
+Dryad,Speak with Beasts
+Dryad,Speak with Plants
+Dryad,Tree Stride
+Duergar,Duergar Resilience
+Duergar,Sunlight Sensitivity
+Duergar Darkhaft,Duergar Resilience
+Duergar Darkhaft,Sunlight Sensitivity
+Duergar Darkhaft,Normal Spellcasting (Psionics)
+Duergar Despot,Innate Spellcasting
+Duergar Despot,Magic Resistance
+Duergar Despot,Psychic Engine
+Duergar Despot,Sunlight Sensitivity
+Duergar Hammerer,Engine of Pain
+Duergar Hammerer,Siege Monster
+Duergar Kavalrachni,Cavalry Training
+Duergar Kavalrachni,Duergar Resilience
+Duergar Kavalrachni,Sunlight Sensitivity
+Duergar Keeper of the Flame,Duergar Resilience
+Duergar Keeper of the Flame,Innate Spellcasting (Psionics)
+Duergar Keeper of the Flame,Normal Spellcasting
+Duergar Mind Master,Duergar Resilience
+Duergar Mind Master,Sunlight Sensitivity
+Duergar Screamer,Engine of Pain
+Duergar Soulblade,Duergar Resilience
+Duergar Soulblade,Create Soulblade
+Duergar Soulblade,Innate Spellcasting
+Duergar Soulblade,Sunlight Sensitivity
+Duergar Spy,Cunning Action
+Duergar Spy,Duergar Resilience
+Duergar Spy,Sneak Attack
+Duergar Spy,Sunlight Sensitivity
+Duergar Stone Guard,Duergar Resilience
+Duergar Stone Guard,Phalanx Formation
+Duergar Stone Guard,Sunlight Sensitivity
+Duergar Warlord,Duergar Resilience
+Duergar Warlord,Sunlight Sensitivity
+Duergar Xarrorn,Duergar Resilience
+Duergar Xarrorn,Sunlight Sensitivity
+Eblis,Innate Spellcasting
+Eidolon,Incorporeal Movement
+Eidolon,Sacred Animation
+Eidolon,Turn Resistance
+Sacred Statue,False Appearance
+Sacred Statue,Ghostly Inhabitant
+Sacred Statue,Inert
+Autumn Eladrin,Enchanting Presence
+Autumn Eladrin,Fey Step
+Autumn Eladrin,Innate Spellcasting
+Autumn Eladrin,Magic Resistance
+Spring Eladrin,Fey Step
+Spring Eladrin,Innate Spellcasting
+Spring Eladrin,Joyful Presence
+Spring Eladrin,Magic Resistance
+Summer Eladrin,Fearsome Presence
+Summer Eladrin,Fey Step
+Summer Eladrin,Magic Resistance
+Winter Eladrin,Fey Step
+Winter Eladrin,Innate Spellcasting
+Winter Eladrin,Magic Resistance
+Winter Eladrin,Sorrowful Presence
+Elder Elemental Tempest,Air Form
+Elder Elemental Tempest,Flyby
+Elder Elemental Tempest,Legendary
+Elder Elemental Tempest,Living Storm
+Elder Elemental Tempest,Siege Monster
+Elder Elemental Leviathan,Legendary
+Elder Elemental Leviathan,Partial Freeze
+Elder Elemental Leviathan,Siege Monster
+Elder Elemental Leviathan,Water Form
+Elder Elemental Phoenix,Fiery Death and Rebirth
+Elder Elemental Phoenix,Fire Form
+Elder Elemental Phoenix,Flyby
+Elder Elemental Phoenix,Illumination
+Elder Elemental Phoenix,Legendary
+Elder Elemental Phoenix,Siege Monster
+Elder Elemental Zaratan,Earth-Shaking Movement
+Elder Elemental Zaratan,Legendary
+Elder Elemental Zaratan,Magic Weapons
+Elder Elemental Zaratan,Siege Monster
+Air Elemental Myrmidon,Magic Weapons
+Earth Elemental Myrmidon,Magic Weapons
+Fire Elemental Myrmidon,Illumination
+Fire Elemental Myrmidon,Magic Weapons
+Fire Elemental Myrmidon,Water Susceptibility
+Water Elemental Myrmidon,Magic Weapons
+Air Elemental,Air Form
+Earth Elemental,Earth Glide
+Earth Elemental,Siege Monster
+Fire Elemental,Fire Form
+Fire Elemental,Illumination
+Fire Elemental,Water Susceptibility
+Water Elemental,Water Form
+Water Elemental,Freeze
+Empyrean,Innate Spellcasting
+Empyrean,Legendary Resistance
+Empyrean,Magic Resistance
+Empyrean,Magic Weapons
+Eternal Flame Guardian,Flaming Weapon
+Eternal Flame Priest,Normal Spellcasting
+Flamewrath,Normal Spellcasting
+Flamewrath,Wreathed in Flame
+Razerblast,Searing Armor
+Razerblast,Shrapnel Explosion
+Ettercap,Spider Climb
+Ettercap,Web Sense
+Ettercap,Web Walker
+Ettin,Two Heads
+Ettin,Wakeful
+Faerie Dragon,Superior Invisibility
+Faerie Dragon,Limited Telepathy
+Faerie Dragon,Magic Resistance
+Faerie Dragon,Innate Spellcasting
+Firenewt Warlock of Imix,Amphibious
+Firenewt Warlock of Imix,Innate Spellcasting
+Firenewt Warlock of Imix,Normal Spellcasting
+Firenewt Warlock of Imix,Imixs Blessing
+Firenewt Warrior,Amphibious
+Flail Snail,Antimagic Shell
+Flail Snail,Flail Tentacles
+Flameskull,Illumination
+Flameskull,Magic Resistance
+Flameskull,Rejuvenation
+Flameskull,Normal Spellcasting
+Flumph,Advanced Telepathy
+Flumph,Prone Deficiency
+Flumph,Telepathic Shroud
+Flying Monkey,Pack Tactics
+Froghemoth,Amphibious
+Froghemoth,Shock SUsceptibility
+Gas Spore,Death Burst
+Gas Spore,Eerie Resemblance
+Shrieker,False Appearance
+Violet Fungus,False Appearance
+Galeb Duhr,False Appearance
+Galeb Duhr,Rolling Charge
+Gargoyle,False Appearance
+Giant Four-Armed Gargoyle,False Appearance
+Dao,Earth Glide
+Dao,Elemental Demise
+Dao,Innate Spellcasting
+Dao,Sure-Footed
+Djinni,Elemental Demise
+Djinni,Innate Spellcasting
+Efreeti,Elemental Demise
+Efreeti,Innate Spellcasting
+Marid,Amphibious
+Marid,Elemental Demise
+Marid,Innate Spellcasting
+Geonid,Boulder Guise
+Ghost,Ethereal Sight
+Ghost,Incorporeal Movement
+Ghast,Stench
+Ghast,Turning Defiance
+Giant Crayfish,Amphibious
+Giant Ice Toad,Amphibious
+Giant Ice Toad,Cold Aura
+Giant Ice Toad,Standing Leap
+Giant Lightning Eel,Water Breathing
+Giant Snapping Turtle,Amphibious
+Giant Snapping Turtle,Stable
+Giant Strider,Fire Absorption
+Cloud Giant,Keen Smell
+Cloud Giant,Innate Spellcasting
+Cloud Giant Smiling One,INnate Spellcasting
+Cloud Giant Smiling One,Normal Spellcasting
+Cloud Giant Smiling One,Keen Smell
+Fire Giant Dreadnought,Dual Shields
+Frost Giant Everlasting One,Extra Heads
+Frost Giant Everlasting One,Regeneration
+Frost Giant Everlasting One,Vapraks Rage
+Hill Giant Mouth of Grolantor,Mouth of Madness
+Stone Giant,Stone Camouflage
+Stone Giant Dreamwalker,Dreamwalkers Charm
+Storm Giant,Amphibious
+Storm Giant,Innate Spellcasting
+Storm Giant Quintessent,Amphibious
+Storm Giant Quintessent,Legendary
+Gibbering Mouther,Aberrant Ground
+Gibbering Mouther,Gibbering
+Giff,Headfirst Charge
+Giff,Firearms Knowledge
+Girallon,Aggressive
+Girallon,Keen Smell
+Githyanki Gish,Innate Spellcasting (Psionics)
+Githyanki Gish,Normal Spellcasting
+Githyanki Gish,War Magic
+Githyanki KithRak,Innate Spellcasting (Psionics)
+Githyanki KithRak,Rally the Troops
+Githyanki Knight,Innate Spellcasting
+Githyanki Supreme Commander,Innate Spellcasting (Psionics)
+Githyanki Supreme Commander,Legendary
+Githyanki Warrior,Innate Spellcasting
+Githzerai Anarch,Innate Spellcasting (Psionics)
+Githzerai Anarch,Psychic Defense
+Githzerai Anarch,Lair
+Githzerai Anarch,Legendary
+Githzerai Enlightened,Innate Spellcasting (Psionics)
+Githzerai Enlightened,Psychic Defense
+Githzerai Monk,Innate Spellcasting (Psionics)
+Githzerai Monk,Psychic Defense
+Githzerai Zerth,Innate Spellcasting
+Githzerai Zerth,Psychic Defense
+Gnoll,Rampage
+Gnoll Fang of Yeenoghu,Rampage
+Gnoll Flesh Gnawer,Rampage
+Gnoll Hunter,Rampage
+Gnoll Pack Lord,Rampage
+Gnoll Witherling,Rampage
+Flind,Aura of Blood Thirst
+Deep Gnome (Svirfneblin),Stone Camouflage
+Deep Gnome (Svirfneblin),Gnome Cunning
+Deep Gnome (Svirfneblin),Innate Spellcasting
+Goblin,Nimble Escape
+Goblin Boss,Nimble Escape
+Clay Golem,Acid Absorption
+Clay Golem,Berserk
+Clay Golem,Immutable Form
+Clay Golem,Magic Resistance
+Clay Golem,Magic Weapons
+Flesh Golem,Berserk
+Flesh Golem,Aversion of Fire
+Flesh Golem,Immutable Form
+Flesh Golem,Lightning Absorption
+Flesh Golem,Magic Resistance
+Flesh Golem,Magic Weapons
+Iron Golem,Fire Absorption
+Iron Golem,Immutable Form
+Iron Golem,Magic Resistance
+Iron Golem,Magic Weapons
+Stone Golem,Immutable Form
+Stone Golem,Magic Resistance
+Stone Golem,Magic Weapons
+Gorgon,Trampling Charge
+Grick,Stone Camouflage
+Grick Alpha,Stone Camouflage
+Griffon,Keen Sight
+Grimlock,Blind Senses
+Grimlock,Keen Hearing
+Grimlock,Keen Smell
+Grimlock,Stone Camouflage
+Grung,Amphibious
+Grung,Poisonous Skin
+Grung,Standing Leap
+Grung Elite Warrior,Amphibious
+Grung Elite Warrior,Poisonous Skin
+Grung Elite Warrior,Standing Leap
+Grung Wildling,Amphibious
+Grung Wildling,Poisonous SKin
+Grung Wildling,Normal Spellcasting
+Grung Wildling,Standing Leap
+Guardian Portrait,FALSE
+Guardian Portrait,Innate Spellcasting
+Annis Hag,Innate Spellcasting
+Bheur Hag,Graystaff Magic
+Bheur Hag,Ice Walk
+Bheur Hag,Innate Spellcasting
+Green Hag,Amphibious
+Green Hag,Innate Spellcasting
+Green Hag,Mimicry
+Night Hag,Innate Spellcasting
+Night Hag,Magic Resistance
+Sea Hag,Amphibious
+Sea Hag,Horrific Appearance
+Hell Hound,Keen Hearing
+Hell Hound,Keen Smell
+Hell Hound,Pack Tactics
+Helmed Horror,Magic Resistance
+Helmed Horror,Spell Immunity
+Hippogriff,Keen Sight
+Hobgoblin,Martial Advantage
+Hobgoblin Captain,Martial Advantage
+Hobgoblin Devastator,Arcane Advantage
+Hobgoblin Devastator,Army Arcana
+Hobgoblin Devastator,Normal Spellcasting
+Hobgoblin Iron Shadow,Normal Spellcasting
+Hobgoblin Iron Shadow,Unarmored Defense
+Hobgoblin Warlord,Martial Advantage
+Homunculus,Telepathic Bond
+Hook Horror,Echolocation
+Hook Horror,Keen Hearing
+Howler,Pack Tactics
+Howling Hatred Initiate,Guiding Wind
+Howling Hatred Initiate,Hold Breath
+Howling Hatred Priest,Hold Breath
+Howling Hatred Priest,Normal Spellcasting
+Feathergale Knight,Normal Spellcasting
+Hurricane,Normal Spellcasting
+Hurricane,Unarmored Defense
+Hurricane,Unarmored Movement
+Skyweaver,Normal Spellcasting
+Hulking Crab,Amphibious
+Hulking Crab,Shell Camouflage
+Hydra,Hold Breath
+Hydra,Multiple Heads
+Hydra,Reactive Heads
+Hydra,Wakeful
+Ice Toad,Amphibious
+Ice Toad,Cold Aura
+Ice Toad,Standing Leap
+Inevitable Marut,Immutable Form
+Inevitable Marut,Innate Spellcasting
+Inevitable Marut,Legendary Resistance
+Inevitable Marut,Magic Resistance
+Intellect Devourer,Detect Sentience
+Invisible Stalker,Invisibility
+Invisible Stalker,Faultless Tracker
+Vampiric Ixitxachitl,Regeneration
+Jackalwere,Shapechanger
+Jackalwere,Keen Hearing
+Jackalwere,Keen Smell
+Jackalwere,Pack Tactics
+Jaculi,Camouflage
+Jaculi,Keen Smell
+Kalka-Kylla,Amphibious
+Kalka-Kylla,False Appearance
+Kalka-Kylla,Shell
+Kamadan,Keen Smell
+Kamadan,Pounce
+Kelpie,Amphibious
+Kelpie,Seaweed Shape
+Kelpie,False Appearance
+Kenku,Ambusher
+Kenku,Mimicry
+Ki-Rin,Innate Spellcasting
+Ki-Rin,Legendary Resistance
+Ki-Rin,Lair
+Ki-Rin,Magic Resistance
+Ki-Rin,Magic Weapons
+Ki-Rin,Normal Spellcasting
+Kobold,Sunlight Sensitivity
+Kobold,Pack Tactics
+Kobold Dragonshield,Dragons Resistance
+Kobold Dragonshield,Heart of the Dragon
+Kobold Dragonshield,Pack Tactics
+Kobold Dragonshield,Sunlight Sensitivity
+Kobold Inventor,Pack Tactics
+Kobold Inventor,Sunlight Sensitivity
+Kobold Scale Sorcerer,Normal Spellcasting
+Kobold Scale Sorcerer,Sorcery Points
+Kobold Scale Sorcerer,Pack Tactics
+Kobold Scale Sorcerer,Sunlight Sensitivity
+Winged Kobold,Sunlight Sensitivity
+Winged Kobold,Pack Tactics
+Korred,Command Hair
+Korred,Innate Spellcasting
+Korred,Stone Camouflage
+Korred,Stones Strength
+Kraken,Amphibious
+Kraken,Freedom of Movement
+Kraken,Siege Monster
+Kraken,Lair
+Kraken,Legendary
+Malformed Kraken,Amphibious
+Malformed Kraken,Siege Monster
+Kruthik Hive Lord,Keen Smell
+Kruthik Hive Lord,Pack Tactics
+Kruthik Hive Lord,Tunneler
+Adult Kruthik,Keen Smell
+Adult Kruthik,Pack Tactics
+Adult Kruthik,Tunneler
+Young Kruthik,Keen Smell
+Young Kruthik,Pack Tactics
+Young Kruthik,Tunneler
+Kuo-Toa,Amphibious
+Kuo-Toa,Otherworldly Perception
+Kuo-Toa,Slippery
+Kuo-Toa,Sunlight Sensitivity
+Kuo-Toa Archpriest,Amphibious
+Kuo-Toa Archpriest,Otherworldly Perception
+Kuo-Toa Archpriest,Slippery
+Kuo-Toa Archpriest,Sunlight Sensitivity
+Kuo-Toa Archpriest,Normal Spellcasting
+Kuo-Toa Whip,Amphibious
+Kuo-Toa Whip,Otherworldly Perception
+Kuo-Toa Whip,Slippery
+Kuo-Toa Whip,Sunlight Sensitivity
+Kuo-Toa Whip,Normal Spellcasting
+Lamia,Innate Spellcasting
+Leucrotta,Keen Smell
+Leucrotta,Kicking Retreat
+Leucrotta,Mimicry
+Leucrotta,Rampage
+Lich,Legendary
+Lich,Rejuvenation
+Lich,Normal Spellcasting
+Lich,Turn Resistance
+Lich,Lair
+Lizard King/Queen,Hold Breath
+Lizard King/Queen,Skewer
+Lizardfolk,Hold Breath
+Lizardfolk Shaman,Hold Breath
+Lizardfolk Shaman,Normal Spellcasting
+Werebear,Shapechanger
+Werebear,Keen Smell
+Wereboar,Shapechanger
+Wereboar,Charge
+Wereboar,Relentless
+Wererat,Shapechanger
+Wererat,Keen Smell
+Wereraven,Shapechanger
+Wereraven,Mimicry
+Weretiger,Shapechanger
+Weretiger,Keen Hearing
+Weretiger,Keen Smell
+Weretiger,Pounce
+Werewolf,Shapechanger
+Werewolf,Keen Hearing
+Werewolf,Keen Smell
+Magmin,Death Burst
+Magmin,Ignited Illumination
+Manticore,Tail Spike Regrowth
+Mantrap,Attractive Pollen
+Mantrap,False Appearance
+Meazel,Shadow Stealth
+Medusa,Petrifying Gaze
+Meenlock,Fear Aura
+Meenlock,Light Sensitivity
+Meenlock,Shadow Teleport
+Dust Mephit,Death Burst
+Dust Mephit,Innate Spellcasting
+Ice Mephit,Death Burst
+Ice Mephit,False Appearance
+Ice Mephit,Innate Spellcasting
+Magma Mephit,Death Burst
+Magma Mephit,False Appearance
+Magma Mephit,Innate Spellcasting
+Mud Mephit,Death Burst
+Mud Mephit,False Appearance
+Smoke Mephit,Death Burst
+Smoke Mephit,Innate Spellcasting
+Steam Mephit,Death Burst
+Steam Mephit,Innate Spellcasting
+Merfolk,Amphibious
+Merrow,Amphibious
+Mimic,Shapechanger
+Mimic,Adhesive
+Mimic,False Appearance
+Mimic,Grappler
+Mind Flayer,Magic Resistance
+Mind Flayer,Innate Spellcasting (Psionics)
+Illithlich,Legendary Resistance
+Illithlich,Rejuvenation
+Illithlich,Lair
+Illithlich,Normal Spellcasting
+Illithlich,Turn Resistance
+Illithlich,Magic Resistance
+Illithlich,Innate Spellcasting (Psionics)
+Alhoon,Magic Resistance
+Alhoon,Innate Spellcasting (Psionics)
+Alhoon,Normal Spellcasting
+Alhoon,Turn Resistance
+Elder Brain,Creature Sense
+Elder Brain,Innate Spellcasting (Psionics)
+Elder Brain,Lair
+Elder Brain,Legendary Resistance
+Elder Brain,Magic Resistance
+Elder Brain,Telepathic Hub
+Ulitharid,Creature Sense
+Ulitharid,Magic Resistance
+Ulitharid,Psionic Hub
+Ulitharid,Innate SPellcasting (Psionics)
+Mindwitness,Telepathic Hub
+Minotaur,Charge
+Minotaur,Labyrinthine Recall
+Minotaur,Reckless
+Awakened Shrub,False Appearance
+Awakened Tree,False Appearance
+Baboon,Pack Tactics
+Badger,Keen Smell
+Bat,Echolocation
+Bat,Keen Hearing
+Black Bear,Keen Smell
+Blink Dog,Keen Hearing
+Blink Dog,Keen Smell
+Blink Dog,Pack Tactics
+Blood Hawk,Keen Sight
+Blood Hawk,Pack Tactics
+Boar,Charge
+Boar,Relentless
+Brown Bear,Keen Smell
+Cat,Keen Smell
+Crab,Amphibious
+Crocodile,Hold Breath
+Death Dog,Two-Headed
+Dire Wolf,Keen Hearing
+Dire Wolf,Keen Smell
+Dire Wolf,Pack Tactics
+Eagle,Keen Sight
+Elephant,Trampling Charge
+Elk,Charge
+Flying Snake,Flyby
+Frog,Amphibious
+Frog,Standing Leap
+Giant Badger,Keen Smell
+Giant Bat,Echolocation
+Giant Bat,Keen Hearing
+Giant Boar,Charge
+Giant Boar,Relentless
+Giant Crab,Amphibious
+Giant Crocodile,Hold Breath
+Giant Eagle,Keen Sight
+Giant Elk,Charge
+Giant Fire Beetle,Illumination
+Giant Frog,Amphibious
+Giant Frog,Standing Leap
+Giant Goat,Charge
+Giant Goat,Sure-Footed
+Giant Hyena,Rampage
+Giant Octopus,Hold Breath
+Giant Octopus,Underwater Camouflage
+Giant Octopus,Water Breathing
+Giant Owl,FLyby
+Giant Owl,Keen Hearing
+Giant Owl,Keen Sight
+Giant Rat,Keen Smell
+Giant Rat,Pack Tactics
+Giant Sea Horse,Charge
+Giant Sea Horse,Water Breathing
+Giant Shark,Blood Frenzy
+Giant Shark,Water Breathing
+Giant Spider,Spider Climb
+Giant Spider,Web Sense
+Giant Spider,Web Walker
+Giant Toad,Amphibious
+Giant Toad,Standing Leap
+Giant Vulture,Keen Sight
+Giant Vulture,Keen Smell
+Giant Vulture,Pack Tactics
+Giant Weasel,Keen Hearing
+Giant Weasel,Keen Smell
+Giant Wolf Spider,Spider Climb
+Giant Wolf Spider,Web Sense
+Giant Wolf Spider,Web Walker
+Goat,Charge
+Goat,Sure-Footed
+Hawk,Keen Sight
+Hunter Shark,Blood Frenzy
+Hunter Shark,Water Breathing
+Hyena,Pack Tactics
+Jackal,Keen Hearing
+Jackal,Keen Smell
+Jackal,Pack Tactics
+Killer Whale,Echolocation
+Killer Whale,Hold Breath
+Killer Whale,Keen Hearing
+Lion,Keen Smell
+Lion,Pack Tactics
+Lion,Pounce
+Lion,Running Leap
+Mammoth,Trampling Charge
+Mastiff,Keen Hearing
+Mastiff,Keen Smell
+Mule,Beast of Burden
+Mule,Sure-Footed
+Octopus,Hold Breath
+Octopus,Underwater Camouflage
+Octopus,Water Breathing
+Owl,FLyby
+Owl,Keen Hearing
+Owl,Keen Sight
+Panther,Keen Smell
+Panther,Pounce
+Phase Spider,Ethereal Jaunt
+Phase Spider,Spider Climb
+Phase Spider,Web Walker
+Polar Bear,Keen Smell
+Quipper,Blood Frenzy
+Quipper,Water Breathing
+Rat,Keen Smell
+Raven,Mimicry
+Reef Shark,Pack Tactics
+Reef Shark,Water Breathing
+Rhinoceros,Charge
+Saber-Toothed Tiger,Keen Smell
+Saber-Toothed Tiger,Pounce
+Sea Horse,Water Breathing
+Spider,Spider Climb
+Spider,Web Sense
+Spider,Web Walker
+Swarm of Bats,Echolocation
+Swarm of Bats,Keen Hearing Swarm
+Swarm of Insects,Swarm
+Swarm of Poisonous Snakes,Swarm
+Swarm of Quippers,Blood Frenzy
+Swarm of Quippers,Swarm
+Swarm of Quippers,Water Breathing
+Swarm of Rats,Keen Smell
+Swarm of Rats,Swarm
+Swarm of Ravens,Swarm
+Tiger,Keen Smell
+Tiger,Pounce
+Vulture,Keen Sight
+Vulture,Keen Smell
+Vulture,Pack Tactics
+Warhorse,Trampling Charge
+Weasel,Keen Hearing
+Weasel,Keen Smell
+Winter Wolf,Keen Hearing
+Winter Wolf,Keen Smell
+Winter Wolf,Pack Tactics
+Winter Wolf,Snow Camouflage
+Wolf,Keen Hearing
+Wolf,Keen Smell
+Wolf,Pack Tactics
+Worg,Keen Hearing
+Worg,Keen Smell
+Duodrone,Axiomatic Mind
+Duodrone,Disintegration
+Monodrone,Axiomatic Mind
+Monodrone,Disintegration
+Pentadrone,Axiomatic Mind
+Pentadrone,Disintegration
+Quadrone,Axiomatic Mind
+Quadrone,Disintegration
+Tridrone,Axiomatic Mind
+Tridrone,Disintegration
+Mongrelfolk,Mimicry
+Morkoth,Amphibious
+Morkoth,Normal Spellcasting
+Mummy Lord,Magic Resistance
+Mummy Lord,Rejuvenation
+Mummy Lord,Normal Spellcasting
+Mummy Lord,Legendary
+Mummy Lord,Lair
+Myconid Adult,Distress Spores
+Myconid Adult,Sun Sickness
+Myconid Sovereign,Distress Spores
+Myconid Sovereign,Sun Sickness
+Myconid Sprout,Distress Spores
+Myconid Sprout,Sun Sickness
+Naergoth Bladelord,Sunlight Sensitivity
+Bone Naga,Normal Spellcasting
+Guardian Naga,Rejuvenation
+Guardian Naga,Normal Spellcasting
+Spirit Naga,Rejuvenation
+Spirit Naga,Normal Spellcasting
+Nagpa,Corruption
+Nagpa,Paralysis
+Nagpa,Normal Spellcasting
+Neogi,Mental Fortitude
+Neogi,Spider Climb
+Neogi Hatchling,Mental Fortitude
+Neogi Hatchling,Spider Climb
+Neogi Master,Mental Fortitude
+Neogi Master,Normal Spellcasting
+Neogi Master,Spider Climb
+Neothelid,Creature Sense
+Neothelid,Innate Spellcasting (Psionics)
+Neothelid,Magic Resistance
+Nereid,Amphibious
+Nereid,Aquatic Invisibility
+Nereid,Mantle Dependent
+Nereid,Shape Water
+Nereid,Speak with Animals
+Nightmare,Confer Fire Resistance
+Nightmare,Illumination
+Nightwalker,Annihilating Aura
+Nightwalker,Life Eater
+Nilbog,Innate Spellcasting
+Nilbog,Nilbogism
+Nilbog,Nimble Escape
+Nothic,Keen Sight
+Abjurer,Normal Spellcasting
+Abjurer,Arcane Ward
+Acolyte,Normal Spellcasting
+Apprentice Wizard,Normal Spellcasting
+Archdruid,Normal Spellcasting
+Archer,Archers Eye
+Archmage,Magic Resistance
+Archmage,Normal Spellcasting
+Assassin,Assassinate
+Assassin,Evasion
+Assassin,Sneak Attack
+Bard,Normal SPellcasting
+Bard,Song of Rest
+Bard,Taunt
+Berserker,Reckless
+Blackguard,Normal Spellcasting
+Champion,Indomitable
+Champion,Second Wind
+Conjurer,Normal Spellcasting
+Conjurer,Benign Transportation
+Cult Fanatic,Dark Devotion
+Cult Fanatic,Normal Spellcasting
+Cultist,Dark Devotion
+Diviner,Normal Spellcasting
+Diviner,Portent
+Druid,Normal Spellcasting
+Enchanter,Normal SPellcasting
+Evoker,Normal Spellcasting
+Evoker,Sculpt Spells
+Gladiator,Brave
+Gladiator,Brute
+Illusionist,Normal Spellcasting
+Illusionist,Displacement
+Knight,Brave
+Kraken Priest,Amphibious
+Kraken Priest,Innate Spellcasting
+Mage,Normal Spellcasting
+Martial Arts Adept,Unarmored Defense
+Master Thief,Cunning ACtion
+Master Thief,Evasion
+Master Thief,Sneak Attack
+Necromancer,Normal Spellcasting
+Necromancer,Grim Harvest
+Priest,Divine Eminence
+Priest,Spellcasting
+Scout,Keen Hearing
+Scout,Keen Sight
+Spy,Cunning Action
+Spy,Sneak Attack
+Swashbuckler,Lightfooted
+Swashbuckler,Suave Defense
+Thug,Pack Tactics
+Transmuter,Normal Spellcasting
+Transmuter,Transmuters Stone
+Tribal Warrior,Pack Tactics
+War Priest,Normal Spellcasting
+Warlock of the Archfey,Innate Spellcasting
+Warlock of the Archfey,Normal Spellcasting
+Warlock of the Fiend,Innate SPellcasting
+Warlock of the Fiend,Normal Spellcasting
+Warlock of the Fiend,Dark Ones Own Luck
+Warlock of the Great Old One,Innate Spellcasting
+Warlock of the Great Old One,Normal Spellcasting
+Warlock of the Great Old One,Whispering Aura
+Warlord,Indomitable
+Warlord,Survivor
+Oblex Spawn,Amorphous
+Oblex Spawn,Aversion to Fire
+Adult Oblex,Amorphous
+Adult Oblex,Aversion to Fire
+Adult Oblex,Innate Spellcasting
+Adult Oblex,Sulfurous Impersonation
+Elder Oblex,Amorphous
+Elder Oblex,Aversion to Fire
+Elder Oblex,Innate Spellcasting
+Elder Oblex,Sulfurous Impersonation
+Ogre Battering Ram,Siege Monster
+Ogre Howdah,Howdah
+Oni,Innate Spellcasting
+Oni,Magic Weapons
+Oni,Regeneration
+Ooze Master,Corrosive Form
+Ooze Master,Instinctive Attack
+Ooze Master,Normal Spellcasting
+Ooze Master,Spider Climb
+Black Pudding,Amorphous
+Black Pudding,Corrosive Form
+Black Pudding,Spider Climb
+Gelatinous Cube,Ooze Cube
+Gelatinous Cube,Transparent
+Gray Ooze,Amorphous
+Gray Ooze,Corrode Metal
+Gray Ooze,False Appearance
+Ochre Jelly,Amorphous
+Ochre Jelly,Spider Climb
+Orc,Aggressive
+Orc Blade of Ilneval,Aggressive
+Orc Blade of Ilneval,Foe Smiter of Ilneval
+Orc Claw of Luthic,Aggressive
+Orc Claw of Luthic,Normal Spellcasting
+Orc Eye of Gruumsh,Aggressive
+Orc Eye of Gruumsh,Gruumshs Fury
+Orc Eye of Gruumsh,Normal Spellcasting
+Orc Hand of Yurtrus,Aggressive
+Orc Hand of Yurtrus,Normal Spellcasting
+Orc Nurtured One of Yurtrus,Aggressive
+Orc Nurtured One of Yurtrus,Corrupted Carrier
+Orc Nurtured One of Yurtrus,Nurtured One of Yurtrus
+Orc Red Fang of Shargaas,Cunning Action
+Orc Red Fang of Shargaas,Hand of Shargaas
+Orc Red Fang of Shargaas,Shargaas Sight
+Orc Red Fang of Shargaas,Slayer
+Orc War Chief,Aggressive
+Orc War Chief,Gruumshs Fury
+Orog,Aggressive
+Tanarukk,Aggressive
+Tanarukk,Magic Resistance
+Otyugh,Limited Telepathy
+Owlbear,Keen Sight
+Owlbear,Keen Smell
+Peryton,Dive Attack
+Peryton,Flyby
+Peryton,Keen Sight
+Peryton,Keen Smell
+Phantom Warrior,Ethereal Sight
+Phantom Warrior,Incorporeal Movement
+Phantom Warrior,Spectral Armor and Shield
+Piercer,False Appearance
+Piercer,Spider Climb
+Pixie,Magic Resistance
+Pixie,Innate Spellcasting (Psionics)
+Prince of Apocalypse Imix,Empowered Attacks
+Prince of Apocalypse Imix,Fire Aura
+Prince of Apocalypse Imix,Fire Form
+Prince of Apocalypse Imix,Illumination
+Prince of Apocalypse Imix,Legendary Resistance
+Prince of Apocalypse Imix,Innate Spellcasting
+Prince of Apocalypse Imix,Magic Resistance
+Prince of Apocalypse Imix,Lair
+Prince of Apocalypse Ogremoch,Empowered Attacks
+Prince of Apocalypse Ogremoch,Innate Spellcasting
+Prince of Apocalypse Ogremoch,Legendary Resistance
+Prince of Apocalypse Ogremoch,Magic Resistance
+Prince of Apocalypse Ogremoch,Siege Monster
+Prince of Apocalypse Ogremoch,Lair
+Prince of Apocalypse Olhydra,Empowered Attacks
+Prince of Apocalypse Olhydra,Innate Spellcasting
+Prince of Apocalypse Olhydra,Legendary Resistance
+Prince of Apocalypse Olhydra,Water Form
+Prince of Apocalypse Olhydra,Lair
+Prince of Apocalypse Yan-C-BIn,Air Form
+Prince of Apocalypse Yan-C-BIn,Empowered Attacks
+Prince of Apocalypse Yan-C-BIn,Innate Spellcasting
+Prince of Apocalypse Yan-C-BIn,Legendary Resistance
+Prince of Apocalypse Yan-C-BIn,Magic Resistance
+Prince of Apocalypse Yan-C-BIn,Lair
+Pseudodragon,Keen Senses
+Pseudodragon,Magic Resistance
+Pseudodragon,Limited Telepathy
+Pterafolk,Terror Dive
+Purple Worm,Tunneler
+Quaggoth,Wounded Fury
+Quickling,Blurred Movement
+Quickling,Evasion
+Rakshasa,Limited Magic Immunity
+Rakshasa,Innate Spellcasting
+Redcap,Iron Boots
+Redcap,Outsize Strength
+Remorhaz,Heated Body
+Young Remorhaz,Heated Body
+Retriever,Faultless Tracker
+Retriever,Innate Spellcasting
+Revenant,Regeneration
+Revenant,Rejuvenation
+Revenant,Turn Immunity
+Revenant,Vengeful Tracker
+Roc,Keen Sight
+Roper,False Appearance
+Roper,Grasping Tendrils
+Roper,Spider Climb
+Rust Monster,Iron Scent
+Rust Monster,Rust Metal
+Sahuagin,Blood Frenzy
+Sahuagin,Limited Amphibious
+Sahuagin,Shark Telepathy
+Sahuagin Baron,Blood Frenzy
+Sahuagin Baron,Limited Amphibious
+Sahuagin Baron,Shark Telepathy
+Sahuagin Priestess,Blood Frenzy
+Sahuagin Priestess,Limited Amphibious
+Sahuagin Priestess,Shark Telepathy
+Sahuagin Priestess,Normal Spellcasting
+Salamander,Heated Body
+Fire Snake,Heated Body
+Fire Snake,Heated Weapons
+Frost Salamander,Burning Fury
+Satyr,Magic Resistance
+Scarecrow,False Appearance
+Sea Lion,Amphibious
+Sea Lion,Keen Smell
+Sea Lion,Pack Tactics
+Sea Lion,Swimming Leap
+Sea Spawn,Limited Amphibiousness
+Shadar-Kai Gloom Weaver,Burden of Time
+Shadar-Kai Gloom Weaver,Fey Ancestry
+Shadar-Kai Gloom Weaver,Innate Spellcasting
+Shadar-Kai Gloom Weaver,Normal Spellcasting
+Shadar-Kai Shadow Dancer,Fey Ancestry
+Shadar-Kai Shadow Dancer,Shadow Jump
+Shadar-Kai Soul Monger,Fey Ancestry
+Shadar-Kai Soul Monger,Innate Spellcasting
+Shadar-Kai Soul Monger,Magic Resistance
+Shadar-Kai Soul Monger,Soul Thirst
+Shadar-Kai Soul Monger,Weight of Ages
+Shadow,Amorphous
+Shadow,Shadow Stealth
+Shadow,Sunlight Weakness
+Shadow Mastiff,Ethereal Awareness
+Shadow Mastiff,Keen Hearing
+Shadow Mastiff,Keen Smell
+Shadow Mastiff,Shadow Blend
+Shadow Mastiff,Sunlight Weakness
+Shadow Mastiff Alpha,Ethereal Awareness
+Shadow Mastiff Alpha,Keen Hearing
+Shadow Mastiff Alpha,Keen Smell
+Shadow Mastiff Alpha,Shadow Blend
+Shadow Mastiff Alpha,Sunlight Weakness
+Shambling Mound,Lightning Absorption
+Shield Guardian,Bound
+Shield Guardian,Regeneration
+Shield Guardian,Spell Storing
+Siren,Amphibious
+Siren,INnate Spellcasting
+Siren,Magic Resistance
+Giant Skeleton,Evasion
+Giant Skeleton,Magic Resistance
+Giant Skeleton,Turn Immunity
+Minotaur Skeleton,Charge
+Skulk,Fallible Invisibility
+Skulk,Trackless
+Skull Lord,Legendary Resistance
+Skull Lord,Master of the Grave
+Skull Lord,Evasion
+Skull Lord,Normal Spellcasting
+Slaad Tadpole,Magic Resistance
+Blue Slaad,Magic Resistance
+Blue Slaad,Regeneration
+Death Slaad,Shapechanger
+Death Slaad,Innate Spellcasting
+Death Slaad,Magic Resistance
+Death Slaad,Magic Weapons
+Death Slaad,Regeneration
+Gray Slaad,Shapechanger
+Gray Slaad,Innate Spellcasting
+Gray Slaad,Magic Resistance
+Gray Slaad,Magic Weapons
+Gray Slaad,Regeneration
+Green Slaad,Shapechanger
+Green Slaad,Innate Spellcasting
+Green Slaad,Magic Resistance
+Green Slaad,Regeneration
+Red Slaad,Magic Resistance
+Red Slaad,Regeneration
+Slithering Tracker,Ambusher
+Slithering Tracker,Damage Transfer
+Slithering Tracker,False Appearance
+Slithering Tracker,Keen Tracker
+Slithering Tracker,Liquid Form
+Slithering Tracker,Spider Climb
+Slithering Tracker,Watery Stealth
+The Angry,Two Heads
+The Angry,Rising Anger
+The Hungry,Life Hunger
+The Lonely,Psychic Leech
+The Lonely,Thrives on Company
+The Wretched,Wretched Pack Tactics
+Spawn of Kyuss,Regeneration
+Spawn of Kyuss,Worms
+Specter,Incorporeal Movement
+Specter,Sunlight Sensitivity
+Androsphinx,Inscrutable
+Androsphinx,Magic Weapons
+Androsphinx,Normal Spellcasting
+Androsphinx,Lair
+Androsphinx,Legendary
+Gynosphinx,Inscrutable
+Gynosphinx,Magic Weapons
+Gynosphinx,Normal Spellcasting
+Gynosphinx,Legendary
+Gynosphinx,Lair
+Star Spawn Grue,Aura of Madness
+Star Spawn Hulk,Psychic Mirror
+Star Spawn Larva Mage,Innate Spellcasting
+Star Spawn Larva Mage,Return to Worms
+Star Spawn Larva Mage,Legendary
+Star Spawn Mangler,Ambusher
+Star Spawn Mangler,Shadow Stealth
+Star Spawn Seer,Out-of-Phase Movement
+Female Steeder,Spider Climb
+Female Steeder,Extraordinary Leap
+Male Steeder,Spider Climb
+Male Steeder,Extraordinary Leap
+Steel Predator,Innate Spellcasting
+Steel Predator,Magic Resistance
+Steel Predator,Magic Weapons
+Stone Cursed,Cunning Opportunist
+Stone Cursed,False Appearance
+Stone Juggernaut,Devastating Roll
+Stone Juggernaut,Immutable Form
+Stone Juggernaut,Regeneration
+Stone Juggernaut,Siege Monster
+Succubus/Incubus,Telepathic Bond
+Succubus/Incubus,Shapechanger
+Sword Wraith Commander,Martial Fury
+Sword Wraith Commander,Turning Defiance
+Sword Wraith Warrior,Martial Fury
+Tabaxi Hunter,Feline Agility
+Tabaxi Minstrel,Feline Agility
+Tabaxi Minstrel,Inspire
+Tarrasque,Legendary
+Tarrasque,Magic Resistance
+Tarrasque,Reflective Carapace
+Tarrasque,Siege Monster
+Tecuziztecatl,Amphibious
+Tecuziztecatl,Glowing
+Tecuziztecatl,Flexible
+Tecuziztecatl,Spider Climb
+Thayan Apprentice,Doomvault Devotion
+Thayan Apprentice,Normal Spellcasting
+Thayan Warrior,Doomvault Devotion
+Thayan Warrior,Pack Tactics
+Thorn Slinger,Adhesive Blossoms
+Thorn Slinger,False Appearance
+Thorny,Plant Camouflage
+Thorny,Regeneration
+Thri-Kreen,Chameleon Carapace
+Thri-Kreen,Standing Leap
+Tiamat,Discorporation
+Tiamat,Innate Spellcasting
+Tiamat,Legendary Resistance
+Tiamat,Limited Magic immunity
+Tiamat,Magic Weapons
+Tiamat,Multiple Heads
+Tiamat,Regeneration
+Topi,Turn Resistance
+Topi,Undead Fortitude
+Tortle,Hold Breath
+Tortle Druid,Hold Breath
+Tortle Druid,Normal Spellcasting
+Trapper,False Appearance
+Trapper,Spider Climb
+Treant,False Appearance
+Treant,Siege Monster
+Tressym,Detect Invisibility
+Tressym,Keen Smell
+Tressym,Poison Sense
+Troglodyte,Chameleon Skin
+Troglodyte,Stench
+Troglodyte,Sunlight Sensitivity
+Troglodyte Champion of Laogzed,Chameleon Skin
+Troglodyte Champion of Laogzed,Stench
+Troglodyte Champion of Laogzed,Sunlight Sensitivity
+Troll,Keen Smell
+Troll,Regeneration
+Dire Troll,Keen Smell
+Dire Troll,Keen Sight
+Dire Troll,Regeneration
+Rot Troll,Rancid Degeneration
+Spirit Troll,Incorporeal Movement
+Spirit Troll,Regeneration
+Venom Troll,Keen Smell
+Venom Troll,Poison Splash
+Venom Troll,Regeneration
+Umber Hulk,Confusing Gaze
+Umber Hulk,Tunneler
+Unicorn,Legendary
+Unicorn,Lair
+Unicorn,Charge
+Unicorn,Innate Spellcasting
+Unicorn,Magic Resistance
+Unicorn,Magic Weapons
+Uthgardt Shaman,Innate Spellcasting
+Vampire,Shapechanger
+Vampire,Legendary
+Vampire,Lair
+Vampire,Misty Escape
+Vampire,Regeneration
+Vampire,Spider Climb
+Vampire,Vampire Weaknesses
+Vampire,Forbiddance
+Vampire,Harmed by Running Water
+Vampire,Sunlight Hypersensitivity
+Vampire,Stake to the Heart
+Vampire Spawn,Regeneration
+Vampire Spawn,Spider Climb
+Vampire Spawn,Vampire Weaknesses
+Vampire Spawn,Forbiddance
+Vampire Spawn,Harmed by Running Water
+Vampire Spawn,Stake to the Heart
+Vampire Spawn,Sunlight Hypersensitivity
+Vampiric Mist,Life Sense
+Vampiric Mist,Forbiddance
+Vampiric Mist,Misty Form
+Vampiric Mist,Sunlight Hypersensitivity
+Vegepygmy,Plant Camouflage
+Vegepygmy,Regeneration
+Vegepygmy Chief,Plant Camouflage
+Vegepygmy Chief,Regeneration
+Water Weird,Invisible in Water
+Water Weird,Water Bound
+White Maw,Amorphous Form
+White Maw,Corrode Metal
+White Maw,False Appearance
+White Maw,Killer Response
+Wight,Sunlight Sensitivity
+Will-O-Wisp,Consume Life
+Will-O-Wisp,Ephemeral
+Will-O-Wisp,Incorporeal Movement
+Will-O-Wisp,Variable Illumination
+Wood Woad,Magic Club
+Wood Woad,Plant Camouflage
+Wood Woad,Regeneration
+Wood Woad,Tree Stride
+Wraith,Incorporeal Movement
+Wraith,Sunlight Sensitivity
+Xorn,Earth Glide
+Xorn,Stone Camouflage
+Xorn,Treasure Sense
+Xvart,Low Cunning
+Xvart,Overbearing Pack
+Xvart,Raxivorts Tongue
+Xvart Speaker,Low Cunning
+Xvart Speaker,Overbearing Pack
+Xvart Speaker,Raxivorts Tongue
+Xvart Warlock of Raxivort,Innate Spellcasting
+Xvart Warlock of Raxivort,Normal Spellcasting
+Xvart Warlock of Raxivort,Low Cunning
+Xvart Warlock of Raxivort,Raxivorts Blessing
+Xvart Warlock of Raxivort,Raxivorts Tongue
+Yakfolk Priest,Normal Spellcasting
+Yakfolk Priest,Possession
+Yakfolk Warrior,Possession
+Yellow Musk Creeper,False Appearance
+Yellow Musk Creeper,Regeneration
+Yellow Musk Zombie,Undead Fortitude
+Yeth Hound,Keen Hearing
+Yeth Hound,Keen Smell
+Yeth Hound,Sunlight Banishment
+Yeth Hound,Telepathic Bond
+Yeti,Fear of Fire
+Yeti,Keen Smell
+Yeti,Snow Camouflage
+Abominable Yeti,Fear of Fire
+Abominable Yeti,Keen Smell
+Abominable Yeti,Snow Camouflage
+Yuan-Ti Abomination,Shapechanger
+Yuan-Ti Abomination,Innate Spellcasting
+Yuan-Ti Abomination,Magic Resistance
+Yuan-Ti Anathema,Innate Spellcasting
+Yuan-Ti Anathema,Magic Resistance
+Yuan-Ti Anathema,Ophidiophobia Aura
+Yuan-Ti Anathema,Shapechanger
+Yuan-Ti Anathema,Six Heads
+Yuan-Ti Broodguard,Mental Resistance
+Yuan-Ti Broodguard,Reckless
+Yuan-Ti Malison,Shapechanger
+Yuan-Ti Malison,Innate Spellcasting
+Yuan-Ti Malison,Magic Resistance
+Yuan-Ti Malison,Malison Type
+Yuan-Ti Mind Whisperer,Shapechanger
+Yuan-Ti Mind Whisperer,Innate Spellcasting
+Yuan-Ti Mind Whisperer,Magic Resistance
+Yuan-Ti Mind Whisperer,Mind Fangs
+Yuan-Ti Mind Whisperer,Normal Spellcasting
+Yuan-Ti Mind Whisperer,Sseths Blessing
+Yuan-Ti Nightmare Speaker,Shapechanger
+Yuan-Ti Nightmare Speaker,Death Fangs
+Yuan-Ti Nightmare Speaker,Innate Spellcasting
+Yuan-Ti Nightmare Speaker,Magic Resistance
+Yuan-Ti Nightmare Speaker,Normal Spellcasting
+Yuan-Ti Pit Master,Shapechanger
+Yuan-Ti Pit Master,Innate Spellcasting
+Yuan-Ti Pit Master,Magic Resistance
+Yuan-Ti Pit Master,Poisons Disciple
+Yuan-Ti Pit Master,Normal Spellcasting
+Yuan-Ti Pureblood,Innate Spellcasting
+Yuan-Ti Pureblood,Magic Resistance
+Arcanaloth,Innate Spellcasting
+Arcanaloth,Magic Resistance
+Arcanaloth,Magic Weapons
+Arcanaloth,Normal Spellcasting
+Canoloth,Dimensional Lock
+Canoloth,Magic Resistance
+Canoloth,Magic Weapons
+Canoloth,Uncanny Senses
+Dhergoloth,Innate Spellcasting
+Dhergoloth,Magic Resistance
+Dhergoloth,Magic Weapons
+Hydroloth,Amphibious
+Hydroloth,Innate Spellcasting
+Hydroloth,Magic Resistance
+Hydroloth,Magic Weapons
+Hydroloth,Secure Memory
+Hydroloth,Watery Advantage
+Merrenoloth,Innate Spellcasting
+Merrenoloth,Magic Resistance
+Merrenoloth,Magic Weapons
+Merrenoloth,Teleport
+Merrenoloth,Lair
+Mezzoloth,Innate Spellcasting
+Mezzoloth,Magic Resistance
+Mezzoloth,Magic Weapons
+Nycaloth,Innate Spellcasting
+Nycaloth,Magic Resistance
+Nycaloth,Magic Weapons
+Oinoloth,Bringer of Plagues
+Oinoloth,Innate Spellcasting
+Oinoloth,Magic Resistance
+Oinoloth,Magic Weapons
+Ultroloth,Innate Spellcasting
+Ultroloth,Magic Resistance
+Ultroloth,Magic Weapons
+Yagnoloth,Innate Spellcasting
+Yagnoloth,Magic Resistance
+Yagnoloth,Magic Weapons
+Zombie,Undead Fortitude
+Ankylosaurus Zombie,Undead Fortitude
+Beholder Zombie,Undead Fortitude
+Girallon Zombie,Aggressive
+Girallon Zombie,Undead Fortitude
+Greater Zombie,Turn Resistance
+Greater Zombie,Undead Fortitude
+Ogre Zombie,Undead Fortitude
+Strahd Zombie,Loathsome Limbs
+Tyrannosaurus Zombie,Disgorge Zombie
+Tyrannosaurus Zombie,Undead Fortitude
+Zorbo,Magic Resistance
+Zorbo,Natural Armor
+Bridesmaid of Zuggtmoy,Fungus Stride
+Chamberlain of Zuggtmoy,Mushroom Portal
+Chamberlain of Zuggtmoy,Poison Spores

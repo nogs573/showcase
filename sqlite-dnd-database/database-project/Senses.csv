@@ -1,0 +1,698 @@
+CreatureName,Sense
+Aboleth,Darkvision 120
+Albino Dwarf Warrior,Darkvision 60
+Aldani (Lobsterfolk),Darkvision 60
+Allip,Darkvision 60
+Almiraj,Darkvision 30
+Almiraj,Tremorsense 60
+Ambush Drake,Darkvision 60
+Deva,Darkvision 120
+Planetar,Truesight 120
+Solar,Truesight 120
+Animated Object - Armor,Blindsight 60
+Animated Object - Broom of Attack,Blindsight 30
+Animated Object - Flying Sword,Blindsight 60
+Animated Object - Rug of Smothering,Blindsight 60
+Animated Object - Table,Blindsight 60
+Ankheg,Darkvision 60
+Ankheg,Tremorsense 60
+Assassin Vine,Blindsight 30
+Dolphin,Blindsight 60
+Swarm of Rot Grubs,Blindsight 10
+Astral Dreadnought,Darkvision 120
+Atropal,Darkvision 120
+Atropal,Truesight 120
+Avatar of Death,Darkvision 60
+Avatar of Death,Truesight 60
+Baba Lysagas Creeping Hut,Blindsight 120
+Balhannoth,Blindsight 500
+Banderhobb,Darkvision 120
+Banshee,Darkvision 60
+Barghest,Blindsight 60
+Barghest,Darkvision 60
+Basilisk,Darkvision 120
+Behir,Darkvision 90
+Beholder,Darkvision 120
+Death Kiss,Darkvision 120
+Death Tyrant,Darkvision 90
+Gauth,Darkvision 120
+Gazer,Darkvision 60
+Spectator,Darkvision 120
+Berbalang,Truesight 120
+Sacred Stone Monk,Tremorsense 10
+Stonemelder,Tremorsense 30
+Needle Blight,Blindsight 60
+Tree Blight,Blindsight 60
+Twig Blight,Blindsight 60
+Vine Blight,Blindsight 60
+Bodak,Darkvision 120
+Boggle,Darkvision 60
+Boneclaw,Darkvision 60
+Bugbear,Darkvision 60
+Bugbear Chief,Darkvision 60
+Bulette,Darkvision 60
+Bulette,Tremorsense 60
+Cadaver Collector,Darkvision 60
+Cambion,Darkvision 60
+Carrion Crawler,Darkvision 60
+Catoblepas,Darkvision 60
+Cave Fisher,Blindsight 60
+Centaur Mummy,Darkvision 60
+Chimera,Darkvision 60
+Chitine,Darkvision 60
+Choldrith,Darkvision 60
+Choker,Darkvision 60
+Chuul,Darkvision 60
+Chwinga,Blindsight 60
+Cloaker,Darkvision 60
+Bronze Scout,Darkvision 60
+Iron Cobra,Darkvision 60
+Oaken Bolter,Darkvision 60
+Stone Defender,Darkvision 60
+Cockatrice,Darkvision 60
+Corpse Flower,Blindsight 120
+Couatl,Truesight 120
+Crag Cat,Darkvision 60
+Cranium Rat,Darkvision 30
+Cranium Rat,Tremorsense 60
+Cranium Rat Swarm,Darkvision 30
+Cranium Rat Swarm,Tremorsense 60
+Crawling Claw,Blindsight 30
+Darkling,Blindsight 30
+Darkling,Darkvision 120
+Darkling Elder,Blindsight 30
+Darkling Elder,Darkvision 120
+Darkmantle,Blindsight 60
+Death Knight,Darkvision 120
+Deathlock,Darkvision 60
+Deathlock Mastermind,Darkvision 120
+Deathlock Wight,Darkvision 60
+Decapus,Darkvision 60
+Deep Scion,Darkvision 120
+Demilich,Truesight 120
+Baphomet,Truesight 120
+Demogorgon,Truesight 120
+Fraz-UrbLuu,Truesight 120
+GrazZt,Truesight 120
+Juiblex,Truesight 120
+Orcus,Truesight 120
+Yeenoghu,Truesight 120
+Zuggtmoy,Truesight 120
+Abyssal Wretch,Darkvision 120
+Alkilith,Darkvision 120
+Armanite,Darkvision 120
+Babau,Darkvision 120
+Balor,Truesight 120
+Barlgura,Blindsight 30
+Barlgura,Darkvision 120
+Bulezau,Darkvision 120
+Chasme,Blindsight 10
+Chasme,Darkvision 120
+Draegloth,Darkvision 120
+Dretch,Darkvision 60
+Dybbuk,Darkvision 120
+Glabrezu,Truesight 120
+Goristro,Darkvision 120
+Hezrou,Darkvision 120
+Manes,Darkvision 60
+Marilith,Truesight 120
+Maurezhi,Darkvision 120
+Maw,Darkvision 60
+Molydeus,Truesight 120
+Nabassu,Darkvision 60
+Nalfeshnee,Truesight 120
+Quasit,Darkvision 120
+Rutterkin,Darkvision 120
+Shadow Demon,Darkvision 120
+Shoosuva,Darkvision 60
+Sibriex,Truesight 120
+Vrock,Darkvision 120
+Wastrilith,Darkvision 120
+Yochlol,Darkvision 120
+Derro,Darkvision 120
+Derro Savant,Darkvision 120
+Black Abishai,Darkvision 120
+Blue Abishai,Darkvision 120
+Green Abishai,Darkvision 120
+Red Abishai,Darkvision 120
+White Abishai,Darkvision 120
+Amnizu,Darkvision 120
+Bael,Truesight 120
+Geryon,Truesight 120
+Hutijin,Truesight 120
+Moloch,Darkvision 120
+Titivilus,Darkvision 120
+Zariel,Darkvision 120
+Barbed,Darkvision 120
+Bearded,Darkvision 120
+Bone,Darkvision 120
+Chain,Darkvision 120
+Erinyes,Truesight 120
+Hellfire Engine,Darkvision 120
+Horned,Darkvision 120
+Ice,Blindsight 60
+Ice,Darkvision 120
+Imp,Darkvision 120
+Lemure,Darkvision 120
+Merregon,Darkvision 60
+Narzugon,Darkvision 120
+Nupperibo,Blindsight 10
+Orthon,Darkvision 120
+Orthon,Truesight 30
+Pit Fiend,Truesight 120
+Spined,Darkvision 120
+Devourer,Darkvision 120
+Displacer Beast,Darkvision 60
+Doppelganger,Darkvision 60
+Adult Black Chromatic Dragon,Blindsight 60
+Adult Black Chromatic Dragon,Darkvision 120
+Ancient Black Chromatic Dragon,Blindsight 60
+Ancient Black Chromatic Dragon,Darkvision 120
+Wyrmling Black Chromatic Dragon,Blindsight 30
+Wyrmling Black Chromatic Dragon,Darkvision 120
+Young Black Chromatic Dragon,Blindsight 10
+Young Black Chromatic Dragon,Darkvision 60
+Adult Blue Chromatic Dragon,Blindsight 60
+Adult Blue Chromatic Dragon,Darkvision 120
+Ancient Blue Chromatic Dragon,Blindsight 60
+Ancient Blue Chromatic Dragon,Darkvision 120
+Wyrmling Blue Chromatic Dragon,Blindsight 30
+Wyrmling Blue Chromatic Dragon,Darkvision 120
+Young Blue Chromatic Dragon,Blindsight 10
+Young Blue Chromatic Dragon,Darkvision 60
+Adult Green Chromatic Dragon,Blindsight 60
+Adult Green Chromatic Dragon,Darkvision 120
+Ancient Green Chromatic Dragon,Blindsight 60
+Ancient Green Chromatic Dragon,Darkvision 120
+Wyrmling Green Chromatic Dragon,Blindsight 30
+Wyrmling Green Chromatic Dragon,Darkvision 120
+Young Green Chromatic Dragon,Blindsight 60
+Young Green Chromatic Dragon,Darkvision 120
+Adult Red Chromatic Dragon,Blindsight 60
+Adult Red Chromatic Dragon,Darkvision 120
+Ancient Red Chromatic Dragon,Blindsight 60
+Ancient Red Chromatic Dragon,Darkvision 120
+Wyrmling Red Chromatic Dragon,Blindsight 30
+Wyrmling Red Chromatic Dragon,Darkvision 120
+Young Red Chromatic Dragon,Blindsight 10
+Young Red Chromatic Dragon,Darkvision 60
+Adult White Chromatic Dragon,Blindsight 60
+Adult White Chromatic Dragon,Darkvision 120
+Ancient White Chromatic Dragon,Blindsight 60
+Ancient White Chromatic Dragon,Darkvision 120
+Wyrmling White Chromatic Dragon,Blindsight 10
+Wyrmling White Chromatic Dragon,Darkvision 60
+Young White Chromatic Dragon,Blindsight 30
+Young White Chromatic Dragon,Darkvision 120
+Adult Brass Metallic Dragon,Blindsight 60
+Adult Brass Metallic Dragon,Darkvision 120
+Ancient Brass Metallic Dragon,Blindsight 60
+Ancient Brass Metallic Dragon,Darkvision 120
+Wyrmling Brass Metallic Dragon,Blindsight 10
+Wyrmling Brass Metallic Dragon,Darkvision 60
+Young Brass Metallic Dragon,Blindsight 30
+Young Brass Metallic Dragon,Darkvision 120
+Adult Bronze Metallic Dragon,Blindsight 60
+Adult Bronze Metallic Dragon,Darkvision 120
+Ancient Bronze Metallic Dragon,Blindsight 60
+Ancient Bronze Metallic Dragon,Darkvision 120
+Wyrmling Bronze Metallic Dragon,Blindsight 10
+Wyrmling Bronze Metallic Dragon,Darkvision 60
+Young Bronze Metallic Dragon,Blindsight 30
+Young Bronze Metallic Dragon,Darkvision 120
+Adult Copper Metallic Dragon,Blindsight 60
+Adult Copper Metallic Dragon,Darkvision 120
+Ancient Copper Metallic Dragon,Blindsight 60
+Ancient Copper Metallic Dragon,Darkvision 120
+Wyrmling Copper Metallic Dragon,Blindsight 10
+Wyrmling Copper Metallic Dragon,Darkvision 60
+Young Copper Metallic Dragon,Blindsight 30
+Young Copper Metallic Dragon,Darkvision 120
+Adult Gold Metallic Dragon,Blindsight 60
+Adult Gold Metallic Dragon,Darkvision 120
+Ancient Gold Metallic Dragon,Blindsight 60
+Ancient Gold Metallic Dragon,Darkvision 120
+Wyrmling Gold Metallic Dragon,Blindsight 10
+Wyrmling Gold Metallic Dragon,Darkvision 60
+Young Gold Metallic Dragon,Blindsight 30
+Young Gold Metallic Dragon,Darkvision 120
+Adult Silver Metallic Dragon,Blindsight 60
+Adult Silver Metallic Dragon,Darkvision 120
+Ancient Silver Metallic Dragon,Blindsight 60
+Ancient Silver Metallic Dragon,Darkvision 120
+Wyrmling Silver Metallic Dragon,Blindsight 10
+Wyrmling Silver Metallic Dragon,Darkvision 60
+Young Silver Metallic Dragon,Blindsight 30
+Young Silver Metallic Dragon,Darkvision 120
+Dragon Turtle,Darkvision 120
+Dread Warrior,Darkvision 60
+Drider,Darkvision 120
+Drow,Darkvision 120
+Drow Arachnomancer,Blindsight 10
+Drow Arachnomancer,Darkvision 120
+Drow Elite Warrior,Darkvision 120
+Drow Favored Consort,Darkvision 120
+Drow House Captain,Darkvision 120
+Drow Inquisitor,Darkvision 120
+Drow Mage,Darkvision 120
+Drow Matron Mother,Darkvision 120
+Drow Priestess of Lolth,Darkvision 120
+Drow Shadowblade,Darkvision 120
+Dryad,Darkvision 60
+Duergar,Darkvision 120
+Duergar Darkhaft,Darkvision 120
+Duergar Despot,Darkvision 120
+Duergar Hammerer,Darkvision 60
+Duergar Kavalrachni,Darkvision 120
+Duergar Keeper of the Flame,Darkvision 120
+Duergar Mind Master,Darkvision 120
+Duergar Mind Master,Truesight 30
+Duergar Screamer,Darkvision 60
+Duergar Soulblade,Darkvision 120
+Duergar Spy,Darkvision 120
+Duergar Stone Guard,Darkvision 120
+Duergar Warlord,Darkvision 120
+Duergar Xarrorn,Darkvision 120
+Eidolon,Darkvision 60
+Sacred Statue,Darkvision 60
+Autumn Eladrin,Darkvision 60
+Spring Eladrin,Darkvision 60
+Summer Eladrin,Darkvision 60
+Winter Eladrin,Darkvision 60
+Elder Elemental Tempest,Darkvision 60
+Elder Elemental Leviathan,Darkvision 60
+Elder Elemental Phoenix,Darkvision 60
+Elder Elemental Zaratan,Darkvision 60
+Elder Elemental Zaratan,Tremorsense 60
+Air Elemental Myrmidon,Darkvision 60
+Earth Elemental Myrmidon,Darkvision 60
+Fire Elemental Myrmidon,Darkvision 60
+Water Elemental Myrmidon,Darkvision 60
+Air Elemental,Darkvision 60
+Earth Elemental,Darkvision 60
+Earth Elemental,Tremorsense 60
+Fire Elemental,Darkvision 60
+Water Elemental,Darkvision 60
+Empyrean,Truesight 120
+Ettercap,Darkvision 60
+Ettin,Darkvision 60
+Faerie Dragon,Darkvision 60
+Firenewt Warlock of Imix,Darkvision 120
+Flail Snail,Darkvision 60
+Flail Snail,Tremorsense 60
+Flameskull,Darkvision 60
+Flumph,Darkvision 60
+Fomorian,Darkvision 120
+Froghemoth,Darkvision 60
+Gas Spore,Blindsight 30
+Shrieker,Blindsight 30
+Violet Fungus,Blindsight 30
+Galeb Duhr,Darkvision 60
+Galeb Duhr,Tremorsense 60
+Gargoyle,Darkvision 60
+Giant Four-Armed Gargoyle,Darkvision 60
+Dao,Darkvision 120
+Djinni,Darkvision 120
+Efreeti,Darkvision 120
+Marid,Blindsight 30
+Marid,Darkvision 120
+Geonid,Darkvision 60
+Geonid,Tremorsense 30
+Ghost,Darkvision 60
+Ghoul,Darkvision 60
+Ghast,Darkvision 60
+Giant Crayfish,Blindsight 30
+Giant Fly,Darkvision 60
+Giant Ice Toad,Darkvision 60
+Giant Lightning Eel,Blindsight 60
+Giant Snapping Turtle,Darkvision 60
+Frost Giant Everlasting One,Darkvision 60
+Stone Giant,Darkvision 60
+Stone Giant Dreamwalker,Darkvision 60
+Storm Giant Quintessent,Truesight 60
+Gibbering Mouther,Darkvision 60
+Girallon,Darkvision 60
+Gnoll,Darkvision 60
+Gnoll Fang of Yeenoghu,Darkvision 60
+Gnoll Flesh Gnawer,Darkvision 60
+Gnoll Hunter,Darkvision 60
+Gnoll Pack Lord,Darkvision 60
+Gnoll Witherling,Darkvision 60
+Flind,Darkvision 60
+Deep Gnome (Svirfneblin),Darkvision 120
+Goblin,Darkvision 60
+Goblin Boss,Darkvision 60
+Clay Golem,Darkvision 60
+Flesh Golem,Darkvision 60
+Iron Golem,Darkvision 120
+Stone Golem,Darkvision 120
+Gorgon,Darkvision 60
+Gray Render,Darkvision 60
+Grell,Blindsight 60
+Grick,Darkvision 60
+Grick Alpha,Darkvision 60
+Griffon,Darkvision 60
+Grimlock,Blindsight 30
+Guard Drake,Darkvision 60
+Guardian Portrait,Darkvision 60
+Annis Hag,Darkvision 60
+Bheur Hag,Darkvision 60
+Green Hag,Darkvision 60
+Night Hag,Darkvision 120
+Sea Hag,Darkvision 60
+Hell Hound,Darkvision 60
+Helmed Horror,Blindsight 60
+Hobgoblin,Darkvision 60
+Hobgoblin Captain,Darkvision 60
+Hobgoblin Devastator,Darkvision 60
+Hobgoblin Iron Shadow,Darkvision 60
+Hobgoblin Warlord,Darkvision 60
+Homunculus,Darkvision 60
+Hook Horror,Blindsight 60
+Hook Horror,Darkvision 10
+Howler,Darkvision 60
+Hulking Crab,Blindsight 30
+Hydra,Darkvision 60
+Ice Toad,Darkvision 60
+Inevitable Marut,Darkvision 60
+Intellect Devourer,Blindsight 60
+Invisible Stalker,Darkvision 60
+Ixitxachitl,Darkvision 60
+Vampiric Ixitxachitl,Darkvision 60
+Jaculi,Blindsight 30
+Kalka-Kylla,Blindsight 30
+Kelpie,Blindsight 60
+Ki-Rin,Blindsight 30
+Ki-Rin,Darkvision 120
+Kobold,Darkvision 60
+Kobold Dragonshield,Darkvision 60
+Kobold Inventor,Darkvision 60
+Kobold Scale Sorcerer,Darkvision 60
+Winged Kobold,Darkvision 60
+Korred,Darkvision 120
+Korred,Tremorsense 120
+Kraken,Truesight 120
+Malformed Kraken,Truesight 60
+Kruthik Hive Lord,Darkvision 60
+Kruthik Hive Lord,Tremorsense 60
+Adult Kruthik,Darkvision 60
+Adult Kruthik,Tremorsense 60
+Young Kruthik,Darkvision 30
+Young Kruthik,Tremorsense 60
+Kuo-Toa,Darkvision 120
+Kuo-Toa Archpriest,Darkvision 120
+Kuo-Toa Whip,Darkvision 120
+Lamia,Darkvision 60
+Leucrotta,Darkvision 60
+Lich,Truesight 120
+Lizard King/Queen,Darkvision 60
+Wererat,Darkvision 60
+Weretiger,Darkvision 60
+Magmin,Darkvision 60
+Manticore,Darkvision 60
+Mantrap,Tremorsense 30
+Meazel,Darkvision 120
+Medusa,Darkvision 60
+Meenlock,Darkvision 120
+Dust Mephit,Darkvision 60
+Ice Mephit,Darkvision 60
+Magma Mephit,Darkvision 60
+Mud Mephit,Darkivision 60
+Smoke Mephit,Darkvision 60
+Steam Mephit,Darkvision 60
+Merrow,Darkvision 60
+Mimic,Darkvision 60
+Mind Flayer,Darkvision 120
+Illithlich,Truesight 120
+Alhoon,Truesight 120
+Elder Brain,Blindsight 120
+Ulitharid,Darkvision 120
+Mindwitness,Darkvision 120
+Minotaur,Darkvision 60
+Badger,Darkvision 30
+Bat,Blindsight 60
+Constrictor Snake,Blindsight 10
+Crab,Blindsight 30
+Death Dog,Darkvision 120
+Flying Snake,Blindsight 10
+Frog,Darkvision 30
+Giant Badger,Darkvision 30
+Giant Bat,Blindsight 60
+Giant Centipede,Blindsight 30
+Giant Constrictor Snake,Blindsight 10
+Giant Crab,Blindsight 30
+Giant Fire Beetle,Blindsight 30
+Giant Frog,Darkvision 30
+Giant Lizard,Darkvision 30
+Giant Octopus,Darkvision 60
+Giant Owl,Darkvision 120
+Giant Poisonous Snake,Blindsight 10
+Giant Rat,Darkvision 60
+Giant Scorpion,Blindsight 60
+Giant Shark,Blindsight 60
+Giant Spider,Blindsight 10
+Giant Spider,Darkvision 60
+Giant Toad,Darkvision 30
+Giant Weasel,Darkvision 60
+Giant Wolf Spider,Blindsight 10
+Giant Wolf Spider,Darkvision 60
+Hunter Shark,Blindsight 30
+Killer Whale,Blindsight 120
+Lizard,Darkvision 30
+Octopus,Darkvision 30
+Owl,Darkvision 120
+Phase Spider,Darkvision 60
+Poisonous Snake,Blindsight 10
+Quipper,Darkvision 60
+Rat,Darkvision 30
+Reef Shark,Blindsight 30
+Spider,Darkvision 30
+Swarm of Bats,Blindsight 60
+Swarm of Insects,Blindsight 10
+Swarm of Poisonous Snakes,Blindsight 10
+Tiger,Darkvision 60
+Worg,Darkvision 60
+Duodrone,Truesight 120
+Monodrone,Truesight 120
+Pentadrone,Truesight 120
+Quadrone,Truesight 120
+Tridrone,Truesight 120
+Morkoth,Blindsight 30
+Morkoth,Darkvision 120
+Mummy,Darkvision 60
+Mummy Lord,Darkvision 60
+Myconid Adult,Darkvision 120
+Myconid Sovereign,Darkvision 120
+Myconid Sprout,Darkvision 120
+Naergoth Bladelord,Darkvision 60
+Bone Naga,Darkvision 60
+Guardian Naga,Darkvision 60
+Spirit Naga,Darkvision 60
+Nagpa,Truesight 120
+Neogi,Darkvision 60
+Neogi Hatchling,Darkvision 60
+Neogi Master,Darkvision 120
+Neothelid,Blindsight 120
+Nereid,Darkvision 60
+Nightwalker,Darkvision 120
+Nilbog,Darkvision 60
+Nothic,Truesight 120
+Warlock of the Fiend,Darkvision 60
+Warlock of the Great Old One,Darkvision 60
+Oblex Spawn,Blindsight 60
+Adult Oblex,Blindsight 60
+Elder Oblex,Blindsight 60
+Ogre,Darkvision 60
+Ogre Battering Ram,Darkvision 60
+Ogre Bolt Launcher,Darkvision 60
+Ogre Chain Brute,Darkvision 60
+Ogre Howdah,Darkvision 60
+Half Ogre,Darkvision 60
+Oni,Darkvision 60
+Ooze Master,Blindsight 120
+Black Pudding,Blindsight 60
+Gelatinous Cube,Blindsight 60
+Gray Ooze,Blindsight 60
+Ochre Jelly,Blindsight 60
+Orc,Darkvision 60
+Orc Blade of Ilneval,Darkvision 60
+Orc Claw of Luthic,Darkvision 60
+Orc Eye of Gruumsh,Darkvision 60
+Orc Hand of Yurtrus,Darkvision 60
+Orc Nurtured One of Yurtrus,Darkvision 60
+Orc Red Fang of Shargaas,Darkvision 60
+Orc War Chief,Darkvision 60
+Orog,Darkvision 60
+Tanarukk,Darkvision 60
+Otyugh,Darkvision 120
+Owlbear,Darkvision 60
+Phantom Warrior,Darkvision 60
+Piercer,Blindsight 30
+Piercer,Darkvision 60
+Prince of Apocalypse Imix,Blindsight 120
+Prince of Apocalypse Ogremoch,Blindsight 120
+Prince of Apocalypse Ogremoch,Tremorsense 120
+Prince of Apocalypse Olhydra,Blindsight 120
+Prince of Apocalypse Yan-C-BIn,Blindsight 120
+Pseudodragon,Blindsight 10
+Pseudodragon,Darkvision 60
+Purple Worm,Blindsight 30
+Purple Worm,Tremorsense 60
+Purple Worm Wormling,Blindsight 30
+Purple Worm Wormling,Tremorsense 30
+Quaggoth,Darkvision 120
+Quickling,Darkvision 60
+Rakshasa,Darkvision 60
+Redcap,Darkvision 60
+Remorhaz,Darkvision 60
+Remorhaz,Tremorsense 60
+Young Remorhaz,Darkvision 60
+Young Remorhaz,Tremorsense 60
+Retriever,Blindsight 30
+Retriever,Darkvision 60
+Revenant,Darkvision 60
+Roper,Darkvision 60
+Rust Monster,Darkvision 60
+Sahuagin,Darkvision 120
+Sahuagin Baron,Darkvision 120
+Sahuagin Priestess,Darkvision 120
+Salamander,Darkvision 60
+Fire Snake,Darkvision 60
+Frost Salamander,Darkvision 60
+Frost Salamander,Tremorsense 60
+Scarecrow,Darkvision 60
+Sea Spawn,Darkvision 120
+Shadar-Kai Gloom Weaver,Darkvision 60
+Shadar-Kai Shadow Dancer,Darkvision 60
+Shadar-Kai Soul Monger,Darkvision 60
+Shadow,Darkvision 60
+Shadow Mastiff,Darkvision 60
+Shadow Mastiff Alpha,Darkvision 60
+Shambling Mound,Blindsight 60
+Shield Guardian,Blindsight 10
+Shield Guardian,Darkvision 60
+Siren,Darkvision 60
+Skeleton,Darkvision 60
+Giant Skeleton,Darkvision 60
+Minotaur Skeleton,Darkvision 60
+Warhorse Skeleton,Darkvision 60
+Skulk,Darkvision 120
+Slaad Tadpole,Darkvision 60
+Blue Slaad,Darkvision 60
+Death Slaad,Blindsight 60
+Death Slaad,Darkvision 60
+Gray Slaad,Blindsight 60
+Gray Slaad,Darkvision 60
+Green Slaad,Blindsight 30
+Green Slaad,Darkvision 60
+Red Slaad,Darkvision 60
+Slithering Tracker,Blindsight 120
+The Angry,Darkvision 60
+The Hungry,Darkvision 60
+The Lonely,Darkvision 60
+The Lost,Darkvision 60
+The Wretched,Darkvision 60
+Spawn of Kyuss,Darkvision 60
+Specter,Darkvision 60
+Androsphinx,Truesight 120
+Gynosphinx,Truesight 120
+Star Spawn Grue,Darkvision 60
+Star Spawn Hulk,Darkvision 60
+Star Spawn Larva Mage,Darkvision 60
+Star Spawn Mangler,Darkvision 60
+Star Spawn Seer,Darkvision 60
+Female Steeder,Darkvision 120
+Male Steeder,Darkvision 120
+Steel Predator,Blindsight 30
+Steel Predator,Darkvision 60
+Stirge,Darkvision 60
+Stone Juggernaut,Blindsight 120
+Strahds Animated Armor,Blindsight 60
+Succubus/Incubus,Darkvision 60
+Sword Wraith Commander,Darkvision 60
+Sword Wraith Warrior,Darkvision 60
+Tabaxi Hunter,Darkvision 60
+Tabaxi Minstrel,Darkvision 60
+Tarrasque,Blindsight 120
+Tecuziztecatl,Blindsight 30
+Thorn Slinger,Blindsight 60
+Thorny,Darkvision 60
+Thri-Kreen,Darkvision 60
+Tiamat,Darkvision 240
+Tiamat,Truesight 120
+Tiny Servant,Blindsight 60
+Tlincalli,Darkvision 60
+Topi,Darkvision 60
+Trapper,Blindsight 30
+Trapper,Darkvision 60
+Tressym,Darkvision 60
+Tri-Flower Frond,Blindsight 30
+Troglodyte,Darkvision 60
+Troglodyte Champion of Laogzed,Darkvision 60
+Troll,Darkvision 60
+Dire Troll,Darkvision 60
+Rot Troll,Darkvision 60
+Spirit Troll,Darkvision 60
+Venom Troll,Darkvision 60
+Umber Hulk,Darkvision 120
+Unicorn,Darkvision 60
+Vampire,Darkvision 120
+Vampire Spawn,Darkvision 60
+Vampiric Mist,Darkvision 60
+Vargouille,Darkvision 60
+Vegepygmy,Darkvision 60
+Vegepygmy Chief,Darkvision 60
+Water Weird,Blindsight 30
+White Maw,Blindsight 60
+Wight,Darkvision 60
+Will-O-Wisp,Darkvision 120
+Wood Woad,Darkvision 60
+Wraith,Darkvision 60
+Wyvern,Darkvision 60
+Xorn,Darkvision 60
+Xorn,Tremorsense 60
+Xvart,Darkvision 30
+Xvart Speaker,Darkvision 30
+Xvart Warlock of Raxivort,Darkvision 30
+Yellow Musk Creeper,Blindsight 30
+Yellow Musk Zombie,Blindsight 30
+Yeth Hound,Darkvision 60
+Yeti,Darkvision 60
+Abominable Yeti,Darkvision 60
+Yuan-Ti Abomination,Darkvision 60
+Yuan-Ti Anathema,Blindsight 30
+Yuan-Ti Anathema,Darkvision 60
+Yuan-Ti Broodguard,Darkvision 60
+Yuan-Ti Malison,Darkvision 60
+Yuan-Ti Mind Whisperer,Darkvision 120
+Yuan-Ti Nightmare Speaker,Darkvision 120
+Yuan-Ti Pit Master,Darkvision 120
+Yuan-Ti Pureblood,Darkvision 60
+Arcanaloth,Truesight 120
+Canoloth,Darkvision 60
+Canoloth,Truesight 120
+Dhergoloth,Blindsight 60
+Dhergoloth,Darkvision 60
+Hydroloth,Blindsight 60
+Hydroloth,Darkvision 60
+Merrenoloth,Blindsight 60
+Merrenoloth,Darkvision 60
+Mezzoloth,Blindsight 60
+Mezzoloth,Darkvision 60
+Nycaloth,Blindsight 60
+Nycaloth,Darkvision 60
+Oinoloth,Blindsight 60
+Oinoloth,Darkvision 60
+Ultroloth,Truesight 120
+Yagnoloth,Blindsight 60
+Yagnoloth,Darkvision 60
+Zombie,Darkvision 60
+Ankylosaurus Zombie,Darkvision 60
+Beholder Zombie,Darkvision 60
+Girallon Zombie,Darkvision 60
+Greater Zombie,Darkvision 60
+Ogre Zombie,Darkvision 60
+Strahd Zombie,Darkvision 60
+Tyrannosaurus Zombie,Darkvision 60
+Bridesmaid of Zuggtmoy,Darkvision 60
+Chamberlain of Zuggtmoy,Darkvision 60

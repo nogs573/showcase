@@ -1,0 +1,954 @@
+SpellName,ClassName
+Acid Splash,Sorcerer
+Acid Splash,Wizard
+Aid,Cleric
+Aid,Paladin
+Alarm,Ranger
+Alarm,Wizard
+Alter Self,Sorcerer
+Alter Self,Wizard
+Animal Friendship,Bard
+Animal Friendship,Cleric
+Animal Friendship,Druid
+Animal Friendship,Ranger
+Animal Messenger,Bard
+Animal Messenger,Druid
+Animal Messenger,Ranger
+Animal Shapes,Druid
+Animate Dead,Cleric
+Animate Dead,Paladin
+Animate Dead,Wizard
+Animate Objects,Bard
+Animate Objects,Sorcerer
+Animate Objects,Wizard
+Antilife Shell,Cleric
+Antilife Shell,Druid
+Antimagic Field,Cleric
+Antimagic Field,Wizard
+Antipathy/Sympathy,Druid
+Antipathy/Sympathy,Wizard
+Arcane Eye,Cleric
+Arcane Eye,Wizard
+Arcane Gate,Sorcerer
+Arcane Gate,Warlock
+Arcane Gate,Wizard
+Arcane Lock,Wizard
+Armor of Agathys,Warlock
+Arms of Hadar,Warlock
+Astral Projection,Cleric
+Astral Projection,Warlock
+Astral Projection,Wizard
+Augury,Cleric
+Aura of Life,Paladin
+Aura of Purity,Paladin
+Aura of Vitality,Paladin
+Awaken,Bard
+Awaken,Druid
+Bane,Bard
+Bane,Cleric
+Bane,Paladin
+Banishing Smite,Paladin
+Banishment,Cleric
+Banishment,Paladin
+Banishment,Sorcerer
+Banishment,Warlock
+Banishment,Wizard
+Barkskin,Cleric
+Barkskin,Druid
+Barkskin,Ranger
+Beacon of Hope,Cleric
+Beacon of Hope,Paladin
+Beast Sense,Druid
+Beast Sense,Ranger
+Bestow Curse,Bard
+Bestow Curse,Cleric
+Bestow Curse,Paladin
+Bestow Curse,Wizard
+Bigbys Hand,Wizard
+Blade Barrier,Cleric
+Blade Ward,Bard
+Blade Ward,Sorcerer
+Blade Ward,Warlock
+Blade Ward,Wizard
+Bless,Cleric
+Bless,Paladin
+Blight,Cleric
+Blight,Druid
+Blight,Paladin
+Blight,Sorcerer
+Blight,Warlock
+Blight,Wizard
+Blinding Smite,Paladin
+Blindness/Deafness,Bard
+Blindness/Deafness,Cleric
+Blindness/Deafness,Sorcerer
+Blindness/Deafness,Wizard
+Blink,Cleric
+Blink,Sorcerer
+Blink,Wizard
+Blur,Druid
+Blur,Sorcerer
+Blur,Wizard
+Branding Smite,Paladin
+Burning Hands,Cleric
+Burning Hands,Sorcerer
+Burning Hands,Wizard
+Call Lightning,Cleric
+Call Lightning,Druid
+Calm Emotions,Bard
+Calm Emotions,Cleric
+Chain Lightning,Sorcerer
+Chain Lightning,Wizard
+Charm Person,Bard
+Charm Person,Cleric
+Charm Person,Druid
+Charm Person,Sorcerer
+Charm Person,Warlock
+Charm Person,Wizard
+Chill Touch,Cleric
+Chill Touch,Sorcerer
+Chill Touch,Warlock
+Chill Touch,Wizard
+Chromatic Orb,Sorcerer
+Chromatic Orb,Wizard
+Circle of Death,Sorcerer
+Circle of Death,Warlock
+Circle of Death,Wizard
+Circle of Power,Paladin
+Clairvoyance,Bard
+Clairvoyance,Cleric
+Clairvoyance,Sorcerer
+Clairvoyance,Wizard
+Clone,Wizard
+Cloud of Daggers,Bard
+Cloud of Daggers,Sorcerer
+Cloud of Daggers,Warlock
+Cloud of Daggers,Wizard
+Cloudkill,Cleric
+Cloudkill,Druid
+Cloudkill,Sorcerer
+Cloudkill,Wizard
+Color Spray,Sorcerer
+Color Spray,Wizard
+Command,Cleric
+Command,Paladin
+Commune,Cleric
+Commune,Paladin
+Commune with Nature,Druid
+Commune with Nature,Paladin
+Commune with Nature,Ranger
+Compelled Duel,Paladin
+Comprehend Languages,Bard
+Comprehend Languages,Sorcerer
+Comprehend Languages,Warlock
+Comprehend Languages,Wizard
+Compulsion,Bard
+Cone of Cold,Druid
+Cone of Cold,Sorcerer
+Cone of Cold,Wizard
+Confusion,Bard
+Confusion,Cleric
+Confusion,Druid
+Confusion,Paladin
+Confusion,Sorcerer
+Confusion,Wizard
+Conjure Animals,Druid
+Conjure Animals,Ranger
+Conjure Barrage,Ranger
+Conjure Celestial,Cleric
+Conjure Elemental,Druid
+Conjure Elemental,Wizard
+Conjure Fey,Druid
+Conjure Fey,Warlock
+Conjure Minor Elementals,Druid
+Conjure Minor Elementals,Wizard
+Conjure Volley,Ranger
+Conjure Woodland Beings,Druid
+Conjure Woodland Beings,Ranger
+Contact Other Plane,Warlock
+Contact Other Plane,Wizard
+Contagion,Cleric
+Contagion,Druid
+Contagion,Paladin
+Contingency,Wizard
+Continual Flame,Cleric
+Continual Flame,Wizard
+Control Water,Cleric
+Control Water,Druid
+Control Water,Wizard
+Control Weather,Cleric
+Control Weather,Druid
+Control Weather,Wizard
+Cordon of Arrows,Ranger
+Counterspell,Sorcerer
+Counterspell,Warlock
+Counterspell,Wizard
+Create Food and Water,Cleric
+Create Food and Water,Druid
+Create Food and Water,Paladin
+Create or Destroy Water,Cleric
+Create or Destroy Water,Druid
+Create Undead,Cleric
+Create Undead,Warlock
+Create Undead,Wizard
+Creation,Sorcerer
+Creation,Wizard
+Crown of Madness,Bard
+Crown of Madness,Paladin
+Crown of Madness,Sorcerer
+Crown of Madness,Warlock
+Crown of Madness,Wizard
+Crusaders Mantle,Cleric
+Crusaders Mantle,Paladin
+Cure Wounds,Bard
+Cure Wounds,Cleric
+Cure Wounds,Druid
+Cure Wounds,Paladin
+Cure Wounds,Ranger
+Dancing Lights,Bard
+Dancing Lights,Sorcerer
+Dancing Lights,Wizard
+Darkness,Druid
+Darkness,Paladin
+Darkness,Sorcerer
+Darkness,Warlock
+Darkness,Wizard
+Darkvision,Druid
+Darkvision,Ranger
+Darkvision,Sorcerer
+Darkvision,Wizard
+Daylight,Cleric
+Daylight,Druid
+Daylight,Paladin
+Daylight,Ranger
+Daylight,Sorcerer
+Death Ward,Cleric
+Death Ward,Paladin
+Delayed Blast Fireball,Sorcerer
+Delayed Blast Fireball,Wizard
+Demiplane,Warlock
+Demiplane,Wizard
+Destructive Wave,Cleric
+Destructive Wave,Paladin
+Detect Evil and Good,Cleric
+Detect Evil and Good,Paladin
+Detect Magic,Bard
+Detect Magic,Cleric
+Detect Magic,Druid
+Detect Magic,Paladin
+Detect Magic,Ranger
+Detect Magic,Sorcerer
+Detect Magic,Wizard
+Detect Poison and Disease,Cleric
+Detect Poison and Disease,Druid
+Detect Poison and Disease,Paladin
+Detect Poison and Disease,Ranger
+Detect Thoughts,Bard
+Detect Thoughts,Sorcerer
+Detect Thoughts,Wizard
+Dimension Door,Bard
+Dimension Door,Cleric
+Dimension Door,Paladin
+Dimension Door,Sorcerer
+Dimension Door,Warlock
+Dimension Door,Wizard
+Disguise Self,Bard
+Disguise Self,Cleric
+Disguise Self,Sorcerer
+Disguise Self,Wizard
+Disintegrate,Sorcerer
+Disintegrate,Wizard
+Dispel Evil and Good,Cleric
+Dispel Evil and Good,Paladin
+Dispel Magic,Bard
+Dispel Magic,Cleric
+Dispel Magic,Druid
+Dispel Magic,Paladin
+Dispel Magic,Sorcerer
+Dispel Magic,Warlock
+Dispel Magic,Wizard
+Dissonant Whispers,Bard
+Divination,Cleric
+Divination,Druid
+Divine Favor,Cleric
+Divine Favor,Paladin
+Divine Word,Cleric
+Dominate Beast,Cleric
+Dominate Beast,Druid
+Dominate Beast,Sorcerer
+Dominate Monster,Bard
+Dominate Monster,Sorcerer
+Dominate Monster,Warlock
+Dominate Monster,Wizard
+Dominate Person,Bard
+Dominate Person,Cleric
+Dominate Person,Paladin
+Dominate Person,Sorcerer
+Dominate Person,Wizard
+Drawmijs Instant Summons,Wizard
+Dream,Bard
+Dream,Druid
+Dream,Warlock
+Dream,Wizard
+Druidcraft,Cleric
+Druidcraft,Druid
+Earthquake,Cleric
+Earthquake,Druid
+Earthquake,Sorcerer
+Eldritch Blast,Warlock
+Elemental Weapon,Paladin
+Enhance Ability,Bard
+Enhance Ability,Cleric
+Enhance Ability,Druid
+Enhance Ability,Sorcerer
+Enlarge/Reduce,Sorcerer
+Enlarge/Reduce,Wizard
+Ensnaring Strike,Paladin
+Ensnaring Strike,Ranger
+Entangle,Druid
+Enthrall,Bard
+Enthrall,Warlock
+Etherealness,Bard
+Etherealness,Cleric
+Etherealness,Sorcerer
+Etherealness,Warlock
+Etherealness,Wizard
+Evards Black Tentacles,Wizard
+Expeditious Retreat,Sorcerer
+Expeditious Retreat,Warlock
+Expeditious Retreat,Wizard
+Eyebite,Bard
+Eyebite,Sorcerer
+Eyebite,Warlock
+Eyebite,Wizard
+Fabricate,Wizard
+Faerie Fire,Bard
+Faerie Fire,Cleric
+Faerie Fire,Druid
+False Life,Cleric
+False Life,Sorcerer
+False Life,Wizard
+Fear,Bard
+Fear,Sorcerer
+Fear,Warlock
+Fear,Wizard
+Feather Fall,Bard
+Feather Fall,Sorcerer
+Feather Fall,Wizard
+Feeblemind,Bard
+Feeblemind,Druid
+Feeblemind,Warlock
+Feeblemind,Wizard
+Feign Death,Bard
+Feign Death,Cleric
+Feign Death,Druid
+Feign Death,Wizard
+Find Familiar,Wizard
+Find Steed,Paladin
+Find the Path,Bard
+Find the Path,Cleric
+Find the Path,Druid
+Find Traps,Cleric
+Find Traps,Druid
+Find Traps,Ranger
+Finger of Death,Sorcerer
+Finger of Death,Warlock
+Finger of Death,Wizard
+Fire Bolt,Sorcerer
+Fire Bolt,Wizard
+Fire Shield,Wizard
+Fire Storm,Cleric
+Fire Storm,Druid
+Fireball,Cleric
+Fireball,Sorcerer
+Fireball,Wizard
+Flame Blade,Druid
+Flame Strike,Cleric
+Flame Strike,Paladin
+Flaming Sphere,Cleric
+Flaming Sphere,Druid
+Flaming Sphere,Wizard
+Flesh to Stone,Warlock
+Flesh to Stone,Wizard
+Fly,Sorcerer
+Fly,Warlock
+Fly,Wizard
+Fog Cloud,Cleric
+Fog Cloud,Druid
+Fog Cloud,Ranger
+Fog Cloud,Sorcerer
+Fog Cloud,Wizard
+Forbiddance,Cleric
+Forcecage,Bard
+Forcecage,Warlock
+Forcecage,Wizard
+Foresight,Bard
+Foresight,Druid
+Foresight,Warlock
+Foresight,Wizard
+Freedom of Movement,Bard
+Freedom of Movement,Cleric
+Freedom of Movement,Druid
+Freedom of Movement,Paladin
+Freedom of Movement,Ranger
+Friends,Bard
+Friends,Sorcerer
+Friends,Warlock
+Friends,Wizard
+Gaseous Form,Druid
+Gaseous Form,Sorcerer
+Gaseous Form,Warlock
+Gaseous Form,Wizard
+Gate,Cleric
+Gate,Sorcerer
+Gate,Wizard
+Geas,Bard
+Geas,Cleric
+Geas,Druid
+Geas,Paladin
+Geas,Wizard
+Gentle Repose,Cleric
+Gentle Repose,Wizard
+Giant Insect,Druid
+Glibness,Bard
+Glibness,Warlock
+Globe of Invulnerability,Sorcerer
+Globe of Invulnerability,Wizard
+Glyph of Warding,Bard
+Glyph of Warding,Cleric
+Glyph of Warding,Wizard
+Goodberry,Druid
+Goodberry,Ranger
+Grasping Vine,Cleric
+Grasping Vine,Druid
+Grasping Vine,Ranger
+Grease,Wizard
+Greater Invisibility,Bard
+Greater Invisibility,Druid
+Greater Invisibility,Sorcerer
+Greater Invisibility,Wizard
+Greater Restoration,Bard
+Greater Restoration,Cleric
+Greater Restoration,Druid
+Guardian of Faith,Cleric
+Guardian of Faith,Paladin
+Guards and Wards,Bard
+Guards and Wards,Wizard
+Guidance,Cleric
+Guidance,Druid
+Guiding Bolt,Cleric
+Gust of Wind,Cleric
+Gust of Wind,Druid
+Gust of Wind,Sorcerer
+Gust of Wind,Wizard
+Hail of Thorns,Ranger
+Hallow,Cleric
+Hallucinatory Terrain,Bard
+Hallucinatory Terrain,Druid
+Hallucinatory Terrain,Warlock
+Hallucinatory Terrain,Wizard
+Harm,Cleric
+Haste,Druid
+Haste,Paladin
+Haste,Sorcerer
+Haste,Wizard
+Heal,Cleric
+Heal,Druid
+Healing Word,Bard
+Healing Word,Cleric
+Healing Word,Druid
+Heat Metal,Bard
+Heat Metal,Druid
+Hellish Rebuke,Paladin
+Hellish Rebuke,Warlock
+Heroes Feast,Cleric
+Heroes Feast,Druid
+Heroism,Bard
+Heroism,Paladin
+Hex,Warlock
+Hold Monster,Bard
+Hold Monster,Cleric
+Hold Monster,Paladin
+Hold Monster,Sorcerer
+Hold Monster,Warlock
+Hold Monster,Wizard
+Hold Person,Bard
+Hold Person,Cleric
+Hold Person,Druid
+Hold Person,Paladin
+Hold Person,Sorcerer
+Hold Person,Warlock
+Hold Person,Wizard
+Holy Aura,Cleric
+Hunger of Hadar,Warlock
+Hunters Mark,Paladin
+Hunters Mark,Ranger
+Hypnotic Pattern,Bard
+Hypnotic Pattern,Sorcerer
+Hypnotic Pattern,Warlock
+Hypnotic Pattern,Wizard
+Ice Storm,Cleric
+Ice Storm,Druid
+Ice Storm,Paladin
+Ice Storm,Sorcerer
+Ice Storm,Wizard
+Identify,Bard
+Identify,Cleric
+Identify,Wizard
+Illusory Script,Bard
+Illusory Script,Warlock
+Illusory Script,Wizard
+Imprisonment,Warlock
+Imprisonment,Wizard
+Incendiary Cloud,Sorcerer
+Incendiary Cloud,Wizard
+Inflict Wounds,Cleric
+Inflict Wounds,Paladin
+Insect Plague,Cleric
+Insect Plague,Druid
+Insect Plague,Sorcerer
+Invisibility,Bard
+Invisibility,Druid
+Invisibility,Sorcerer
+Invisibility,Warlock
+Invisibility,Wizard
+Jump,Druid
+Jump,Ranger
+Jump,Sorcerer
+Jump,Wizard
+Knock,Bard
+Knock,Sorcerer
+Knock,Wizard
+Legend Lore,Bard
+Legend Lore,Cleric
+Legend Lore,Wizard
+Leomunds Secret Chest,Wizard
+Leomunds Tiny Hut,Bard
+Leomunds Tiny Hut,Wizard
+Lesser Restoration,Bard
+Lesser Restoration,Cleric
+Lesser Restoration,Druid
+Lesser Restoration,Paladin
+Lesser Restoration,Ranger
+Levitate,Sorcerer
+Levitate,Wizard
+Light,Bard
+Light,Cleric
+Light,Wizard
+Lightning Arrow,Ranger
+Lightning Arrow,Sorcerer
+Lightning Bolt,Druid
+Lightning Bolt,Sorcerer
+Lightning Bolt,Wizard
+Locate Animals or Plants,Bard
+Locate Animals or Plants,Druid
+Locate Animals or Plants,Ranger
+Locate Creature,Bard
+Locate Creature,Cleric
+Locate Creature,Druid
+Locate Creature,Paladin
+Locate Creature,Ranger
+Locate Creature,Wizard
+Locate Object,Bard
+Locate Object,Cleric
+Locate Object,Druid
+Locate Object,Paladin
+Locate Object,Ranger
+Locate Object,Wizard
+Longstrider,Bard
+Longstrider,Druid
+Longstrider,Ranger
+Longstrider,Wizard
+Mage Armor,Sorcerer
+Mage Armor,Wizard
+Mage Hand,Bard
+Mage Hand,Sorcerer
+Mage Hand,Warlock
+Mage Hand,Wizard
+Magic Circle,Cleric
+Magic Circle,Paladin
+Magic Circle,Warlock
+Magic Circle,Wizard
+Magic Jar,Wizard
+Magic Missile,Sorcerer
+Magic Missile,Wizard
+Magic Mouth,Bard
+Magic Mouth,Wizard
+Magic Weapon,Cleric
+Magic Weapon,Paladin
+Magic Weapon,Wizard
+Major Image,Bard
+Major Image,Sorcerer
+Major Image,Warlock
+Major Image,Wizard
+Mass Cure Wounds,Bard
+Mass Cure Wounds,Cleric
+Mass Cure Wounds,Druid
+Mass Heal,Cleric
+Mass Healing Word,Cleric
+Mass Suggestion,Bard
+Mass Suggestion,Sorcerer
+Mass Suggestion,Warlock
+Mass Suggestion,Wizard
+Maze,Wizard
+Meld into Stone,Cleric
+Meld into Stone,Druid
+Melfs Acid Arrow,Druid
+Melfs Acid Arrow,Wizard
+Mending,Bard
+Mending,Cleric
+Mending,Druid
+Mending,Sorcerer
+Mending,Wizard
+Message,Bard
+Message,Sorcerer
+Message,Wizard
+Meteor Swarm,Sorcerer
+Meteor Swarm,Wizard
+Mind Blank,Bard
+Mind Blank,Wizard
+Minor Illusion,Bard
+Minor Illusion,Sorcerer
+Minor Illusion,Warlock
+Minor Illusion,Wizard
+Mirage Arcane,Bard
+Mirage Arcane,Druid
+Mirage Arcane,Wizard
+Mirror Image,Cleric
+Mirror Image,Druid
+Mirror Image,Sorcerer
+Mirror Image,Warlock
+Mirror Image,Wizard
+Mislead,Bard
+Mislead,Wizard
+Misty Step,Druid
+Misty Step,Paladin
+Misty Step,Sorcerer
+Misty Step,Warlock
+Misty Step,Wizard
+Modify Memory,Bard
+Modify Memory,Cleric
+Modify Memory,Wizard
+Moonbeam,Druid
+Moonbeam,Paladin
+Mordenkainens Faithful Hound,Wizard
+Mordenkainens Magnificent Mansion,Bard
+Mordenkainens Magnificent Mansion,Wizard
+Mordenkainens Private Sanctum,Wizard
+Mordenkainens Sword,Bard
+Mordenkainens Sword,Wizard
+Move Earth,Druid
+Move Earth,Sorcerer
+Move Earth,Wizard
+Nondetection,Bard
+Nondetection,Cleric
+Nondetection,Ranger
+Nondetection,Wizard
+Nystuls Magic Aura,Wizard
+Otilukes Freezing Sphere,Wizard
+Otilukes Resilient Sphere,Wizard
+Ottos Irresistable Dance,Bard
+Ottos Irresistable Dance,Wizard
+Pass without Trace,Cleric
+Pass without Trace,Druid
+Pass without Trace,Ranger
+Passwall,Druid
+Passwall,Wizard
+Phantasmal Force,Bard
+Phantasmal Force,Sorcerer
+Phantasmal Force,Wizard
+Phantasmal Killer,Wizard
+Phantom Steed,Wizard
+Planar Ally,Cleric
+Planar Binding,Bard
+Planar Binding,Cleric
+Planar Binding,Druid
+Planar Binding,Wizard
+Plane Shift,Cleric
+Plane Shift,Druid
+Plane Shift,Sorcerer
+Plane Shift,Warlock
+Plane Shift,Wizard
+Plant Growth,Bard
+Plant Growth,Cleric
+Plant Growth,Druid
+Plant Growth,Paladin
+Plant Growth,Ranger
+Poison Spray,Cleric
+Poison Spray,Druid
+Poison Spray,Sorcerer
+Poison Spray,Warlock
+Poison Spray,Wizard
+Polymorph,Bard
+Polymorph,Cleric
+Polymorph,Druid
+Polymorph,Sorcerer
+Polymorph,Wizard
+Power Word Heal,Bard
+Power Word Kill,Bard
+Power Word Kill,Sorcerer
+Power Word Kill,Warlock
+Power Word Kill,Wizard
+Power Word Stun,Bard
+Power Word Stun,Sorcerer
+Power Word Stun,Warlock
+Power Word Stun,Wizard
+Prayer of Healing,Cleric
+Prestidigitation,Bard
+Prestidigitation,Sorcerer
+Prestidigitation,Warlock
+Prestidigitation,Wizard
+Prismatic Spray,Sorcerer
+Prismatic Spray,Wizard
+Prismatic Wall,Wizard
+Produce Flame,Cleric
+Produce Flame,Druid
+Programmed Illusion,Bard
+Programmed Illusion,Wizard
+Project Image,Bard
+Project Image,Wizard
+Protection from Energy,Cleric
+Protection from Energy,Druid
+Protection from Energy,Paladin
+Protection from Energy,Ranger
+Protection from Energy,Sorcerer
+Protection from Energy,Wizard
+Protection from Evil and Good,Cleric
+Protection from Evil and Good,Paladin
+Protection from Evil and Good,Warlock
+Protection from Evil and Good,Wizard
+Protection from Poison,Cleric
+Protection from Poison,Druid
+Protection from Poison,Paladin
+Protection from Poison,Ranger
+Purify Food and Drink,Cleric
+Purify Food and Drink,Druid
+Purify Food and Drink,Paladin
+Raise Dead,Bard
+Raise Dead,Cleric
+Raise Dead,Paladin
+Rarys Telepathic Bond,Wizard
+Ray of Enfeeblement,Cleric
+Ray of Enfeeblement,Warlock
+Ray of Enfeeblement,Wizard
+Ray of Frost,Sorcerer
+Ray of Frost,Wizard
+Ray of Sickness,Cleric
+Ray of Sickness,Sorcerer
+Ray of Sickness,Wizard
+Regenerate,Bard
+Regenerate,Cleric
+Regenerate,Druid
+Reincarnate,Druid
+Remove Curse,Cleric
+Remove Curse,Paladin
+Remove Curse,Warlock
+Remove Curse,Wizard
+Resistance,Cleric
+Resistance,Druid
+Resurrection,Bard
+Resurrection,Cleric
+Reverse Gravity,Druid
+Reverse Gravity,Sorcerer
+Reverse Gravity,Wizard
+Revivify,Cleric
+Revivify,Paladin
+Rope Trick,Wizard
+Sacred Flame,Cleric
+Sanctuary,Cleric
+Sanctuary,Paladin
+Scorching Ray,Cleric
+Scorching Ray,Sorcerer
+Scorching Ray,Wizard
+Scrying,Bard
+Scrying,Cleric
+Scrying,Druid
+Scrying,Paladin
+Scrying,Warlock
+Scrying,Wizard
+Searing Smite,Paladin
+See Invisibility,Bard
+See Invisibility,Sorcerer
+See Invisibility,Wizard
+Seeming,Bard
+Seeming,Sorcerer
+Seeming,Wizard
+Sending,Bard
+Sending,Cleric
+Sending,Wizard
+Sequester,Wizard
+Shapechange,Druid
+Shapechange,Wizard
+Shatter,Bard
+Shatter,Cleric
+Shatter,Sorcerer
+Shatter,Warlock
+Shatter,Wizard
+Shield,Sorcerer
+Shield,Wizard
+Shield of Faith,Cleric
+Shield of Faith,Paladin
+Shillelagh,Cleric
+Shillelagh,Druid
+Shocking Grasp,Sorcerer
+Shocking Grasp,Wizard
+Silence,Bard
+Silence,Cleric
+Silence,Druid
+Silence,Ranger
+Silent Image,Bard
+Silent Image,Sorcerer
+Silent Image,Wizard
+Simulacrum,Wizard
+Sleep,Bard
+Sleep,Sorcerer
+Sleep,Wizard
+Sleet Storm,Cleric
+Sleet Storm,Druid
+Sleet Storm,Sorcerer
+Sleet Storm,Wizard
+Slow,Druid
+Slow,Sorcerer
+Slow,Wizard
+Spare the Dying,Cleric
+Speak with Animals,Bard
+Speak with Animals,Cleric
+Speak with Animals,Druid
+Speak with Animals,Paladin
+Speak with Animals,Ranger
+Speak with Dead,Bard
+Speak with Dead,Cleric
+Speak with Plants,Bard
+Speak with Plants,Druid
+Speak with Plants,Ranger
+Spider Climb,Druid
+Spider Climb,Sorcerer
+Spider Climb,Warlock
+Spider Climb,Wizard
+Spike Growth,Cleric
+Spike Growth,Druid
+Spike Growth,Ranger
+Spirit Guardian,Cleric
+Spiritual Weapon,Cleric
+Staggering Smite,Paladin
+Stinking Cloud,Bard
+Stinking Cloud,Druid
+Stinking Cloud,Sorcerer
+Stinking Cloud,Wizard
+Stone Shape,Cleric
+Stone Shape,Druid
+Stone Shape,Wizard
+Stoneskin,Cleric
+Stoneskin,Druid
+Stoneskin,Paladin
+Stoneskin,Ranger
+Stoneskin,Sorcerer
+Stoneskin,Wizard
+Storm of Vengeance,Druid
+Suggestion,Bard
+Suggestion,Cleric
+Suggestion,Sorcerer
+Suggestion,Warlock
+Suggestion,Wizard
+Sunbeam,Druid
+Sunbeam,Sorcerer
+Sunbeam,Wizard
+Sunburst,Druid
+Sunburst,Sorcerer
+Sunburst,Wizard
+Swift Quiver,Ranger
+Symbol,Bard
+Symbol,Cleric
+Symbol,Wizard
+Tashas Hideous Laughter,Bard
+Tashas Hideous Laughter,Wizard
+Telekinesis,Sorcerer
+Telekinesis,Wizard
+Telepathy,Wizard
+Teleport,Bard
+Teleport,Sorcerer
+Teleport,Wizard
+Teleportation Circle,Bard
+Teleportation Circle,Sorcerer
+Teleportation Circle,Wizard
+Tensers Floating Disk,Wizard
+Thaumaturgy,Cleric
+Thorn Whip,Cleric
+Thorn Whip,Druid
+Thunderous Smite,Paladin
+Thunderwave,Bard
+Thunderwave,Cleric
+Thunderwave,Druid
+Thunderwave,Sorcerer
+Thunderwave,Wizard
+Time Stop,Sorcerer
+Time Stop,Wizard
+Tongues,Bard
+Tongues,Cleric
+Tongues,Sorcerer
+Tongues,Warlock
+Tongues,Wizard
+Transport via Plants,Druid
+Tree Stride,Cleric
+Tree Stride,Druid
+Tree Stride,Paladin
+Tree Stride,Ranger
+True Polymorph,Bard
+True Polymorph,Warlock
+True Polymorph,Wizard
+True Resurrection,Cleric
+True Resurrection,Druid
+True Seeing,Bard
+True Seeing,Cleric
+True Seeing,Sorcerer
+True Seeing,Warlock
+True Seeing,Wizard
+True Strike,Bard
+True Strike,Sorcerer
+True Strike,Warlock
+True Strike,Wizard
+Tsunami,Druid
+Unseen Servant,Bard
+Unseen Servant,Warlock
+Unseen Servant,Wizard
+Vampiric Touch,Cleric
+Vampiric Touch,Warlock
+Vampiric Touch,Wizard
+Vicious Mockery,Bard
+Wall of Fire,Cleric
+Wall of Fire,Druid
+Wall of Fire,Sorcerer
+Wall of Fire,Wizard
+Wall of Force,Wizard
+Wall of Ice,Wizard
+Wall of Stone,Druid
+Wall of Stone,Sorcerer
+Wall of Stone,Wizard
+Wall of Thorns,Druid
+Warding Bond,Cleric
+Water Breathing,Druid
+Water Breathing,Ranger
+Water Breathing,Sorcerer
+Water Breathing,Wizard
+Water Walk,Cleric
+Water Walk,Druid
+Water Walk,Ranger
+Water Walk,Sorcerer
+Web,Druid
+Web,Sorcerer
+Web,Wizard
+Weird,Wizard
+Wind Walk,Druid
+Wind Wall,Cleric
+Wind Wall,Druid
+Wind Wall,Ranger
+Wish,Sorcerer
+Wish,Wizard
+Witch Bolt,Sorcerer
+Witch Bolt,Warlock
+Witch Bolt,Wizard
+Word of Recall,Cleric
+Wrathful Smite,Paladin
+Zone of Truth,Bard
+Zone of Truth,Cleric
+Zone of Truth,Paladin

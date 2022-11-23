@@ -1,0 +1,1128 @@
+<html>
+
+<head>
+    <title>D&D</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+        crossorigin="anonymous"></script>
+
+    <style>
+        table {
+            max-width: 960px;
+        }
+
+        caption {
+            font-size: 1.3em;
+            font-weight: 300;
+            padding: 8px 0;
+        }
+
+        thead th {
+            font-weight: 300;
+            background: #8a97a0;
+            color: #FFF;
+            cursor: pointer;
+        }
+
+        tr {
+            background: #f4f7f8;
+            border-bottom: 1px solid #FFF;
+            margin-bottom: 3px;
+        }
+
+        tr:nth-child(even) {
+            background: #e8eeef;
+        }
+
+        th,
+        td {
+            text-align: left;
+            padding: 5px;
+            font-weight: 200;
+        }
+        tfoot tr {
+            background: none;
+        }
+        tfoot td {
+            padding: 8px 2px;
+            font-size: 0.8em;
+            font-style: italic;
+            color: #8a97a0;
+        }
+        label {
+            padding-right: 15px;
+        }
+
+        p {
+            width: 600px;
+        }
+    </style>
+
+    <script>
+        var host = location.hostname
+        var port = location.port
+        let tempList = []
+
+        const keysMap = new Map();
+        var currTableName;
+        var isPushKeys = false;
+        var isUseSort = 'false';
+        var creatureFixedKeyNum = 9;
+        var weaponFixedKeyNum = 1;
+        var spellFixedKeyNum = 1;
+        var playerClassFixedKeyNum = 3;
+
+        var sortOrderFlag = 1;
+        var keyStr = "";
+        var rowNum;
+        var order = ""
+        var indexOfKey;
+        var keyUsedSort = "";
+        var isUsePrewrittenQuery;
+        var newTable = "";
+        var prewrittenQueryIndex;
+
+        const getKey = (obj) => {
+            return Object.keys(obj);
+        }
+
+        const createCheckList = (keys) => {
+            var checklist = "<div id=" + '"checkbox_div">';
+            for (let i = 0; i < keys.length; i++)
+                checklist += '<label><input checked type="checkbox" value="hide" id="' + keys[i] + '"' + 'onchange="manipluateTableCol(this.id);">' + keys[i] + '</label>';
+            checklist += "</div>"
+
+            var div = document.getElementById("checkbox");
+            div.innerHTML = checklist;
+        }
+
+        const createRowsNumList = (num) => {
+            var rowsNumList = '<select name="rowNumChoose"' + ' id="rowNumChoose">';
+            for (let i = 1; i <= num; i++) {
+                rowsNumList += '<option value="' + i + '">' + i + '</option>';
+            }
+            rowsNumList += "</select>";
+            var selection = document.getElementById('rowNumChoose');
+            selection.innerHTML = rowsNumList;
+
+        }
+
+        const createNewTable = (keys, tablename, newKeysNum) => {
+            var table = '<table id=' + tablename + '><thead><tr>';
+            currTableName = tablename;
+            for (let i = 0; i < keys.length - newKeysNum; i++) {
+                if (isUsePrewrittenQuery)
+                    table += '<th id="' + keys[i] + '_col_head"' + '>' + keys[i] + '</th>';
+                else
+                    table += '<th id="' + keys[i] + '_col_head"' + ' onclick="getSortTable(' + i + ')">' + keys[i] + '</th>';
+            }
+
+            for (let i = 0; i < newKeysNum; i++)
+                table += '<th id="' + keys[keys.length - newKeysNum + i] + '_col_head">' + keys[keys.length - newKeysNum + i] + '</th>';
+            table += "</tr><thead>";
+            return table;
+        }
+
+        const fetchTable = (newTable, selected, list) => {
+
+            // ------------------ FETCH MAIN TABLE -------------------------
+            if (selected == 'Weapon') {
+                tempList = [];
+                if (!isPushKeys) {
+                    keysOnTable.push("More Info");
+                    isPushKeys = true;
+                }
+                newTable = createNewTable(keysOnTable, selected, weaponFixedKeyNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - weaponFixedKeyNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+
+                    newTable += '<td><button onclick="moreInfoWeapon(' + i + ')">+</button></td></tr></table>';
+
+                }
+            } else if (selected == 'Creature') {
+                tempList = [];
+                if (!isPushKeys) {
+                    keysOnTable.push("SavingThrows", "Skills", "ImmuneTo", "WeakTo", "Resists", "Languages", "Senses", "Speed", "Add. Feature");
+                    isPushKeys = true;
+                }
+
+                newTable = createNewTable(keysOnTable, selected, creatureFixedKeyNum);
+
+                for (var i = 0; i < list.length; i++) {
+
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+                    for (let j = 0; j < keysOnTable.length - creatureFixedKeyNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+
+                    newTable += '<td><button onclick="moreInfoCreatureSTs(' + i + ')">+</button></td>' +
+                        '<td><button onclick="moreInfoCreatureSkill(' + i + ')">+</button></td>' +
+                        '<td><button onclick="moreInfoCreatureImmune(' + i + ')">+</button></td>' +
+                        '<td><button onclick="moreInfoCreatureWeak(' + i + ')">+</button></td>' +
+                        '<td><button onclick="moreInfoCreatureResist(' + i + ')">+</button></td>' +
+                        '<td><button onclick="moreInfoCreatureLanguage(' + i + ')">+</button></td>' +
+                        '<td><button onclick="moreInfoCreatureSense(' + i + ')">+</button></td>' +
+                        '<td><button onclick="moreInfoCreatureSpeed(' + i + ')">+</button></td>' +
+                        '<td><button onclick="moreInfoCreatureAddFeature(' + i + ')">+</button></td></tr>';
+                }
+                newTable += "</tbody>"
+            } else if (selected == 'Spell') {
+                tempList = [];
+                if (!isPushKeys) {
+                    keysOnTable.push("More Info");
+                    isPushKeys = true;
+                }
+                newTable = createNewTable(keysOnTable, selected, spellFixedKeyNum);
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - spellFixedKeyNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                    newTable += '<td><button onclick="moreInfoSpell(' + i + ')">+</button></td></tr>';
+                }
+                newTable += "</tbody>"
+            } else if (selected == 'PlayerClass') {
+                tempList = [];
+                if (!isPushKeys) {
+                    keysOnTable.push("Weapons", "Spells", "SavingThrows");
+                    isPushKeys = true;
+                }
+
+                newTable = createNewTable(keysOnTable, selected, playerClassFixedKeyNum);
+                for (var i = 0; i < list.length; i++) {
+
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - playerClassFixedKeyNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+
+                    newTable += '<td><button onclick="moreInfoPlayerWeap(' + i + ')">+</button></td>' +
+                        '<td><button onclick="moreInfoPlayerSpell(' + i + ')">+</button></td>' +
+                        '<td><button onclick="moreInfoPlayerSTs(' + i + ')">+</button></td></tr>';
+                }
+                newTable += "</tbody>"
+            } else if (selected == 'DamageType') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+
+                }
+                newTable += "</tbody>"            
+            } 
+            // ------------- FETCH SUPPORT TABLES -----------------------------
+            else if (selected == 'Speeds') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }  
+            else if (selected == 'CreatureSTs') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }  
+            else if (selected == 'Skills') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }     
+            else if (selected == 'Senses') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }   
+            else if (selected == 'Languages') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }            
+            else if (selected == 'AdditionalFeature') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }     
+            else if (selected == 'WeakTo') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }      
+            else if (selected == 'ImmuneTo') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }        
+            else if (selected == 'Resists') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            } 
+            else if (selected == 'WeaponDmgType') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }   
+            else if (selected == 'CanUseWeapon') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }         
+            else if (selected == 'SpellDmgType') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }       
+            else if (selected == 'CanUseSpell') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }      
+            else if (selected == 'ClassSTs') {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+                }
+                newTable += "</tbody>"            
+            }            
+            
+            else if (selected.includes('prewritten')) {
+                tempList = [];
+                let newKeysNum = 0;
+                newTable = createNewTable(keysOnTable, selected, newKeysNum);
+
+                for (var i = 0; i < list.length; i++) {
+                    tempList.push(list[i][keysOnTable[0]]);
+                    newTable += "<tr>";
+
+                    for (let j = 0; j < keysOnTable.length - newKeysNum; j++) {
+                        newTable += "<td>" + list[i][keysOnTable[j]] + "</td>";
+                    }
+
+                }
+                newTable += "</tbody>"
+            } else {
+                //Not possible, but who knows
+                alert("Something went wrong, not receving the correct input for table");
+            }
+
+            var table = document.getElementById("table");
+            table.innerHTML = newTable;
+
+        }
+
+
+        function manipluateTableCol(col_name) {
+
+            var checkbox_val = document.getElementById(col_name).value;
+            //alert(oReq.responseText);
+            var selectDropdown = document.getElementById('tableChoose');
+            var selected = selectDropdown.options[selectDropdown.selectedIndex].value;
+
+
+            if (checkbox_val == "hide") {
+                const index1 = keysOnTable.indexOf(col_name);
+
+                if (index1 > -1) {
+                    keysOnTable.splice(index1, 1);
+                    keysMap.set(col_name, false);
+                }
+
+                document.getElementById(col_name).value = "show";
+                var num = 0;
+                var keyName;
+                keysMap.forEach((value, key) => {
+                    if (value) {
+                        num++;
+                        keyName = key;
+                    }
+                })
+                if (num == 1) {
+                    document.getElementById(keyName).disabled = true;
+                }
+            } else {
+                var num = 0;
+                var keyName;
+                keysMap.forEach((value, key) => {
+                    if (value) {
+                        num++;
+                        keyName = key;
+                    }
+                })
+                if (num == 1) {
+                    document.getElementById(keyName).disabled = false;
+                }
+
+                keysMap.set(col_name, true);
+
+
+                if (selected == 'Weapon')
+                    keysOnTable.splice(0, keysOnTable.length - weaponFixedKeyNum);
+                else if (selected == 'Creature')
+                    keysOnTable.splice(0, keysOnTable.length - creatureFixedKeyNum);
+                else if (selected == 'Spell')
+                    keysOnTable.splice(0, keysOnTable.length - spellFixedKeyNum);
+                else if (selected == 'PlayerClass')
+                    keysOnTable.splice(0, keysOnTable.length - playerClassFixedKeyNum);
+                else if (selected == 'AdditionalFeature')
+                    keysOnTable.splice(0, keysOnTable.length);
+                else if (selected == 'AdditionalFeature' || selected == 'CanUseSpell' || selected == 'CanUseWeapon' || selected == 'ClassSTs' || selected == 'CreatureSTs' ||
+                selected == 'ImmuneTo' || selected == 'Languages' || selected == 'Resists' || selected == 'Senses' || selected == 'Senses' || selected == 'Skills' || selected == 'Speeds' ||
+                selected == 'SpellDmgType' || selected == 'WeakTo' || selected == 'WeaponDmgType')
+                    keysOnTable.splice(0, keysOnTable.length);
+
+                Array.prototype.insert = function (index, item) {
+                    this.splice(index, 0, item);
+                };
+                var i = 0;
+                keysMap.forEach((value, key) => {
+                    if (value) {
+                        keysOnTable.insert(i, key);
+                        i++;
+                    }
+                })
+                document.getElementById(col_name).value = "hide";
+            }
+
+            function loadedCallback() {
+                var newTable = "";
+                var list = JSON.parse(oReq.responseText);
+                isPushKeys = true;
+                fetchTable(newTable, selected, list);
+            }
+
+            keyStr = "";
+            keysMap.forEach((value, key) => {
+                if (value)
+                    keyStr += key + '_';
+            })
+            keyStr += currTableName;
+            var oReq = new XMLHttpRequest();
+            oReq.open("GET", "http://" + host + ":" + port + "/manipulateTable/" + keyStr + '_' + keyUsedSort + '_' + order + '_' + rowNum + '_' + isUseSort);
+            oReq.addEventListener("load", loadedCallback);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+
+        }
+
+        function getLimitRowsTable(num) {
+            var selectDropdown = document.getElementById('rowNumChoose');
+            var selected = selectDropdown.options[selectDropdown.selectedIndex].value;
+            rowNum = selected;
+            function loadedCallback() {
+                newTable = "";
+                var list = JSON.parse(oReq.responseText);
+
+
+                //get keys from table
+                //keys = getKey(list[0]);
+                fetchTable(newTable, currTableName, list);
+
+            }
+
+            //sort order flip
+            var oReq = new XMLHttpRequest();
+            oReq.open("GET", "http://" + host + ":" + port + "/manipulateTable/" + keyStr + '_' + keyUsedSort + '_' + order + '_' + rowNum + '_' + isUseSort);
+            oReq.addEventListener("load", loadedCallback);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+
+
+        function getSortTable(index) {
+
+            //alert(oReq.responseText);
+            var selectDropdown = document.getElementById('tableChoose');
+            var selected = selectDropdown.options[selectDropdown.selectedIndex].value;
+            isUseSort = 'true';
+            function loadedCallback() {
+                var newTable = "";
+                var list = JSON.parse(oReq.responseText);
+                fetchTable(newTable, selected, list);
+
+            }
+
+            keyUsedSort = keysOnTable[index];
+            //sort order flip
+            sortOrderFlag *= -1;
+            order = (sortOrderFlag == 1) ? 'ASC' : 'DESC';
+
+            var oReq = new XMLHttpRequest();
+            oReq.open("GET", "http://" + host + ":" + port + "/getSortedTable/" + keyStr + '_' + keyUsedSort + '_' + order + '_' + rowNum + '_' + isUseSort);
+            oReq.addEventListener("load", loadedCallback);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+
+        }
+
+
+        function getPrewrittenQueryTable() {
+
+            var selectDropdown = document.getElementById('queryChoose');
+            var selected = selectDropdown.options[selectDropdown.selectedIndex].value;
+            isUsePrewrittenQuery = true;
+            prewrittenQueryIndex = selected;
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var newTable = "";
+                keysOnTable = getKey(list[0]);
+                fetchTable(newTable, selected, list);
+            }
+            var checkbox = document.getElementById("checkbox_div");
+            if (checkbox) checkbox.style.display = "none"
+
+            var rowChoose = document.getElementById("row");
+            if (rowChoose) rowChoose.style.display = "none";
+
+            var description = document.getElementById("description");
+            if (description) description.style.display = "inline-block";
+
+            var queryIndex = selected.split(' ')[2];
+            queryDescription(queryIndex);
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            if (selected == "prewritten query 12") {
+                var selectParameter = document.getElementById('LevelChoose');
+                var level = selectParameter.options[selectParameter.selectedIndex].value;
+                var cName = document.getElementById('Query_12_CreatureName').value;
+                oReq.open("GET", "http://" + host + ":" + port + "/getPreWrittenQuery12/" + level + "_" + cName);
+            } else {
+                oReq.open("GET", "http://" + host + ":" + port + "/getPreWrittenQuery" + queryIndex);
+            }
+
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+
+        }
+
+        function query12() {
+            isUsePrewrittenQuery = true;
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+            
+                var newTable = "";
+                keysOnTable = getKey(list[0]);
+                fetchTable(newTable, prewrittenQueryIndex, list);
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            var selectParameter = document.getElementById('LevelChoose');
+            var level = selectParameter.options[selectParameter.selectedIndex].value;
+            var cName = document.getElementById('Query_12_CreatureName').value;
+            oReq.open("GET", "http://" + host + ":" + port + "/getPreWrittenQuery12/" + level + "_" + cName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+
+        function getTable() {
+            var oReq = new XMLHttpRequest();
+            var selectDropdown = document.getElementById('tableChoose');
+            var selected = selectDropdown.options[selectDropdown.selectedIndex].value;
+
+            isUsePrewrittenQuery = false;
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                //alert(oReq.responseText);
+                var newTable = "";
+
+                //get keys from table
+                keysOnTable = getKey(list[0]);
+                keysMap.clear();
+
+                rowNum = list.length;
+
+                for (let i = 0; i < keysOnTable.length; i++) {
+                    keysMap.set(keysOnTable[i], true);
+                }
+                createCheckList(keysOnTable);
+                createRowsNumList(list.length);
+
+                keyUsedSort = "";
+                isUseSort = 'false';
+                isPushKeys = false;
+                fetchTable(newTable, selected, list);
+
+                keyStr = "";
+                keysMap.forEach((value, key) => {
+                    if (value)
+                        keyStr += key + '_';
+                })
+                keyStr += currTableName;
+
+                order = (sortOrderFlag == 1) ? 'ASC' : 'DESC';
+                indexOfKey = -1;
+
+                var num = 0;
+                var keyName;
+                keysMap.forEach((value, key) => {
+                    if (value) {
+                        num++; keyName = key;
+                    }
+                })
+                if (num == 1) {
+                    document.getElementById(keyName).disabled = true;
+                }
+
+                var rowChoose = document.getElementById("row");
+                if (rowChoose) rowChoose.style.display = "inline-block";
+
+                var description = document.getElementById("description");
+                if (description) description.style.display = "none";
+
+            }
+
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/get" + selected);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+
+        }
+
+
+        function queryDescription(index) {
+            var description = '<p id="description">';
+            switch (index) {
+                case '1': description += "Which combinations of spells and attacks could a Druid use such that an Ice Mephit (weak to Bludgeoning and Fire) would be weak to both? Show Weapon and Spell combinations."; break;
+                case '2': ; description += "Which spells deal damage but have no somatic component (don't need hand gestures to cast)? Order by spell damage in descending order."; break;
+                case '3': ; description += "What damage types are the most common in spells of lvl 5 and up? Show the damage types and the number of spells with that damage type as NumSpells5Above."; break;
+                case '4': ; description += "What creatures have a challenge rating (CR) smaller than 5, under 100 HP, and resist slashing, piercing, and bludgeoning? Show creature names, their challenge rating, and all of their stats."; break;
+                case '5': ; description += "How many creatures are immune to each damage type? Show each damage type and the number of creatures immune to that damage type as NumImmune."; break;
+                case '6': ; description += "How many fire and ice spells can each class use? Show class names, the number of fire spells as FireSpells, the number of cold spells as ColdSpells, and the sum of those as Total."; break;
+                case '7': ; description += "What are the 5 classes that can use the most weapons and spells? Show class name, number of weapons as NumWeaps, number of spells as NumSpells."; break;
+                case '8': ; description += "What are the 10 creature that have the highest sum of their six stats + Hit Points (HP) + Armor Class (AC)? Show the Creature's information, and the sum of those stats as SumStats."; break;
+                case '9': ; description += "What creatures resist the greatest number of weapons and spells? Show the creature's number of weapon and spell resistances."; break;
+                case '10': ; description += "What is the distribution of HP for all Creature?"; break;
+                case '11': ; description += "What creature types generally walk the slowest? (Show the avg speed of those creature types)"; break;
+                case '12': ; description += "What is the maximum amount of damage possible from a spell against a given creature at a given level. What is the damage type of that Spell? Choose the spell level and the creature to look up here: " +
+                    "\n(If you input a creature name that does not exist, it will simply return the highest damaging spell at that level.)\n" +
+	            '<select name="LevelChoose" id="LevelChoose">' +
+		    '<option value="0">0</option>' + '<option value="1">1</option>' + '<option value="2">2</option>' +
+                    '<option value="3">3</option>' + '<option value="4">4</option>' + '<option value="5">5</option>' +
+                    '<option value="6">6</option>' + '<option value="7">7</option>' + '<option value="8">8</option>' +
+                    '<option value="9">9</option></select>' + 
+                    '<input type="text" id="Query_12_CreatureName"><button class="btn btn-outline-secondary" onclick="query12()">Query</button>'; break;
+                case '13': ; description += 'What group of creatures with the same alignment can communicate the best with each other? (What language is known the most by creatures in the same alignment? What creatures knows that language? Creature with Language label "Any" or "All" can potentially communicate with everyone)'; break;
+                case '14': ; description += "What are the most common Additional Features among all creatures?"; break;
+            }
+            description += '</p>'
+            var d = document.getElementById('description');
+            d.innerHTML = description;
+        }
+
+
+        // --------------- MVA CHECKBOX HTTP REQUESTS -------------------
+
+        function moreInfoWeapon(index) {
+
+            var weapName = tempList[index];
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = 'This weapon has the following damage types:\n'
+                alert(helper(list, 'DamageName', "", msg));
+                var table = document.getElementById("table");
+
+            }
+
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getWeapInfo/" + weapName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoSpell(index) {
+
+            var spellName = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = "This spell has the following damage types:\n"
+                alert(helper(list, 'DamageName', '', msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getSpellInfo/" + spellName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoPlayerWeap(index) {
+
+            var className = tempList[index];
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = 'This player class has proficiency in these weapons:\n'
+                alert(helper(list, 'WeaponName', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getPlayerInfoWeap/" + className);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoPlayerSpell(index) {
+
+            var className = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = 'This player class can use these spells:\n'
+                alert(helper(list, 'SpellName', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getPlayerInfoSpell/" + className);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoPlayerSTs(index) {
+
+            var className = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = 'This player class has proficiency in these saving throws:\n'
+                alert(helper(list, 'SavingThrow', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getPlayerSTInfo/" + className);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoCreatureSTs(index) {
+
+            var creatureName = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = 'This creature gets a bonus to these saving throws:\n'
+                alert(helper(list, 'SavingThrow', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getCreatureSTInfo/" + creatureName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoCreatureSkill(index) {
+
+            var creatureName = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = "This creature gets a bonus in these skills:\n"
+                alert(helper(list, 'Skill', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getCreatureSkillInfo/" + creatureName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoCreatureImmune(index) {
+
+            var creatureName = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = "This creature is immune to these damage types:\n"
+                alert(helper(list, 'DamageName', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getCreatureImmuneInfo/" + creatureName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoCreatureWeak(index) {
+
+            var creatureName = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = "This creature is weak to these damage types:\n"
+                alert(helper(list, 'DamageName', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getCreatureWeakInfo/" + creatureName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoCreatureResist(index) {
+
+            var creatureName = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = "This creature resists these damage types:\n"
+                alert(helper(list, 'DamageName', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getCreatureResistInfo/" + creatureName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoCreatureLanguage(index) {
+
+            var creatureName = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = "This creature knows these languages:\n"
+                alert(helper(list, 'Language', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getCreatureLanguageInfo/" + creatureName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoCreatureSense(index) {
+
+            var creatureName = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = "This creature can use these senses:\n"
+                alert(helper(list, 'Sense', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getCreatureSenseInfo/" + creatureName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoCreatureSpeed(index) {
+
+            var creatureName = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = "This creature moves at these speeds (ft./turn):\n"
+                alert(helper(list, 'Speed', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getCreatureSpeedInfo/" + creatureName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function moreInfoCreatureAddFeature(index) {
+
+            var creatureName = tempList[index];
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                var msg = "This creature has these additional features:\n"
+                alert(helper(list, 'Feature', "", msg));
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/getCreatureAddFeature/" + creatureName);
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+        function helper(list, key, nameShows, message) {
+            var temp = ""
+            for (var i = 0; i < list.length; i++) {
+                temp += list[i][key];
+                if (i != list.length - 1) {
+                    temp += ", ";
+                }
+            }
+            // alert(oReq.responseText)
+            if (list.length == 0) {
+                temp = "None"
+            }
+            var alertMessage = ""
+            if (nameShows == "") {
+                alertMessage = message + temp;
+            } else {
+                alertMessage = "The " + nameShows + " of it can use is: \n" + temp;
+            }
+            return alertMessage;
+        }
+
+        function refresh() {
+
+            function loadedCallback() {
+                var list = JSON.parse(oReq.responseText);
+                alert(oReq.responseText)
+
+                var table = document.getElementById("table");
+                table.innerHTML = newTable;
+
+            }
+
+            var oReq = new XMLHttpRequest();
+            oReq.addEventListener("load", loadedCallback);
+            oReq.open("GET", "http://" + host + ":" + port + "/posts");
+            oReq.setRequestHeader("Content-Type", "application/json");
+            oReq.send();
+        }
+
+    </script>
+</head>
+
+<body onload="refresh()">
+    <nav class="navbar navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Welcome to our D&D Database!</a>
+    </nav>
+    <div style="height: 10px;"></div>
+    <div class="input-group w-25">
+        <div class="input-group-prepend">
+            <button class="btn btn-outline-secondary" for="tableChoose" onclick="getTable()">Get table</label>
+        </div>
+        <select class="custom-select" id="tableChoose" name="tableChoose">
+            <option value="Creature">Creature</option>
+            <option value="Weapon">Weapon</option>
+            <option value="Spell">Spell</option>
+            <option value="PlayerClass">PlayerClass</option>
+            <option value="DamageType">DamageType</option>
+            <option value="Speeds">Speeds - MVA</option>
+            <option value="CreatureSTs">CreatureSTs - MVA</option>
+            <option value="Skills">Skills - MVA</option>
+            <option value="Senses">Senses - MVA</option>
+            <option value="Languages">Languages - MVA</option>
+            <option value="AdditionalFeature">AdditionalFeatures - MVA</option>
+            <option value="ClassSTs">ClassSTs - MVA</option>
+            <option value="WeakTo">WeakTo - Relationship</option>
+            <option value="ImmuneTo">ImmuneTo - Relationship</option>
+            <option value="Resists">Resists - Relationship</option>
+            <option value="WeaponDmgType">WeapDmgType - Relationship</option>
+            <option value="CanUseWeapon">CanUseWeapon - Relationship</option>
+            <option value="SpellDmgType">SpellDmgType - Relationship</option>
+            <option value="CanUseSpell">CanUseSpell - Relationship</option>            
+        </select>
+    </div>
+    <div style="height: 10px;"></div>
+    <div class="input-group w-25">
+        <div class="input-group-prepend">
+            <button class="btn btn-outline-secondary" onclick="getPrewrittenQueryTable()">Execute prewritten query</label>
+        </div>
+        <select class="custom-select" id="queryChoose" name="queryChoose">
+            <option value="prewritten query 1"> query 1</option>
+            <option value="prewritten query 2"> query 2</option>
+            <option value="prewritten query 3"> query 3</option>
+            <option value="prewritten query 4"> query 4</option>
+            <option value="prewritten query 5"> query 5</option>
+            <option value="prewritten query 6"> query 6</option>
+            <option value="prewritten query 7"> query 7</option>
+            <option value="prewritten query 8"> query 8</option>
+            <option value="prewritten query 9"> query 9</option>
+            <option value="prewritten query 10"> query 10</option>
+            <option value="prewritten query 11"> query 11</option>
+            <option value="prewritten query 12"> query 12</option>
+            <option value="prewritten query 13"> query 13</option>
+            <option value="prewritten query 14"> query 14</option>
+        </select>
+    </div>
+
+    <div style="height: 10px;"></div>
+    <div style="height:700px;overflow:auto;">
+        <div id="row">
+            <button class="btn btn-outline-secondary" onclick="getLimitRowsTable()">Limit number of rows</button>
+            <select class="custom-select" style="width:200px;" id='rowNumChoose'></select>
+        </div>
+        <div id='checkbox'></div>
+        <p class="lead" id='description'></p>
+        <table id='table'> </table>
+    </div>
+
+</body>
+
+</html>

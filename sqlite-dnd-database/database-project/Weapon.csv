@@ -1,0 +1,71 @@
+WeaponName,SimpleMartial,MeleeRanged,WeaponGroup,DamageDice,MaxDamage,Versatile,Light,Heavy,Range,Thrown,Finesse,Reach
+Club,Simple,Melee,Mace,1d8,8,N,N,N,N,N,N,N
+Dagger,Simple,Melee,Blade,1d4,4,N,Y,N,[20/60],Y,Y,N
+Dart,Simple,Melee,Spear,1d6,6,N,N,N,[20/60],Y,Y,N
+Handaxe,Simple,Melee,Axe,1d6,6,N,Y,N,[25/75],Y,N,N
+Javelin,Simple,Melee,Spear,1d6,6,N,N,N,[30/120],Y,N,N
+Light Hammer,Simple,Melee,Hammer,1d6,6,N,Y,N,[25/75],Y,N,N
+Mace,Simple,Melee,Mace,1d8,8,N,N,N,N,N,N,N
+Quarterstaff,Simple,Melee,Staff,1d6,8,1d8,N,N,N,N,Y,N
+Shortspear,Simple,Melee,Spear,1d6,6,N,N,N,[25/75],Y,Y,N
+Sickle,Simple,Melee,Blade,1d6,6,N,N,N,N,N,Y,N
+Metal Gauntlet,Simple,Melee,Unarmed,1d6,6,N,N,N,N,N,N,N
+Wrist Razors,Simple,Melee,Unarmed,1d4,4,N,N,N,N,N,Y,N
+Greatclub,Simple,Melee,Mace,1d8,8,N,N,N,N,N,N,N
+Scythe,Simple,Melee,Blade,1d6,6,N,N,Y,N,N,N,N
+Blowgun,Simple,Ranged,Blowgun,1,1,N,Y,N,[25/100],N,N,N
+Light Crossbow,Simple,Ranged,Crossbow,1d4,4,N,Y,N,[30/120],N,N,N
+Pistol,Simple,Ranged,Firearm,1d6,6,N,Y,N,[25/100],N,N,N
+Sling,Simple,Ranged,Sling,1d4,4,N,N,N,[25/100],N,N,N
+Heavy Crossbow,Simple,Ranged,Crossbow,1d8,8,N,N,Y,[80/320],N,N,N
+Musket,Simple,Ranged,Firearm,1d10,10,N,N,N,[80/320],N,N,N
+Battleaxe,Martial,Melee,Axe,1d10,12,1d12,N,N,[20/60],Y,N,N
+Flail,Martial,Melee,Flail,1d8,8,N,N,N,N,N,N,N
+Fullstaff,Martial,Melee,Staff,1d6,6,N,N,N,N,N,Y,Y
+Katana,Martial,Melee,Blade,1d6,8,1d8,N,N,N,N,Y,N
+Longsword,Martial,Melee,Blade,1d10,12,1d12,N,N,N,N,N,N
+Morningstar,Martial,Melee,Mace,1d10,10,N,N,N,N,N,N,N
+Nunchuka,Martial,Melee,Mace,1d6,6,N,Y,N,N,N,Y,N
+Rapier,Martial,Melee,Blade,1d6,6,N,N,N,N,N,N,N
+Scimitar,Martial,Melee,Blade,1d6,6,N,Y,N,N,N,Y,N
+Shortsword,Martial,Melee,Blade,1d6,6,N,Y,N,N,N,Y,N
+Spear,Martial,Melee,Spear,1d8,10,1d10,N,N,[25/75],Y,N,Y
+Warhammer,Martial,Melee,Hammer,1d8,10,1d10,N,N,N,N,N,N
+Whip,Martial,Melee,Flail,1d6,6,N,N,N,N,N,Y,Y
+Glaive,Martial,Melee,Blade,1d10,10,N,N,Y,N,N,N,Y
+Greataxe,Martial,Melee,Axe,2d6,12,N,N,Y,N,N,N,N
+Greatspear,Martial,Melee,Spear,1d12,12,N,N,Y,[25/75],Y,N,Y
+Greatstaff,Martial,Melee,Staff,2d6,12,N,N,Y,N,N,N,Y
+Greatsword,Martial,Melee,Blade,1d12,12,N,N,Y,N,N,N,N
+Halberd,Martial,Melee,Axe,1d10,10,N,N,Y,N,N,N,Y
+Maul,Martial,Melee,Hammer,2d6,12,N,N,Y,N,N,N,N
+Pike,Martial,Melee,Spear,1d10,10,N,N,Y,N,N,N,Y
+Trident,Martial,Melee,Spear,3d4,12,N,N,N,N,N,N,N
+War Pick,Martial,Melee,Pick,1d10,10,N,N,N,N,N,N,N
+War Scythe,Martial,Melee,Blade,2d4,8,N,N,Y,N,N,N,N
+Hand Crossbow,Martial,Ranged,Crossbow,1d6,6,N,Y,N,[30/120],N,N,N
+Revolver,Martial,Ranged,Firearm,1d6,6,N,Y,N,[25/100],N,N,N
+Shortbow,Martial,Ranged,Bow,1d4,4,N,N,N,[30/120],N,Y,N
+Greatbow,Martial,Ranged,Bow,1d8,8,N,N,Y,[100/400],N,Y,N
+Longbow,Martial,Ranged,Bow,1d8,8,N,N,N,[80/320],N,Y,N
+Long Rifle,Martial,Ranged,Firearm,1d10,10,N,N,N,[150/600],N,N,N
+Siege Crossbow,Martial,Ranged,Crossbow,1d12,12,N,N,Y,[80/320],N,N,N
+Arrow of Slaying,Martial,Ranged,Bow,6d10,60,N,N,N,[20/60],Y,N,N
+Berserker Axe,Martial,Melee,Axe,1d12+1,13,N,N,Y,N,N,N,N
+Blackrazor,Martial,Melee,Blade,1d12+3,15,N,N,Y,N,N,N,N
+Dagger of Venom,Simple,Melee,Blade,1d4+2d10+1,25,N,Y,N,[20/60],Y,Y,N
+Devotees Censer,Martial,Melee,Flail,1d8+1d8,16,N,N,N,N,N,N,N
+Dragon Slayer,Martial,Melee,Blade,1d12+3d6,30,N,N,Y,N,N,N,N
+Dwarven Thrower,Martial,Melee,Hammer,3d8+3,29,1d10,N,N,[20/60],N,N,N
+Flail of Tiamat,Martial,Melee,Flail,1d8+5d4+3 (14d6 once per day),84,N,N,N,N,N,N,N
+Flame Tongue,Martial,Melee,Blade,1d12+2d6,24,N,N,Y,N,N,N,N
+Frost Brand,Martial,Melee,Blade,1d12+1d6,18,N,N,Y,N,N,N,N
+Giant Slayer,Martial,Melee,Axe,1d10+2d6,24,1d12,N,N,[20/60],Y,N,N
+Holy Avenger,Martial,Melee,Blade,1d12+2d10+3,35,N,N,Y,N,N,N,N
+Javelin of Lightning,Simple,Melee,Spear,1d6+4d6,30,N,N,N,[30/120],Y,N,N
+Mace of Disruption,Simple,Melee,Mace,1d8+2d6,20,N,N,N,N,N,N,N
+Oathbow,Martial,Ranged,Bow,1d8+3d6,26,N,N,N,[80/320],N,Y,N
+Sun Blade,Martial,Melee,Blade,1d12+1d8+2,22,N,N,Y,N,N,N,N
+Sword of Zariel,Martial,Melee,Blade,1d12+3d10,42,N,N,Y,N,N,N,N
+Topaz Annihilator,Simple,Ranged,Firearm,2d6,12,N,N,N,[100/300],N,N,N
+Whelm,Martial,Melee,Hammer,1d8+2d8,26,1d10,N,N,[20/60],N,N,N

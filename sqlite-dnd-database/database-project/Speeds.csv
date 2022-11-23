@@ -1,0 +1,1159 @@
+CreatureName,Speed
+Aarakocra,20
+Aarakocra,fly 50
+Aboleth,10
+Aboleth,swim 40
+Albino Dwarf Warrior,25
+Aldani (Lobsterfolk),20
+Aldani (Lobsterfolk),swim 30
+Allip,fly 40
+Almiraj,50
+Ambush Drake,30
+Deva,30
+Deva,fly 90
+Planetar,40
+Planetar,fly 120
+Solar,50
+Solar,fly 150
+Animated Object - Armor,25
+Animated Object - Broom of Attack,fly 50
+Animated Object - Flying Sword,fly 50
+Animated Object - Rug of Smothering,10
+Animated Object - Table,40
+Ankheg,30
+Ankheg,burrow 10
+Assassin Vine,5
+Assassin Vine,climb 5
+Aurochs,50
+Cattle,30
+Dolphin,swim 60
+Swarm of Rot Grubs,5
+Swarm of Rot Grubs,climb 5
+Astral Dreadnought,15
+Astral Dreadnought,fly 80
+Atropal,fly 50
+Avatar of Death,60
+Avatar of Death,fly 60
+Awakened Zurkhwood,20
+Azer,30
+Baba Lysagas Creeping Hut,30
+Balhannoth,25
+Balhannoth,climb 25
+Banderhobb,30
+Banshee,fly 40
+Barghest,60
+Basilisk,30
+Behir,50
+Behir,climb 40
+Beholder,30
+Death Kiss,fly 30
+Death Tyrant,50
+Death Tyrant,climb 40
+Gauth,fly 20
+Gazer,fly 30
+Spectator,fly 20
+Berbalang,30
+Berbalang,fly 40
+Black Earth Guard,30
+Black Earth Priest,30
+Burrowshark,30
+Sacred Stone Monk,40
+Stonemelder,30
+Needle Blight,30
+Tree Blight,30
+Twig Blight,20
+Vine Blight,30
+Bodak,30
+Boggle,30
+Boggle,climb 30
+Boneclaw,40
+Bugbear,30
+Bugbear Chief,30
+Bulette,40
+Bulette,burrow 40
+Bullywug,20
+Bullywug,swim 40
+Cadaver Collector,30
+Cambion,30
+Cambion,fly 60
+Carrion Crawler,30
+Carrion Crawler,climb 30
+Catoblepas,30
+Cave Fisher,20
+Cave Fisher,climb 20
+Centaur,50
+Centaur Mummy,30
+Chimera,30
+Chimera,fly 60
+Chitine,30
+Chitine,climb 30
+Choldrith,30
+Choldrith,climb 30
+Choker,30
+Chuul,30
+Chuul,swim 30
+Chwinga,20
+Chwinga,climb 20
+Chwinga,swim 20
+Cloaker,10
+Cloaker,fly 40
+Bronze Scout,30
+Bronze Scout,burrow 30
+Iron Cobra,30
+Oaken Bolter,30
+Stone Defender,30
+Cockatrice,20
+Cockatrice,fly 40
+Corpse Flower,20
+Corpse Flower,climb 20
+Couatl,30
+Couatl,fly 90
+Crag Cat,40
+Cranium Rat,30
+Cranium Rat Swarm,30
+Crawling Claw,20
+Crawling Claw,climb 20
+Crushing Wave Priest,30
+Crushing Wave Reaver,30
+Dark Tide Knight,30
+Fathomer,30
+One-Eyed Shiver,30
+Cyclops,30
+Darkling,30
+Darkling Elder,30
+Darkmantle,10
+Darkmantle,fly 30
+Death Knight,30
+Deathlock,30
+Deathlock Mastermind,30
+Deathlock Wight,30
+Decapus,15
+Decapus,climb 30
+Deep Scion,30
+Deep Scion,swim 40
+Demilich,fly 30
+Baphomet,40
+Demogorgon,50
+Demogorgon,swim 50
+Fraz-UrbLuu,40
+Fraz-UrbLuu,fly 40
+GrazZt,40
+Juiblex,30
+Orcus,40
+Orcus,fly 40
+Yeenoghu,50
+Zuggtmoy,30
+Abyssal Wretch,20
+Alkilith,40
+Armanite,60
+Babau,40
+Balor,40
+Balor,fly 80
+Barlgura,30
+Barlgura,climb 30
+Bulezau,40
+Chasme,20
+Chasme,fly 60
+Draegloth,30
+Dretch,20
+Dybbuk,fly 40
+Glabrezu,40
+Goristro,40
+Hezrou,30
+Manes,20
+Marilith,40
+Maurezhi,30
+Maw,30
+Molydeus,40
+Nabassu,40
+Nabassu,fly 60
+Nalfeshnee,20
+Nalfeshnee,fly 30
+Quasit,40
+Rutterkin,20
+Shadow Demon,30
+Shadow Demon,fly 30
+Shoosuva,40
+Sibriex,fly 20
+Vrock,40
+Vrock,fly 60
+Wastrilith,30
+Wastrilith,swim 80
+Yochlol,30
+Yochlol,climb 30
+Derro,30
+Derro Savant,30
+Black Abishai,30
+Black Abishai,fly 40
+Blue Abishai,30
+Blue Abishai,fly 50
+Green Abishai,30
+Green Abishai,fly 40
+Red Abishai,30
+Red Abishai,fly 50
+White Abishai,30
+White Abishai,fly 40
+Amnizu,30
+Amnizu,fly 40
+Bael,30
+Geryon,30
+Geryon,fly 50
+Hutijin,30
+Hutijin,fly 60
+Moloch,30
+Titivilus,40
+Titivilus,fly 60
+Zariel,50
+Zariel,fly 150
+Barbed,30
+Bearded,30
+Bone,40
+Bone,fly 40
+Chain,30
+Erinyes,30
+Erinyes,fly 60
+Hellfire Engine,40
+Horned,20
+Horned,fly 60
+Ice,40
+Imp,20
+Imp,fly 40
+Lemure,15
+Merregon,30
+Narzugon,30
+Nupperibo,20
+Orthon,30
+Orthon,climb 30
+Pit Fiend,30
+Pit Fiend,fly 60
+Spined,20
+Spined,fly 40
+Devourer,30
+Allosaurus,60
+Ankylosaurus,30
+Brontosaurus,30
+Deinonychus,40
+Dimetrodon,30
+Dimetrodon,swim 20
+Hadrosaurus,40
+Plesiosaurus,20
+Plesiosaurus,swim 40
+Pteranodon,10
+Pteranodon,fly 60
+Quetzalcoatlus,10
+Quetzalcoatlus,fly 80
+Stegosaurus,40
+Triceratops,50
+Tyrannosaurus Rex,50
+Velociraptor,30
+Displacer Beast,40
+Doppelganger,30
+Adult Black Chromatic Dragon,40
+Adult Black Chromatic Dragon,fly 80
+Adult Black Chromatic Dragon,swim 40
+Ancient Black Chromatic Dragon,40
+Ancient Black Chromatic Dragon,fly 80
+Ancient Black Chromatic Dragon,swim 40
+Wyrmling Black Chromatic Dragon,30
+Wyrmling Black Chromatic Dragon,fly 60
+Wyrmling Black Chromatic Dragon,swim 30
+Young Black Chromatic Dragon,40
+Young Black Chromatic Dragon,fly 80
+Young Black Chromatic Dragon,swim 40
+Adult Blue Chromatic Dragon,40
+Adult Blue Chromatic Dragon,burrow 40
+Adult Blue Chromatic Dragon,fly 80
+Ancient Blue Chromatic Dragon,40
+Ancient Blue Chromatic Dragon,burrow 30
+Ancient Blue Chromatic Dragon,fly 80
+Wyrmling Blue Chromatic Dragon,30
+Wyrmling Blue Chromatic Dragon,burrow 15
+Wyrmling Blue Chromatic Dragon,fly 60
+Young Blue Chromatic Dragon,40
+Young Blue Chromatic Dragon,burrow 20
+Young Blue Chromatic Dragon,fly 80
+Adult Green Chromatic Dragon,40
+Adult Green Chromatic Dragon,fly 80
+Adult Green Chromatic Dragon,swim 40
+Ancient Green Chromatic Dragon,40
+Ancient Green Chromatic Dragon,fly 80
+Ancient Green Chromatic Dragon,swim 40
+Wyrmling Green Chromatic Dragon,30
+Wyrmling Green Chromatic Dragon,fly 60
+Wyrmling Green Chromatic Dragon,swim 30
+Young Green Chromatic Dragon,40
+Young Green Chromatic Dragon,fly 80
+Young Green Chromatic Dragon,swim 40
+Adult Red Chromatic Dragon,40
+Adult Red Chromatic Dragon,climb 40
+Adult Red Chromatic Dragon,fly 80
+Ancient Red Chromatic Dragon,40
+Ancient Red Chromatic Dragon,climb 40
+Ancient Red Chromatic Dragon,fly 80
+Wyrmling Red Chromatic Dragon,40
+Wyrmling Red Chromatic Dragon,climb 40
+Wyrmling Red Chromatic Dragon,fly 80
+Young Red Chromatic Dragon,30
+Young Red Chromatic Dragon,climb 30
+Young Red Chromatic Dragon,fly 60
+Adult White Chromatic Dragon,40
+Adult White Chromatic Dragon,burrow 30
+Adult White Chromatic Dragon,fly 80
+Adult White Chromatic Dragon,swim 40
+Ancient White Chromatic Dragon,40
+Ancient White Chromatic Dragon,burrow 40
+Ancient White Chromatic Dragon,fly 80
+Ancient White Chromatic Dragon,swim 40
+Wyrmling White Chromatic Dragon,30
+Wyrmling White Chromatic Dragon,burrow 15
+Wyrmling White Chromatic Dragon,fly 60
+Wyrmling White Chromatic Dragon,swim 30
+Young White Chromatic Dragon,40
+Young White Chromatic Dragon,burrow 20
+Young White Chromatic Dragon,fly 80
+Young White Chromatic Dragon,swim 40
+Adult Brass Metallic Dragon,40
+Adult Brass Metallic Dragon,burrow 30
+Adult Brass Metallic Dragon,fly 80
+Ancient Brass Metallic Dragon,40
+Ancient Brass Metallic Dragon,burrow 40
+Ancient Brass Metallic Dragon,fly 80
+Wyrmling Brass Metallic Dragon,30
+Wyrmling Brass Metallic Dragon,burrow 15
+Wyrmling Brass Metallic Dragon,fly 60
+Young Brass Metallic Dragon,40
+Young Brass Metallic Dragon,burrow 20
+Young Brass Metallic Dragon,fly 80
+Adult Bronze Metallic Dragon,40
+Adult Bronze Metallic Dragon,fly 80
+Adult Bronze Metallic Dragon,swim 40
+Ancient Bronze Metallic Dragon,40
+Ancient Bronze Metallic Dragon,fly 80
+Ancient Bronze Metallic Dragon,swim 40
+Wyrmling Bronze Metallic Dragon,30
+Wyrmling Bronze Metallic Dragon,fly 60
+Wyrmling Bronze Metallic Dragon,swim 30
+Young Bronze Metallic Dragon,40
+Young Bronze Metallic Dragon,fly 80
+Young Bronze Metallic Dragon,swim 40
+Adult Copper Metallic Dragon,40
+Adult Copper Metallic Dragon,climb 40
+Adult Copper Metallic Dragon,fly 80
+Ancient Copper Metallic Dragon,40
+Ancient Copper Metallic Dragon,climb 40
+Ancient Copper Metallic Dragon,fly 80
+Wyrmling Copper Metallic Dragon,30
+Wyrmling Copper Metallic Dragon,climb 30
+Wyrmling Copper Metallic Dragon,fly 60
+Young Copper Metallic Dragon,40
+Young Copper Metallic Dragon,climb 40
+Young Copper Metallic Dragon,fly 80
+Adult Gold Metallic Dragon,40
+Adult Gold Metallic Dragon,fly 80
+Adult Gold Metallic Dragon,swim 40
+Ancient Gold Metallic Dragon,40
+Ancient Gold Metallic Dragon,fly 80
+Ancient Gold Metallic Dragon,swim 40
+Wyrmling Gold Metallic Dragon,30
+Wyrmling Gold Metallic Dragon,fly 60
+Wyrmling Gold Metallic Dragon,swim 30
+Young Gold Metallic Dragon,40
+Young Gold Metallic Dragon,fly 80
+Young Gold Metallic Dragon,swim 40
+Adult Silver Metallic Dragon,40
+Adult Silver Metallic Dragon,fly 80
+Ancient Silver Metallic Dragon,40
+Ancient Silver Metallic Dragon,fly 80
+Wyrmling Silver Metallic Dragon,30
+Wyrmling Silver Metallic Dragon,fly 60
+Young Silver Metallic Dragon,40
+Young Silver Metallic Dragon,fly 80
+Dragon Turtle,20
+Dragon Turtle,swim 40
+Dragonclaw,30
+Dragonfang,30
+Dragonsoul,30
+Dragonwing,30
+Dread Warrior,30
+Drider,30
+Drider,climb 30
+Drow,30
+Drow Arachnomancer,30
+Drow Arachnomancer,climb 30
+Drow Elite Warrior,30
+Drow Favored Consort,30
+Drow House Captain,30
+Drow Inquisitor,30
+Drow Mage,30
+Drow Matron Mother,30
+Drow Priestess of Lolth,30
+Drow Shadowblade,30
+Dryad,30
+Duergar,25
+Duergar Darkhaft,25
+Duergar Despot,25
+Duergar Hammerer,20
+Duergar Kavalrachni,25
+Duergar Keeper of the Flame,25
+Duergar Mind Master,25
+Duergar Screamer,20
+Duergar Soulblade,25
+Duergar Spy,25
+Duergar Stone Guard,25
+Duergar Warlord,25
+Duergar Xarrorn,25
+Eblis,30
+Eblis,fly 40
+Eidolon,fly 40
+Sacred Statue,25
+Autumn Eladrin,30
+Spring Eladrin,30
+Summer Eladrin,50
+Winter Eladrin,30
+Elder Elemental Tempest,fly 120
+Elder Elemental Leviathan,40
+Elder Elemental Leviathan,swim 120
+Elder Elemental Phoenix,20
+Elder Elemental Phoenix,fly 120
+Elder Elemental Zaratan,40
+Elder Elemental Zaratan,swim 40
+Air Elemental Myrmidon,30
+Air Elemental Myrmidon,fly 30
+Earth Elemental Myrmidon,30
+Fire Elemental Myrmidon,40
+Water Elemental Myrmidon,40
+Water Elemental Myrmidon,swim 40
+Air Elemental,fly 90
+Earth Elemental,30
+Earth Elemental,burrow 30
+Fire Elemental,50
+Water Elemental,30
+Water Elemental,swim 90
+Empyrean,50
+Empyrean,fly 50
+Empyrean,swim 50
+Eternal Flame Guardian,30
+Eternal Flame Priest,30
+Flamewrath,30
+Razerblast,30
+Ettercap,30
+Ettercap,climb 30
+Ettin,40
+Faerie Dragon,10
+Faerie Dragon,fly 60
+Firenewt Warlock of Imix,30
+Firenewt Warrior,30
+Flail Snail,10
+Flameskull,fly 40
+Flumph,5
+Flumph,fly 30
+Flying Monkey,20
+Flying Monkey,climb 20
+Flying Monkey,fly 30
+Fomorian,30
+Froghemoth,30
+Froghemoth,swim 30
+Gas Spore,fly 10
+Shrieker,None
+Violet Fungus,5
+Gargoyle,30
+Gargoyle,fly 60
+Giant Four-Armed Gargoyle,30
+Giant Four-Armed Gargoyle,fly 60
+Dao,30
+Dao,burrow 30
+Dao,fly 30
+Djinni,30
+Djinni,fly 90
+Efreeti,40
+Efreeti,fly 60
+Marid,30
+Marid,fly 60
+Marid,swim 90
+Geonid,30
+Ghost,fly 40
+Ghoul,30
+Ghast,30
+Giant Crayfish,30
+Giant Crayfish,swim 30
+Giant Fly,30
+Giant Fly,fly 60
+Giant Ice Toad,30
+Giant Lightning Eel,5
+Giant Lightning Eel,swim 30
+Giant Snapping Turtle,30
+Giant Snapping Turtle,swim 40
+Giant Strider,50
+Giant Subterranean Lizard,30
+Giant Subterranean Lizard,swim 50
+Cloud Giant,40
+Cloud Giant Smiling One,40
+Fire Giant,30
+Fire Giant Dreadnought,30
+Frost Giant,40
+Frost Giant Everlasting One,40
+Hill Giant,40
+Hill Giant Mouth of Grolantor,50
+Stone Giant,40
+Stone Giant Dreamwalker,40
+Storm Giant,50
+Storm Giant,swim 50
+Storm Giant Quintessent,50
+Storm Giant Quintessent,fly 50
+Storm Giant Quintessent,swim 50
+Gibbering Mouther,10
+Gibbering Mouther,swim 10
+Giff,30
+Girallon,40
+Girallon,climb 40
+Githyanki Gish,30
+Githyanki KithRak,30
+Githyanki Knight,30
+Githyanki Supreme Commander,30
+Githyanki Warrior,30
+Githzerai Anarch,30
+Githzerai Enlightened,30
+Githzerai Monk,30
+Githzerai Zerth,30
+Gnoll,30
+Gnoll Fang of Yeenoghu,30
+Gnoll Flesh Gnawer,30
+Gnoll Hunter,30
+Gnoll Pack Lord,30
+Gnoll Witherling,30
+Flind,30
+Deep Gnome (Svirfneblin),20
+Goblin,30
+Goblin Boss,30
+Clay Golem,20
+Flesh Golem,30
+Iron Golem,30
+Stone Golem,30
+Gorgon,40
+Gray Render,30
+Grell,10
+Grell,fly 30
+Grick,30
+Grick,climb 30
+Grick Alpha,30
+Grick Alpha,climb 30
+Griffon,30
+Griffon,fly 80
+Grimlock,30
+Grung,25
+Grung,climb 25
+Grung Elite Warrior,25
+Grung Elite Warrior,climb 25
+Grung Wildling,25
+Grung Wildling,climb 25
+Guard Drake,30
+Guardian Portrait,None
+Annis Hag,40
+Bheur Hag,30
+Green Hag,30
+Night Hag,30
+Sea Hag,30
+Sea Hag,swim 40
+Harpy,20
+Harpy,fly 40
+Hell Hound,50
+Helmed Horror,30
+Helmed Horror,fly 30
+Hippogriff,40
+Hippogriff,fly 60
+Hobgoblin,30
+Hobgoblin Captain,30
+Hobgoblin Devastator,30
+Hobgoblin Iron Shadow,40
+Hobgoblin Warlord,30
+Homunculus,20
+Homunculus,fly 40
+Hook Horror,30
+Hook Horror,climb 30
+Howler,40
+Howling Hatred Initiate,30
+Howling Hatred Priest,30
+Feathergale Knight,30
+Hurricane,45
+Skyweaver,30
+Hulking Crab,20
+Hulking Crab,swim 30
+Hydra,30
+Hydra,swim 30
+Ice Toad,30
+Ice Toad,swim 30
+Inevitable Marut,40
+Inevitable Marut,fly 30
+Intellect Devourer,40
+Invisible Stalker,50
+Invisible Stalker,fly 50
+Ixitxachitl,swim 30
+Vampiric Ixitxachitl,swim 30
+Jackalwere,40
+Jaculi,30
+Jaculi,climb 20
+Kalka-Kylla,30
+Kalka-Kylla,swim 30
+Kamadan,30
+Kelpie,10
+Kelpie,swim 30
+Kenku,30
+Ki-Rin,60
+Ki-Rin,fly 120
+Kobold,30
+Kobold Dragonshield,20
+Kobold Inventor,30
+Kobold Scale Sorcerer,30
+Winged Kobold,30
+Winged Kobold,fly 30
+Korred,30
+Korred,burrow 30
+Kraken,20
+Kraken,swim 60
+Malformed Kraken,20
+Malformed Kraken,swim 40
+Kruthik Hive Lord,40
+Kruthik Hive Lord,burrow 20
+Kruthik Hive Lord,climb 40
+Adult Kruthik,40
+Adult Kruthik,burrow 20
+Adult Kruthik,climb 40
+Young Kruthik,30
+Young Kruthik,burrow 10
+Young Kruthik,climb 30
+Kuo-Toa,30
+Kuo-Toa,swim 30
+Kuo-Toa Archpriest,30
+Kuo-Toa Archpriest,swim 30
+Kuo-Toa Whip,30
+Kuo-Toa Whip,swim 30
+Lamia,30
+Leucrotta,50
+Lich,30
+Lizard King/Queen,30
+Lizard King/Queen,swim 30
+Lizardfolk,30
+Lizardfolk,swim 30
+Lizardfolk Shaman,30
+Lizardfolk Shaman,swim 30
+Werebear,40
+Werebear,climb 30
+Wereboar,40
+Wererat,30
+Wereraven,30
+Weretiger,40
+Werewolf,40
+Magmin,30
+Manticore,30
+Manticore,fly 50
+Mantrap,5
+Meazel,30
+Medusa,30
+Meenlock,30
+Dust Mephit,30
+Dust Mephit,fly 30
+Ice Mephit,30
+Ice Mephit,fly 30
+Magma Mephit,30
+Magma Mephit,fly 30
+Mud Mephit,20
+Mud Mephit,fly 20
+Mud Mephit,swim 20
+Smoke Mephit,30
+Smoke Mephit,fly 30
+Steam Mephit,30
+Steam Mephit,fly 30
+Merfolk,10
+Merfolk,swim 40
+Merrow,10
+Merrow,swim 40
+Mimic,15
+Mind Flayer,30
+Illithlich,30
+Alhoon,30
+Elder Brain,5
+Elder Brain,swim 10
+Ulitharid,30
+Mindwitness,fly 20
+Minotaur,40
+Ape,30
+Ape,climb 30
+Awakened Shrub,20
+Awakened Tree,20
+Axe Beak,50
+Baboon,30
+Baboon,climb 30
+Badger,20
+Badger,burrow 5
+Bat,5
+Bat,fly 30
+Black Bear,40
+Black Bear,climb 30
+Blink Dog,40
+Blood Hawk,10
+Blood Hawk,fly 60
+Boar,40
+Brown Bear,40
+Brown Bear,climb 30
+Camel,50
+Cat,40
+Cat,climb 30
+Constrictor Snake,30
+Constrictor Snake,swim 30
+Crab,20
+Crab,swim 20
+Crocodile,20
+Crocodile,swim 30
+Death Dog,40
+Deer,50
+Dire Wolf,50
+Draft Horse,40
+Eagle,10
+Eagle,fly 60
+Elephant,40
+Elk,50
+Flying Snake,30
+Flying Snake,fly 60
+Flying Snake,swim 30
+Frog,20
+Frog,swim 20
+Giant Ape,40
+Giant Ape,climb 40
+Giant Badger,30
+Giant Badger,burrow 10
+Giant Bat,10
+Giant Bat,fly 60
+Giant Boar,40
+Giant Centipede,30
+Giant Constrictor Snake,30
+Giant Constrictor Snake,swim 30
+Giant Crab,30
+Giant Crab,swim 30
+Giant Crocodile,30
+Giant Crocodile,swim 50
+Giant Eagle,10
+Giant Eagle,fly 80
+Giant Elk,60
+Giant Fire Beetle,30
+Giant Frog,30
+Giant Frog,swim 30
+Giant Goat,40
+Giant Hyena,50
+Giant Lizard,30
+Giant Lizard,climb 30
+Giant Octopus,10
+Giant Octopus,swim 60
+Giant Owl,5
+Giant Owl,fly 60
+Giant Poisonous Snake,30
+Giant Poisonous Snake,swim 30
+Giant Rat,30
+Giant Scorpion,40
+Giant Sea Horse,swim 40
+Giant Shark,swim 50
+Giant Spider,30
+Giant Spider,climb 30
+Giant Toad,20
+Giant Toad,swim 40
+Giant Vulture,10
+Giant Vulture,fly 60
+Giant Wasp,10
+Giant Wasp,fly 50
+Giant Weasel,40
+Giant Wolf Spider,40
+Giant Wolf Spider,climb 40
+Goat,40
+Hawk,10
+Hawk,fly 60
+Hunter Shark,swim 40
+Hyena,50
+Jackal,40
+Killer Whale,swim 60
+Lion,50
+Lizard,20
+Lizard,climb 20
+Mammoth,40
+Mastiff,40
+Mule,40
+Octopus,5
+Octopus,swim 30
+Owl,5
+Owl,fly 60
+Panther,50
+Panther,climb 40
+Phase Spider,30
+Phase Spider,climb 30
+Poisonous Snake,30
+Poisonous Snake,swim 30
+Polar Bear,40
+Polar Bear,swim 30
+Pony,40
+Quipper,swim 40
+Rat,20
+Raven,10
+Raven,fly 50
+Reef Shark,swim 40
+Rhinoceros,40
+Riding Horse,60
+Saber-Toothed Tiger,40
+Scorpion,10
+Sea Horse,swim 20
+Spider,20
+Spider,climb 20
+Swarm of Bats,fly 30
+Swarm of Insects,20
+Swarm of Insects,climb 20
+Swarm of Poisonous Snakes,30
+Swarm of Poisonous Snakes,swim 30
+Swarm of Quippers,swim 40
+Swarm of Rats,30
+Swarm of Ravens,10
+Swarm of Ravens,fly 50
+Tiger,40
+Vulture,10
+Vulture,fly 50
+Warhorse,60
+Weasel,30
+Winter Wolf,50
+Wolf,40
+Worg,50
+Duodrone,30
+Monodrone,30
+Monodrone,fly 30
+Pentadrone,40
+Quadrone,30
+Quadrone,fly 30
+Tridrone,30
+Mongrelfolk,20
+Morkoth,25
+Morkoth,swim 50
+Mummy,20
+Mummy Lord,20
+Myconid Adult,20
+Myconid Sovereign,30
+Myconid Sprout,10
+Naergoth Bladelord,30
+Bone Naga,30
+Guardian Naga,40
+Spirit Naga,40
+Nagpa,30
+Neogi,30
+Neogi,climb 30
+Neogi Hatchling,20
+Neogi Hatchling,climb 20
+Neogi Master,30
+Neogi Master,climb 30
+Neothelid,30
+Nereid,30
+Nereid,swim 60
+Nightmare,60
+Nightmare,fly 90
+Nightwalker,40
+Nightwalker,fly 40
+Nilbog,30
+Nothic,30
+Abjurer,30
+Acolyte,30
+Apprentice Wizard,30
+Archdruid,30
+Archer,30
+Archmage,30
+Assassin,30
+Bandit,30
+Bandit Captain,30
+Bard,30
+Berserker,30
+Blackguard,30
+Champion,30
+Commoner,30
+Conjurer,30
+Cult Fanatic,30
+Cultist,30
+Diviner,30
+Druid,30
+Enchanter,30
+Evoker,30
+Gladiator,30
+Guard,30
+Illusionist,30
+Knight,30
+Kraken Priest,30
+Kraken Priest,swim 30
+Mage,30
+Martial Arts Adept,40
+Master Thief,30
+Necromancer,30
+Noble,30
+Priest,25
+Scout,30
+Spy,30
+Swashbuckler,30
+Thug,30
+Transmuter,30
+Tribal Warrior,30
+Veteran,30
+War Priest,30
+Warlock of the Archfey,30
+Warlock of the Fiend,30
+Warlock of the Great Old One,30
+Warlord,30
+Oblex Spawn,20
+Adult Oblex,20
+Elder Oblex,20
+Ogre,40
+Ogre Battering Ram,40
+Ogre Bolt Launcher,40
+Ogre Chain Brute,40
+Ogre Howdah,40
+Half Ogre,30
+Oni,30
+Oni,fly 30
+Ooze Master,30
+Ooze Master,climb 30
+Black Pudding,20
+Black Pudding,climb 20
+Gelatinous Cube,15
+Gray Ooze,10
+Gray Ooze,climb 10
+Ochre Jelly,10
+Ochre Jelly,climb 10
+Orc,30
+Orc Blade of Ilneval,30
+Orc Claw of Luthic,30
+Orc Eye of Gruumsh,30
+Orc Hand of Yurtrus,30
+Orc Nurtured One of Yurtrus,30
+Orc Red Fang of Shargaas,30
+Orc War Chief,30
+Orog,30
+Tanarukk,30
+Otyugh,30
+Owlbear,40
+Pegasus,60
+Pegasus,fly 90
+Peryton,20
+Peryton,fly 60
+Phantom Warrior,30
+Piercer,5
+Piercer,climb 5
+Pixie,10
+Pixie,fly 30
+Prince of Apocalypse Imix,50
+Prince of Apocalypse Imix,fly 50
+Prince of Apocalypse Ogremoch,50
+Prince of Apocalypse Ogremoch,burrow 50
+Prince of Apocalypse Olhydra,50
+Prince of Apocalypse Olhydra,swim 100
+Prince of Apocalypse Yan-C-BIn,50
+Prince of Apocalypse Yan-C-BIn,fly 150
+Pseudodragon,15
+Pseudodragon,fly 60
+Pterafolk,30
+Pterafolk,fly 50
+Purple Worm,50
+Purple Worm,burrow 30
+Purple Worm Wormling,20
+Quaggoth,30
+Quaggoth,climb 30
+Quickling,120
+Rakshasa,40
+Redcap,25
+Remorhaz,30
+Remorhaz,burrow 20
+Young Remorhaz,30
+Young Remorhaz,burrow 20
+Retriever,40
+Retriever,climb 40
+Revenant,30
+Roc,20
+Roc,fly 120
+Roper,10
+Roper,climb 10
+Rust Monster,40
+Sahuagin,30
+Sahuagin,swim 40
+Sahuagin Baron,30
+Sahuagin Baron,swim 50
+Sahuagin Priestess,30
+Sahuagin Priestess,swim 40
+Salamander,30
+Fire Snake,30
+Frost Salamander,60
+Frost Salamander,burrow 40
+Frost Salamander,climb 40
+Satyr,40
+Scarecrow,30
+Sea Lion,10
+Sea Lion,swim 40
+Sea Spawn,20
+Sea Spawn,swim 30
+Shadar-Kai Gloom Weaver,30
+Shadar-Kai Shadow Dancer,30
+Shadar-Kai Soul Monger,30
+Shadow,40
+Shadow Mastiff,40
+Shadow Mastiff Alpha,40
+Shambling Mound,20
+Shambling Mound,swim 20
+Shield Guardian,30
+Siren,30
+Siren,swim 30
+Skeleton,30
+Giant Skeleton,30
+Minotaur Skeleton,40
+Warhorse Skeleton,60
+Skulk,30
+Skull Lord,30
+Slaad Tadpole,30
+Blue Slaad,30
+Death Slaad,30
+Gray Slaad,30
+Green Slaad,30
+Red Slaad,30
+Slithering Tracker,30
+Slithering Tracker,climb 30
+Slithering Tracker,swim 30
+The Angry,30
+The Hungry,30
+The Lonely,30
+The Lost,30
+The Wretched,40
+Spawn of Kyuss,30
+Specter,fly 50
+Androsphinx,40
+Androsphinx,fly 60
+Gynosphinx,40
+Gynosphinx,fly 60
+Sprite,10
+Sprite,fly 40
+Star Spawn Grue,30
+Star Spawn Hulk,30
+Star Spawn Larva Mage,30
+Star Spawn Mangler,40
+Star Spawn Mangler,climb 40
+Star Spawn Seer,30
+Female Steeder,30
+Female Steeder,climb 30
+Male Steeder,30
+Male Steeder,climb 30
+Steel Predator,40
+Stirge,10
+Stirge,fly 40
+Stone Cursed,10
+Stone Juggernaut,50
+Strahds Animated Armor,30
+Su-Monster,30
+Su-Monster,climb 30
+Succubus/Incubus,30
+Succubus/Incubus,fly 60
+Sword Wraith Commander,30
+Sword Wraith Warrior,30
+Tabaxi Hunter,30
+Tabaxi Hunter,climb 20
+Tabaxi Minstrel,30
+Tabaxi Minstrel,climb 20
+Tarrasque,40
+Tecuziztecatl,30
+Tecuziztecatl,climb 30
+Thayan Apprentice,30
+Thayan Warrior,30
+Thorn Slinger,10
+Thorny,30
+Thri-Kreen,40
+Tiamat,60
+Tiamat,fly 120
+Tiny Servant,30
+Tiny Servant,climb 30
+Tlincalli,40
+Topi,30
+Tortle,30
+Tortle Druid,30
+Trapper,10
+Trapper,climb 10
+Treant,30
+Tressym,40
+Tressym,climb 30
+Tressym,fly 40
+Tri-Flower Frond,5
+Troglodyte,30
+Troglodyte Champion of Laogzed,30
+Troll,30
+Dire Troll,40
+Rot Troll,30
+Spirit Troll,30
+Venom Troll,30
+Umber Hulk,30
+Umber Hulk,burrow 20
+Unicorn,50
+Uthgardt Shaman,30
+Vampire,30
+Vampire Spawn,30
+Vampiric Mist,fly 30
+Vargouille,5
+Vargouille,fly 40
+Vegepygmy,30
+Vegepygmy Chief,30
+Water Weird,swim 60
+White Maw,10
+Wight,30
+Will-O-Wisp,fly 50
+Wood Woad,30
+Wood Woad,climb 30
+Wraith,fly 60
+Wyvern,20
+Wyvern,fly 80
+Xorn,20
+Xorn,burrow 20
+Xvart,30
+Xvart Speaker,30
+Xvart Warlock of Raxivort,30
+Yakfolk Priest,30
+Yakfolk Warrior,30
+Yellow Musk Creeper,5
+Yellow Musk Creeper,climb 5
+Yellow Musk Zombie,20
+Yeth Hound,40
+Yeth Hound,fly 40
+Yeti,40
+Yeti,climb 40
+Abominable Yeti,40
+Abominable Yeti,climb 40
+Yuan-Ti Abomination,40
+Yuan-Ti Anathema,40
+Yuan-Ti Anathema,climb 30
+Yuan-Ti Anathema,swim 30
+Yuan-Ti Broodguard,30
+Yuan-Ti Malison,30
+Yuan-Ti Mind Whisperer,30
+Yuan-Ti Nightmare Speaker,30
+Yuan-Ti Pit Master,30
+Yuan-Ti Pureblood,30
+Arcanaloth,30
+Arcanaloth,fly 30
+Canoloth,50
+Dhergoloth,30
+Hydroloth,20
+Hydroloth,swim 40
+Merrenoloth,30
+Merrenoloth,swim 40
+Mezzoloth,40
+Nycaloth,40
+Nycaloth,fly 60
+Oinoloth,40
+Ultroloth,30
+Ultroloth,fly 60
+Yagnoloth,40
+Zombie,20
+Ankylosaurus Zombie,20
+Beholder Zombie,fly 20
+Girallon Zombie,30
+Girallon Zombie,climb 30
+Greater Zombie,30
+Ogre Zombie,30
+Strahd Zombie,20
+Tyrannosaurus Zombie,40
+Zorbo,30
+Zorbo,climb 30
+Bridesmaid of Zuggtmoy,20
+Chamberlain of Zuggtmoy,20
+Galeb Duhr,15

@@ -1,0 +1,1122 @@
+CreatureName,Skill
+Aarakocra,Perception
+Aboleth,History
+Aboleth,Perception
+Albino Dwarf Warrior,Perception
+Albino Dwarf Warrior,Stealth
+Albino Dwarf Warrior,Survival
+Aldani (Lobsterfolk),Perception
+Aldani (Lobsterfolk),Survival
+Allip,Perception
+Allip,Stealth
+Almiraj,Perception
+Almiraj,Stealth
+Ambush Drake,Perception
+Ambush Drake,Stealth
+Deva,Insight
+Deva,Perception
+Planetar,Perception
+Solar,Perception
+Dolphin,Perception
+Astral Dreadnought,Perception
+Balhannoth,Perception
+Banderhobb,Athletics
+Banderhobb,Stealth
+Barghest,Deception
+Barghest,Intimidation
+Barghest,Perception
+Barghest,Stealth
+Basilisk,Deception
+Basilisk,Insight
+Basilisk,Perception
+Behir,Perception
+Behir,Stealth
+Death Kiss,Perception
+Death Tyrant,Perception
+Death Tyrant,Stealth
+Gauth,Perception
+Gazer,Perception
+Gazer,Stealth
+Spectator,Perception
+Berbalang,Arcana
+Berbalang,History
+Berbalang,Insight
+Berbalang,Perception
+Berbalang,Religion
+Black Earth Guard,Intimidation
+Black Earth Guard,Perception
+Black Earth Priest,Intimidation
+Black Earth Priest,Religion
+Black Earth Priest,Persuasion
+Burrowshark,Animal Handling
+Burrowshark,Athletics
+Burrowshark,Intimidation
+Burrowshark,Perception
+Sacred Stone Monk,Acrobatics
+Sacred Stone Monk,Athletics
+Sacred Stone Monk,Perception
+Stonemelder,Intimidation
+Stonemelder,Perception
+Twig Blight,Stealth
+Bodak,Perception
+Bodak,Stealth
+Boggle,Perception
+Boggle,Sleight of Hand
+Boggle,Stealth
+Boneclaw,Perception
+Boneclaw,Stealth
+Bugbear,Stealth
+Bugbear,Survival
+Bugbear Chief,Intimidation
+Bugbear Chief,Stealth
+Bugbear Chief,Survival
+Bulette,Perception
+Bullywug,Stealth
+Cambion,Deception
+Cambion,Intimidation
+Cambion,Perception
+Cambion,Stealth
+Carrion Crawler,Perception
+Cave Fisher,Perception
+Cave Fisher,Stealth
+Centaur,Athletics
+Centaur,Perception
+Centaur,Survival
+Chimera,Perception
+Chitine,Athletics
+Chitine,Stealth
+Choldrith,Athletics
+Choldrith,Religion
+Choldrith,Stealth
+Choker,Stealth
+Chuul,Perception
+Chwinga,Acrobatics
+Chwinga,Perception
+Chwinga,Stealth
+Cloaker,Stealth
+Bronze Scout,Perception
+Bronze Scout,Stealth
+Iron Cobra,Stealth
+Crag Cat,Perception
+Crag Cat,Stealth
+Crushing Wave Priest,Deception
+Crushing Wave Priest,Religion
+Crushing Wave Priest,Stealth
+Crushing Wave Reaver,Athletics
+Crushing Wave Reaver,Stealth
+Dark Tide Knight,Athletics
+Dark Tide Knight,Stealth
+Fathomer,Arcana
+Fathomer,Perception
+Fathomer,Stealth
+One-Eyed Shiver,Arcana
+One-Eyed Shiver,Perception
+One-Eyed Shiver,Intimidation
+Darkling,Acrobatics
+Darkling,Deception
+Darkling,Perception
+Darkling,Stealth
+Darkling Elder,Acrobatics
+Darkling Elder,Deception
+Darkling Elder,Perception
+Darkling Elder,Stealth
+Darkmantle,Stealth
+Deathlock,Arcana
+Deathlock,History
+Deathlock Mastermind,Arcana
+Deathlock Mastermind,History
+Deathlock Mastermind,Perception
+Deathlock Wight,Arcana
+Deathlock Wight,Perception
+Decapus,Athletics
+Decapus,Perception
+Decapus,Stealth
+Deep Scion,Deception
+Deep Scion,Insight
+Deep Scion,Sleight of Hand
+Deep Scion,Stealth
+Baphomet,Intimidation
+Baphomet,Perception
+Demogorgon,Insight
+Demogorgon,Perception
+Fraz-UrbLuu,Deception
+Fraz-UrbLuu,Perception
+Fraz-UrbLuu,Stealth
+GrazZt,Deception
+GrazZt,Insight
+GrazZt,Perception
+GrazZt,Persuasion
+Juiblex,Perception
+Orcus,Arcana
+Orcus,Perception
+Yeenoghu,Intimidation
+Yeenoghu,Perception
+Zuggtmoy,Perception
+Alkilith,Stealth
+Babau,Perception
+Babau,Stealth
+Barlgura,Perception
+Barlgura,Stealth
+Chasme,Perception
+Draegloth,Perception
+Draegloth,Stealth
+Dybbuk,Deception
+Dybbuk,Intimidation
+Dybbuk,Perception
+Goristro,Perception
+Maurezhi,Deception
+Molydeus,Perception
+Nabassu,Perception
+Quasit,Stealth
+Shadow Demon,Stealth
+Sibriex,Arcana
+Sibriex,History
+Sibriex,Perception
+Yochlol,Deception
+Yochlol,Insight
+Derro,Stealth
+Derro Savant,Stealth
+Black Abishai,Perception
+Black Abishai,Stealth
+Blue Abishai,Arcana
+Green Abishai,Deception
+Green Abishai,Insight
+Green Abishai,Perception
+Green Abishai,Persuasion
+Red Abishai,Intimidation
+Red Abishai,Perception
+Amnizu,Perception
+Bael,Intimidation
+Bael,Perception
+Bael,Persuasion
+Geryon,Deception
+Geryon,Intimidation
+Geryon,Perception
+Hutijin,Intimidation
+Hutijin,Perception
+Moloch,Deception
+Moloch,Intimidation
+Moloch,Perception
+Titivilus,Deception
+Titivilus,Insight
+Titivilus,Intimidation
+Titivilus,Persuasion
+Zariel,Intimidation
+Zariel,Perception
+Barbed,Deception
+Barbed,Insight
+Barbed,Perception
+Bone,Deception
+Bone,Insight
+Imp,Deception
+Imp,Insight
+Imp,Persuasion
+Imp,Stealth
+Narzugon,Perception
+Nupperibo,Perception
+Orthon,Perception
+Orthon,Stealth
+Orthon,Survival
+Allosaurus,Perception
+Deinonychus,Perception
+Dimetrodon,Perception
+Hadrosaurus,Perception
+Plesiosaurus,Perception
+Plesiosaurus,Stealth
+Pteranodon,Perception
+Quetzalcoatlus,Perception
+Tyrannosaurus Rex,Perception
+Velociraptor,Perception
+Doppelganger,Deception
+Doppelganger,Insight
+Adult Black Chromatic Dragon,Perception
+Adult Black Chromatic Dragon,Stealth
+Ancient Black Chromatic Dragon,Perception
+Ancient Black Chromatic Dragon,Stealth
+Wyrmling Black Chromatic Dragon,Perception
+Wyrmling Black Chromatic Dragon,Stealth
+Young Black Chromatic Dragon,Perception
+Young Black Chromatic Dragon,Stealth
+Adult Blue Chromatic Dragon,Perception
+Adult Blue Chromatic Dragon,Stealth
+Ancient Blue Chromatic Dragon,Perception
+Ancient Blue Chromatic Dragon,Stealth
+Wyrmling Blue Chromatic Dragon,Perception
+Wyrmling Blue Chromatic Dragon,Stealth
+Young Blue Chromatic Dragon,Perception
+Young Blue Chromatic Dragon,Stealth
+Adult Green Chromatic Dragon,Deception
+Adult Green Chromatic Dragon,Insight
+Adult Green Chromatic Dragon,Perception
+Adult Green Chromatic Dragon,Persuasion
+Adult Green Chromatic Dragon,Stealth
+Ancient Green Chromatic Dragon,Deception
+Ancient Green Chromatic Dragon,Insight
+Ancient Green Chromatic Dragon,Perception
+Ancient Green Chromatic Dragon,Persuasion
+Ancient Green Chromatic Dragon,Stealth
+Wyrmling Green Chromatic Dragon,Perception
+Wyrmling Green Chromatic Dragon,Stealth
+Young Green Chromatic Dragon,Deception
+Young Green Chromatic Dragon,Perception
+Young Green Chromatic Dragon,Stealth
+Adult Red Chromatic Dragon,Perception
+Adult Red Chromatic Dragon,Stealth
+Ancient Red Chromatic Dragon,Perception
+Ancient Red Chromatic Dragon,Stealth
+Wyrmling Red Chromatic Dragon,Perception
+Wyrmling Red Chromatic Dragon,Stealth
+Young Red Chromatic Dragon,Perception
+Young Red Chromatic Dragon,Stealth
+Adult White Chromatic Dragon,Perception
+Adult White Chromatic Dragon,Stealth
+Ancient White Chromatic Dragon,Perception
+Ancient White Chromatic Dragon,Stealth
+Wyrmling White Chromatic Dragon,Perception
+Wyrmling White Chromatic Dragon,Stealth
+Young White Chromatic Dragon,Perception
+Young White Chromatic Dragon,Stealth
+Adult Brass Metallic Dragon,History
+Adult Brass Metallic Dragon,Perception
+Adult Brass Metallic Dragon,Persuasion
+Adult Brass Metallic Dragon,Stealth
+Ancient Brass Metallic Dragon,History
+Ancient Brass Metallic Dragon,Perception
+Ancient Brass Metallic Dragon,Persuasion
+Ancient Brass Metallic Dragon,Stealth
+Wyrmling Brass Metallic Dragon,Perception
+Wyrmling Brass Metallic Dragon,Stealth
+Young Brass Metallic Dragon,Perception
+Young Brass Metallic Dragon,Persuasion
+Young Brass Metallic Dragon,Stealth
+Adult Bronze Metallic Dragon,Insight
+Adult Bronze Metallic Dragon,Perception
+Adult Bronze Metallic Dragon,Stealth
+Ancient Bronze Metallic Dragon,Insight
+Ancient Bronze Metallic Dragon,Perception
+Ancient Bronze Metallic Dragon,Stealth
+Wyrmling Bronze Metallic Dragon,Perception
+Wyrmling Bronze Metallic Dragon,Stealth
+Young Bronze Metallic Dragon,Insight
+Young Bronze Metallic Dragon,Perception
+Young Bronze Metallic Dragon,Stealth
+Adult Copper Metallic Dragon,Deception
+Adult Copper Metallic Dragon,Perception
+Adult Copper Metallic Dragon,Stealth
+Ancient Copper Metallic Dragon,Deception
+Ancient Copper Metallic Dragon,Perception
+Ancient Copper Metallic Dragon,Stealth
+Wyrmling Copper Metallic Dragon,Perception
+Wyrmling Copper Metallic Dragon,Stealth
+Young Copper Metallic Dragon,Deception
+Young Copper Metallic Dragon,Perception
+Young Copper Metallic Dragon,Stealth
+Adult Gold Metallic Dragon,Insight
+Adult Gold Metallic Dragon,Perception
+Adult Gold Metallic Dragon,Persuasion
+Adult Gold Metallic Dragon,Stealth
+Ancient Gold Metallic Dragon,Insight
+Ancient Gold Metallic Dragon,Perception
+Ancient Gold Metallic Dragon,Persuasion
+Ancient Gold Metallic Dragon,Stealth
+Wyrmling Gold Metallic Dragon,Perception
+Wyrmling Gold Metallic Dragon,Stealth
+Young Gold Metallic Dragon,Insight
+Young Gold Metallic Dragon,Perception
+Young Gold Metallic Dragon,Persuasion
+Young Gold Metallic Dragon,Stealth
+Adult Silver Metallic Dragon,Arcana
+Adult Silver Metallic Dragon,History
+Adult Silver Metallic Dragon,Perception
+Adult Silver Metallic Dragon,Stealth
+Ancient Silver Metallic Dragon,Arcana
+Ancient Silver Metallic Dragon,History
+Ancient Silver Metallic Dragon,Perception
+Ancient Silver Metallic Dragon,Stealth
+Wyrmling Silver Metallic Dragon,Perception
+Wyrmling Silver Metallic Dragon,Stealth
+Young Silver Metallic Dragon,Arcana
+Young Silver Metallic Dragon,History
+Young Silver Metallic Dragon,Perception
+Young Silver Metallic Dragon,Stealth
+Dragonclaw,Deception
+Dragonclaw,Stealth
+Dragonfang,Deception
+Dragonfang,Stealth
+Dragonsoul,Deception
+Dragonsoul,Stealth
+Dragonwing,Deception
+Dragonwing,Stealth
+Dread Warrior,Athletics
+Dread Warrior,Perception
+Drider,Perception
+Drider,Stealth
+Drow,Perception
+Drow,Stealth
+Drow Arachnomancer,Arcana
+Drow Arachnomancer,Nature
+Drow Arachnomancer,Perception
+Drow Arachnomancer,Stealth
+Drow Elite Warrior,Perception
+Drow Elite Warrior,Stealth
+Drow Favored Consort,Acrobatics
+Drow Favored Consort,Athletics
+Drow Favored Consort,Perception
+Drow Favored Consort,Stealth
+Drow House Captain,Perception
+Drow House Captain,Stealth
+Drow Inquisitor,Insight
+Drow Inquisitor,Perception
+Drow Inquisitor,Religion
+Drow Inquisitor,Stealth
+Drow Mage,Arcana
+Drow Mage,Deception
+Drow Mage,Perception
+Drow Mage,Stealth
+Drow Matron Mother,Insight
+Drow Matron Mother,Perception
+Drow Matron Mother,Religion
+Drow Matron Mother,Stealth
+Drow Priestess of Lolth,Insight
+Drow Priestess of Lolth,Perception
+Drow Priestess of Lolth,Religion
+Drow Priestess of Lolth,Stealth
+Drow Shadowblade,Perception
+Drow Shadowblade,Stealth
+Dryad,Perception
+Dryad,Stealth
+Duergar Mind Master,Perception
+Duergar Mind Master,Stealth
+Duergar Spy,Deception
+Duergar Spy,Insight
+Duergar Spy,Investigation
+Duergar Spy,Perception
+Duergar Spy,Persuasion
+Duergar Spy,Sleight of Hand
+Duergar Spy,Stealth
+Eidolon,Perception
+Autumn Eladrin,Insight
+Autumn Eladrin,Medicine
+Spring Eladrin,Deception
+Spring Eladrin,Persuasion
+Summer Eladrin,Athletics
+Summer Eladrin,Intimidation
+Empyrean,Insight
+Empyrean,Persuasion
+Eternal Flame Guardian,Intimidation
+Eternal Flame Guardian,Perception
+Eternal Flame Priest,Deception
+Eternal Flame Priest,Intimidation
+Eternal Flame Priest,Religion
+Flamewrath,Arcana
+Flamewrath,Religion
+Razerblast,Intimidation
+Razerblast,Perception
+Ettercap,Perception
+Ettercap,Stealth
+Ettercap,Survival
+Ettin,Perception
+Faerie Dragon,Arcana
+Faerie Dragon,Perception
+Faerie Dragon,Stealth
+Flameskull,Arcana
+Flameskull,Perception
+Flumph,Arcana
+Flumph,History
+Flumph,Religion
+Fomorian,Perception
+Fomorian,Stealth
+Froghemoth,Perception
+Froghemoth,Stealth
+Giant Four-Armed Gargoyle,Perception
+Geonid,Perception
+Geonid,Stealth
+Giant Crayfish,Stealth
+Giant Subterranean Lizard,Stealth
+Cloud Giant,Insight
+Cloud Giant,Perception
+Cloud Giant Smiling One,Deception
+Cloud Giant Smiling One,Insight
+Cloud Giant Smiling One,Perception
+Cloud Giant Smiling One,Sleight of Hand
+Fire Giant,Athletics
+Fire Giant,Perception
+Fire Giant Dreadnought,Athletics
+Fire Giant Dreadnought,Perception
+Frost Giant,Athletics
+Frost Giant,Perception
+Frost Giant Everlasting One,Athletics
+Frost Giant Everlasting One,Perception
+Hill Giant,Perception
+Hill Giant Mouth of Grolantor,Perception
+Stone Giant,Athletics
+Stone Giant,Perception
+Stone Giant Dreamwalker,Athletics
+Stone Giant Dreamwalker,Perception
+Storm Giant,Arcana
+Storm Giant,Athletics
+Storm Giant,History
+Storm Giant,Perception
+Storm Giant Quintessent,Arcana
+Storm Giant Quintessent,History
+Storm Giant Quintessent,Perception
+Girallon,Perception
+Girallon,Stealth
+Githyanki Gish,Insight
+Githyanki Gish,Perception
+Githyanki Gish,Stealth
+Githyanki KithRak,Intimidation
+Githyanki KithRak,Perception
+Githyanki Supreme Commander,Insight
+Githyanki Supreme Commander,Intimidation
+Githyanki Supreme Commander,Perception
+Githzerai Anarch,Arcana
+Githzerai Anarch,Insight
+Githzerai Anarch,Perception
+Githzerai Enlightened,Arcana
+Githzerai Enlightened,Insight
+Githzerai Enlightened,Perception
+Githzerai Monk,Insight
+Githzerai Monk,Perception
+Githzerai Zerth,Arcana
+Githzerai Zerth,Insight
+Githzerai Zerth,Perception
+Gnoll Hunter,Perception
+Gnoll Hunter,Stealth
+Flind,Intimation
+Flind,Perception
+Deep Gnome (Svirfneblin),Investigation
+Deep Gnome (Svirfneblin),Perception
+Deep Gnome (Svirfneblin),Stealth
+Goblin,Stealth
+Goblin Boss,Stealth
+Gorgon,Perception
+Gray Render,Perception
+Grell,Perception
+Grell,Stealth
+Griffon,Perception
+Grimlock,Athletics
+Grimlock,Perception
+Grimlock,Stealth
+Grung,Athletics
+Grung,Perception
+Grung,Stealth
+Grung,Survival
+Grung Elite Warrior,Athletics
+Grung Elite Warrior,Perception
+Grung Elite Warrior,Stealth
+Grung Elite Warrior,Survival
+Grung Wildling,Athletics
+Grung Wildling,Perception
+Grung Wildling,Stealth
+Grung Wildling,Survival
+Guard Drake,Perception
+Annis Hag,Deception
+Annis Hag,Perception
+Bheur Hag,Nature
+Bheur Hag,Perception
+Bheur Hag,Stealth
+Bheur Hag,Survival
+Green Hag,Arcana
+Green Hag,Deception
+Green Hag,Perception
+Green Hag,Stealth
+Night Hag,Deception
+Night Hag,Insight
+Night Hag,Perception
+Night Hag,Stealth
+Hell Hound,Perception
+Helmed Horror,Perception
+Hippogriff,Perception
+Hobgoblin Devastator,Arcana
+Hobgoblin Iron Shadow,Acrobatics
+Hobgoblin Iron Shadow,Athletics
+Hobgoblin Iron Shadow,Stealth
+Hook Horror,Perception
+Howler,Perception
+Howling Hatred Initiate,Deception
+Howling Hatred Initiate,Religion
+Howling Hatred Initiate,Stealth
+Howling Hatred Priest,Acrobatics
+Howling Hatred Priest,Intimidation
+Howling Hatred Priest,Religion
+Feathergale Knight,Animal Handling
+Feathergale Knight,History
+Hurricane,Acrobatics
+Skyweaver,Deception
+Skyweaver,Persuasion
+Hulking Crab,Stealth
+Hydra,Perception
+Ice Toad,Perception
+Inevitable Marut,Insight
+Inevitable Marut,Intimidation
+Inevitable Marut,Perception
+Intellect Devourer,Perception
+Intellect Devourer,Stealth
+Invisible Stalker,Perception
+Invisible Stalker,Stealth
+Jackalwere,Deception
+Jackalwere,Perception
+Jackalwere,Stealth
+Jaculi,Athletics
+Jaculi,Perception
+Jaculi,Stealth
+Kalka-Kylla,Deception
+Kalka-Kylla,Insight
+Kalka-Kylla,Stealth
+Kamadan,Perception
+Kamadan,Stealth
+Kelpie,Perception
+Kelpie,Stealth
+Kenku,Deception
+Kenku,Perception
+Kenku,Stealth
+Ki-Rin,Perception
+Ki-Rin,Insight
+Ki-Rin,Religion
+Kobold Dragonshield,Perception
+Kobold Inventor,Perception
+Kobold Scale Sorcerer,Arcana
+Kobold Scale Sorcerer,Medicine
+Korred,Athletics
+Korred,Perception
+Korred,Stealth
+Kuo-Toa,Perception
+Kuo-Toa Archpriest,Perception
+Kuo-Toa Archpriest,Religion
+Kuo-Toa Whip,Perception
+Kuo-Toa Whip,Religion
+Lamia,Deception
+Lamia,Insight
+Lamia,Stealth
+Leucrotta,Deception
+Leucrotta,Perception
+Lich,Arcana
+Lich,History
+Lich,Insight
+Lich,Perception
+Lizard King/Queen,Perception
+Lizard King/Queen,Stealth
+Lizard King/Queen,Survival
+Lizardfolk,Perception
+Lizardfolk,Stealth
+Lizardfolk,Survival
+Lizardfolk Shaman,Perception
+Lizardfolk Shaman,Stealth
+Lizardfolk Shaman,Survival
+Werebear,Perception
+Wereboar,Perception
+Wererat,Perception
+Wererat,Stealth
+Wereraven,Insight
+Wereraven,Perception
+Weretiger,Perception
+Weretiger,Stealth
+Werewolf,Perception
+Werewolf,Stealth
+Meazel,Perception
+Meazel,Stealth
+Medusa,Deception
+Medusa,Insight
+Medusa,Perception
+Medusa,Stealth
+Meenlock,Perception
+Meenlock,Stealth
+Meenlock,Survival
+Dust Mephit,Perception
+Dust Mephit,Stealth
+Ice Mephit,Perception
+Ice Mephit,Stealth
+Magma Mephit,Stealth
+Mud Mephit,Stealth
+Smoke Mephit,Perception
+Smoke Mephit,Stealth
+Merfolk,Perception
+Merrow,Death Burst
+Merrow,Innate Spellcasting
+Mimic,Stealth
+Mind Flayer,Arcana
+Mind Flayer,Deception
+Mind Flayer,Insight
+Mind Flayer,Perception
+Mind Flayer,Persuasion
+Mind Flayer,Stealth
+Illithlich,Arcana
+Illithlich,History
+Illithlich,Insight
+Illithlich,Perception
+Alhoon,Arcana
+Alhoon,Deception
+Alhoon,History
+Alhoon,Insight
+Alhoon,Perception
+Alhoon,Stealth
+Elder Brain,Arcana
+Elder Brain,Deception
+Elder Brain,Insight
+Elder Brain,Intimidation
+Elder Brain,Persuasion
+Ulitharid,Arcana
+Ulitharid,Insight
+Ulitharid,Perception
+Ulitharid,Stealth
+Mindwitness,Perception
+Minotaur,Perception
+Ape,Athletics
+Ape,Perception
+Black Bear,Perception
+Blink Dog,Perception
+Blink Dog,Stealth
+Blood Hawk,Perception
+Brown Bear,Perception
+Cat,Perception
+Cat,Stealth
+Crab,Stealth
+Crocodile,Stealth
+Death Dog,Perception
+Death Dog,Stealth
+Dire Wolf,Perception
+Dire Wolf,Stealth
+Eagle,Perception
+Frog,Perception
+Frog,Stealth
+Giant Ape,Athletics
+Giant Ape,Perception
+Giant Constrictor Snake,Perception
+Giant Crab,Stealth
+Giant Crocodile,Stealth
+Giant Eagle,Perception
+Giant Elk,Perception
+Giant Frog,Perception
+Giant Frog,Stealth
+Giant Hyena,Perception
+Giant Octopus,Perception
+Giant Octopus,Stealth
+Giant Owl,Perception
+Giant Owl,Stealth
+Giant Poisonous Snake,Perception
+Giant Shark,Perception
+Giant Spider,Stealth
+Giant Vulture,Perception
+Giant Weasel,Perception
+Giant Weasel,Stealth
+Giant Wolf Spider,Perception
+Giant Wolf Spider,Stealth
+Hawk,Perception
+Hunter Shark,Perception
+Hyena,Perception
+Jackal,Perception
+Killer Whale,Perception
+Lion,Perception
+Lion,Stealth
+Mastiff,Perception
+Octopus,Perception
+Octopus,Stealth
+Owl,Perception
+Owl,Stealth
+Panther,Perception
+Panther,Stealth
+Phase Spider,Stealth
+Polar Bear,Perception
+Raven,Perception
+Reef Shark,Perception
+Saber-Toothed Tiger,Perception
+Saber-Toothed Tiger,Stealth
+Spider,Stealth
+Swarm of Ravens,Perception
+Tiger,Perception
+Tiger,Stealth
+Vulture,Perception
+Weasel,Perception
+Weasel,Stealth
+Winter Wolf,Perception
+Winter Wolf,Stealth
+Wolf,Perception
+Wolf,Stealth
+Worg,Perception
+Pentadrone,Perception
+Quadrone,Perception
+Mongrelfolk,Deception
+Mongrelfolk,Perception
+Mongrelfolk,Stealth
+Morkoth,Arcana
+Morkoth,History
+Morkoth,Perception
+Morkoth,Stealth
+Mummy Lord,History
+Mummy Lord,Religion
+Naergoth Bladelord,Perception
+Naergoth Bladelord,Stealth
+Nagpa,Arcana
+Nagpa,Deception
+Nagpa,History
+Nagpa,Insight
+Nagpa,Perception
+Neogi,Intimidation
+Neogi,Perception
+Neogi Master,Arcana
+Neogi Master,Deception
+Neogi Master,Intimidation
+Neogi Master,Perception
+Neogi Master,Persuasion
+Nereid,Acrobatics
+Nereid,Nature
+Nereid,Stealth
+Nereid,Survival
+Nilbog,Stealth
+Nothic,Arcana
+Nothic,Insight
+Nothic,Perception
+Nothic,Stealth
+Abjurer,Arcana
+Abjurer,History
+Acolyte,Medicine
+Acolyte,Religion
+Apprentice Wizard,Arcana
+Apprentice Wizard,History
+Archdruid,Medicine
+Archdruid,Nature
+Archdruid,Perception
+Archer,Acrobatics
+Archer,Perception
+Archer,Stealth
+Archmage,Arcana
+Archmage,History
+Assassin,Acrobatics
+Assassin,Deception
+Assassin,Perception
+Assassin,Stealth
+Bandit Captain,Athletics
+Bandit Captain,Deception
+Bard,Acrobatics
+Bard,Perception
+Bard,Performance
+Blackguard,Athletics
+Blackguard,Deception
+Blackguard,Intimidation
+Champion,Athletics
+Champion,Intimidation
+Champion,Perception
+Conjurer,Arcana
+Conjurer,History
+Cult Fanatic,Deception
+Cult Fanatic,Persuasion
+Cult Fanatic,Religion
+Cultist,Deception
+Cultist,Religion
+Diviner,Arcana
+Diviner,History
+Druid,Medicine
+Druid,Nature
+Druid,Perception
+Enchanter,Arcana
+Enchanter,History
+Evoker,Arcana
+Evoker,History
+Gladiator,Athletics
+Gladiator,Intimidation
+Guard,Perception
+Illusionist,Arcana
+Illusionist,History
+Kraken Priest,Perception
+Mage,Arcana
+Mage,History
+Martial Arts Adept,Acrobatics
+Martial Arts Adept,Insight
+Martial Arts Adept,Stealth
+Master Thief,Acrobatics
+Master Thief,Athletics
+Master Thief,Perception
+Master Thief,Sleight of Hand
+Master Thief,Stealth
+Necromancer,Arcana
+Necromancer,History
+Noble,Deception
+Noble,Insight
+Noble,Persuasion
+Priest,Medicine
+Priest,Persuasion
+Priest,Religion
+Scout,Nature
+Scout,Perception
+Scout,Stealth
+Scout,Survival
+Spy,Deception
+Spy,Insight
+Spy,Investigation
+Spy,Perception
+Spy,Persuasion
+Spy,Sleight of Hand
+Spy,Stealth
+Swashbuckler,Acrobatics
+Swashbuckler,Athletics
+Swashbuckler,Persuasion
+Thug,Intimidation
+Transmuter,Arcana
+Transmuter,History
+Veteran,Athletics
+Veteran,Perception
+War Priest,Intimidation
+War Priest,Religion
+Warlock of the Archfey,Arcana
+Warlock of the Archfey,Deception
+Warlock of the Archfey,Nature
+Warlock of the Archfey,Persuasion
+Warlock of the Fiend,Arcana
+Warlock of the Fiend,Deception
+Warlock of the Fiend,Persuasion
+Warlock of the Fiend,Religion
+Warlock of the Great Old One,Arcana
+Warlock of the Great Old One,History
+Warlord,Athletics
+Warlord,Intimidation
+Warlord,Perception
+Warlord,Persuasion
+Adult Oblex,Deception
+Adult Oblex,Perception
+Adult Oblex,Arcana
+Adult Oblex,History
+Adult Oblex,Nature
+Adult Oblex,Religion
+Elder Oblex,Arcana
+Elder Oblex,Deception
+Elder Oblex,History
+Elder Oblex,Nature
+Elder Oblex,Perception
+Elder Oblex,Religion
+Oni,Arcana
+Oni,Deception
+Oni,Perception
+Ooze Master,Arcana
+Ooze Master,Insight
+Gray Ooze,Stealth
+Orc,Intimidation
+Orc Blade of Ilneval,Perception
+Orc Blade of Ilneval,Insight
+Orc Blade of Ilneval,Intimidation
+Orc Claw of Luthic,Intimidation
+Orc Claw of Luthic,Medicine
+Orc Claw of Luthic,Survival
+Orc Eye of Gruumsh,Intimidation
+Orc Eye of Gruumsh,Religion
+Orc Hand of Yurtrus,Arcana
+Orc Hand of Yurtrus,Intimidation
+Orc Hand of Yurtrus,Medicine
+Orc Hand of Yurtrus,Religion
+Orc Red Fang of Shargaas,Intimidation
+Orc Red Fang of Shargaas,Perception
+Orc Red Fang of Shargaas,Stealth
+Orc War Chief,Intimidation
+Orog,Intimidation
+Orog,Survival
+Tanarukk,Intimidation
+Tanarukk,Perception
+Owlbear,Perception
+Pegasus,Perception
+Peryton,Perception
+Phantom Warrior,Perception
+Phantom Warrior,Stealth
+Piercer,Stealth
+Pixie,Perception
+Pixie,Stealth
+Pseudodragon,Perception
+Pseudodragon,Stealth
+Pterafolk,Perception
+Pterafolk,Survival
+Quaggoth,Athletics
+Quickling,Acrobatics
+Quickling,Sleight of Hand
+Quickling,Stealth
+Quickling,Perception
+Rakshasa,Deception
+Rakshasa,Insight
+Redcap,Athletics
+Redcap,Perception
+Retriever,Perception
+Retriever,Stealth
+Roc,Perception
+Roper,Perception
+Roper,Stealth
+Sahuagin,Perception
+Sahuagin Baron,Perception
+Sahuagin Priestess,Perception
+Sahuagin Priestess,Religion
+Frost Salamander,Perception
+Satyr,Perception
+Satyr,Performance
+Satyr,Stealth
+Sea Lion,Perception
+Sea Lion,Stealth
+Shadar-Kai Shadow Dancer,Stealth
+Shadar-Kai Soul Monger,Perception
+Shadow,Stealth
+Shadow Mastiff,Perception
+Shadow Mastiff,Stealth
+Shadow Mastiff Alpha,Perception
+Shadow Mastiff Alpha,Stealth
+Shambling Mound,Stealth
+Siren,Medicine
+Siren,Nature
+Siren,Stealth
+Siren,Survival
+Skulk,Stealth
+Skull Lord,Athletics
+Skull Lord,History
+Skull Lord,Perception
+Skull Lord,Stealth
+Slaad Tadpole,Stealth
+Blue Slaad,Perception
+Death Slaad,Arcana
+Death Slaad,Perception
+Gray Slaad,Arcana
+Gray Slaad,Perception
+Green Slaad,Arcana
+Green Slaad,Perception
+Red Slaad,Perception
+Slithering Tracker,Stealth
+The Angry,Perception
+The Lost,Athletics
+Androsphinx,Arcana
+Androsphinx,Perception
+Androsphinx,Religion
+Gynosphinx,Arcana
+Gynosphinx,History
+Gynosphinx,Perception
+Gynosphinx,Religion
+Sprite,Perception
+Sprite,Stealth
+Star Spawn Hulk,Perception
+Star Spawn Larva Mage,Perception
+Star Spawn Mangler,Stealth
+Star Spawn Seer,Perception
+Female Steeder,Perception
+Female Steeder,Stealth
+Male Steeder,Stealth
+Male Steeder,Perception
+Steel Predator,Perception
+Steel Predator,Stealth
+Steel Predator,Survival
+Strahds Animated Armor,Perception
+Su-Monster,Athletics
+Su-Monster,Perception
+Succubus/Incubus,Deception
+Succubus/Incubus,Insight
+Succubus/Incubus,Perception
+Succubus/Incubus,Persuasion
+Succubus/Incubus,Stealth
+Sword Wraith Commander,Perception
+Tabaxi Hunter,Athletics
+Tabaxi Hunter,Perception
+Tabaxi Hunter,Stealth
+Tabaxi Hunter,Survival
+Tabaxi Minstrel,Perception
+Tabaxi Minstrel,Performance
+Tabaxi Minstrel,Persuasion
+Tabaxi Minstrel,Stealth
+Tecuziztecatl,Deception
+Tecuziztecatl,Stealth
+Thayan Apprentice,Arcana
+Thayan Warrior,Perception
+Thorny,Perception
+Thorny,Stealth
+Thri-Kreen,Perception
+Thri-Kreen,Stealth
+Thri-Kreen,Survival
+Tiamat,Arcana
+Tiamat,Perception
+Tiamat,Religion
+Tlincalli,Perception
+Tlincalli,Stealth
+Tlincalli,Survival
+Tortle,Athletics
+Tortle,Survival
+Tortle Druid,Animal Handling
+Tortle Druid,Nature
+Tortle Druid,Survival
+Trapper,Stealth
+Tressym,Perception
+Tressym,Stealth
+Troglodyte,Stealth
+Troglodyte Champion of Laogzed,Athletics
+Troglodyte Champion of Laogzed,Intimidation
+Troglodyte Champion of Laogzed,Stealth
+Troll,Perception
+Dire Troll,Perception
+Rot Troll,Perception
+Spirit Troll,Perception
+Venom Troll,Perception
+Uthgardt Shaman,Medicine
+Uthgardt Shaman,Nature
+Uthgardt Shaman,Perception
+Uthgardt Shaman,Survival
+Vampire,Perception
+Vampire,Stealth
+Vampire Spawn,Perception
+Vampire Spawn,Stealth
+Vegepygmy,Perception
+Vegepygmy,Stealth
+Vegepygmy Chief,Perception
+Vegepygmy Chief,Stealth
+Wight,Perception
+Wight,Stealth
+Wood Woad,Athletics
+Wood Woad,Perception
+Wood Woad,Stealth
+Wyvern,Perception
+Xorn,Perception
+Xorn,Stealth
+Xvart,Stealth
+Xvart Speaker,Stealth
+Xvart Warlock of Raxivort,Stealth
+Yakfolk Priest,Deception
+Yakfolk Priest,Medicine
+Yakfolk Priest,Survival
+Yakfolk Warrior,Deception
+Yakfolk Warrior,Survival
+Yeti,Perception
+Yeti,Stealth
+Abominable Yeti,Perception
+Abominable Yeti,Stealth
+Yuan-Ti Abomination,Perception
+Yuan-Ti Abomination,Stealth
+Yuan-Ti Anathema,Perception
+Yuan-Ti Anathema,Stealth
+Yuan-Ti Broodguard,Perception
+Yuan-Ti Malison,Deception
+Yuan-Ti Malison,Stealth
+Yuan-Ti Mind Whisperer,Deception
+Yuan-Ti Mind Whisperer,Stealth
+Yuan-Ti Nightmare Speaker,Deception
+Yuan-Ti Nightmare Speaker,Stealth
+Yuan-Ti Pit Master,Deception
+Yuan-Ti Pit Master,Stealth
+Yuan-Ti Pureblood,Deception
+Yuan-Ti Pureblood,Perception
+Yuan-Ti Pureblood,Stealth
+Arcanaloth,Arcana
+Arcanaloth,Deception
+Arcanaloth,Insight
+Arcanaloth,Perception
+Canoloth,Investigation
+Canoloth,Perception
+Hydroloth,Insight
+Hydroloth,Perception
+Merrenoloth,History
+Merrenoloth,Nature
+Merrenoloth,Perception
+Merrenoloth,Survival
+Mezzoloth,Perception
+Nycaloth,Intimidation
+Nycaloth,Perception
+Nycaloth,Stealth
+Oinoloth,Deception
+Oinoloth,Intimidation
+Oinoloth,Perception
+Ultroloth,Intimidation
+Ultroloth,Perception
+Ultroloth,Stealth
+Yagnoloth,Deception
+Yagnoloth,Insight
+Yagnoloth,Perception
+Yagnoloth,Persuasion
+Zorbo,Athletics

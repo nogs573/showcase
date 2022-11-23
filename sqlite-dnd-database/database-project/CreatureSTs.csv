@@ -1,0 +1,755 @@
+CreatureName,SavingThrow
+Aboleth,CON
+Aboleth,INT
+Aboleth,WIS
+Allip,INT
+Allip,WIS
+Deva,WIS
+Deva,CHA
+Planetar,CON
+Planetar,WIS
+Planetar,CHA
+Solar,INT
+Solar,WIS
+Solar,CHA
+Animated Object - Flying Sword,DEX
+Astral Dreadnought,DEX
+Astral Dreadnought,WIS
+Atropal,CON
+Atropal,WIS
+Azer,CON
+Baba Lysagas Creeping Hut,CON
+Baba Lysagas Creeping Hut,WIS
+Baba Lysagas Creeping Hut,CHA
+Balhannoth,CON
+Banshee,WIS
+Banshee,CHA
+Basilisk,STR
+Basilisk,CON
+Basilisk,WIS
+Basilisk,CHA
+Beholder,STR
+Beholder,CON
+Beholder,WIS
+Death Kiss,CON
+Death Kiss,WIS
+Gauth,INT
+Gauth,WIS
+Gauth,CHA
+Gazer,WIS
+Spectator,INT
+Spectator,WIS
+Spectator,CHA
+Boneclaw,DEX
+Boneclaw,CON
+Boneclaw,WIS
+Cambion,STR
+Cambion,CON
+Cambion,INT
+Cambion,CHA
+Centaur Mummy,WIS
+Couatl,CON
+Couatl,WIS
+Couatl,CHA
+Death Knight,DEX
+Death Knight,WIS
+Death Knight,CHA
+Deathlock,INT
+Deathlock,CHA
+Deathlock Mastermind,INT
+Deathlock Mastermind,CHA
+Deathlock Wight,WIS
+Deep Scion,WIS
+Deep Scion,CHA
+Demilich,CON
+Demilich,INT
+Demilich,WIS
+Demilich,CHA
+Baphomet,DEX
+Baphomet,CON
+Baphomet,WIS
+Demogorgon,DEX
+Demogorgon,CON
+Demogorgon,WIS
+Demogorgon,CHA
+Fraz-UrbLuu,DEX
+Fraz-UrbLuu,CON
+Fraz-UrbLuu,INT
+Fraz-UrbLuu,WIS
+GrazZt,DEX
+GrazZt,CON
+GrazZt,WIS
+Juiblex,DEX
+Juiblex,CON
+Juiblex,WIS
+Orcus,DEX
+Orcus,CON
+Orcus,WIS
+Yeenoghu,DEX
+Yeenoghu,CON
+Yeenoghu,WIS
+Zuggtmoy,DEX
+Zuggtmoy,CON
+Zuggtmoy,WIS
+Alkilith,DEX
+Alkilith,CON
+Balor,STR
+Balor,CON
+Balor,WIS
+Balor,CHA
+Barlgura,DEX
+Barlgura,CON
+Chasme,DEX
+Chasme,WIS
+Glabrezu,STR
+Glabrezu,CON
+Glabrezu,WIS
+Glabrezu,CHA
+Goristro,STR
+Goristro,DEX
+Goristro,CON
+Goristro,WIS
+Hezrou,STR
+Hezrou,CON
+Hezrou,WIS
+Marilith,STR
+Marilith,CON
+Marilith,WIS
+Marilith,CHA
+Molydeus,STR
+Molydeus,CON
+Molydeus,WIS
+Molydeus,CHA
+Nabassu,STR
+Nabassu,DEX
+Nalfeshnee,CON
+Nalfeshnee,INT
+Nalfeshnee,WIS
+Nalfeshnee,CHA
+Shadow Demon,DEX
+Shadow Demon,CHA
+Shoosuva,DEX
+Shoosuva,CON
+Shoosuva,WIS
+Sibriex,INT
+Sibriex,CHA
+Vrock,DEX
+Vrock,WIS
+Vrock,CHA
+Wastrilith,STR
+Wastrilith,CON
+Yochlol,DEX
+Yochlol,INT
+Yochlol,WIS
+Yochlol,CHA
+Black Abishai,DEX
+Black Abishai,WIS
+Blue Abishai,INT
+Blue Abishai,WIS
+Green Abishai,INT
+Green Abishai,CHA
+Red Abishai,STR
+Red Abishai,CON
+Red Abishai,WIS
+White Abishai,STR
+White Abishai,CON
+Amnizu,DEX
+Amnizu,CON
+Amnizu,WIS
+Amnizu,CHA
+Bael,DEX
+Bael,CON
+Bael,INT
+Bael,CHA
+Geryon,DEX
+Geryon,CON
+Geryon,WIS
+Geryon,CHA
+Hutijin,DEX
+Hutijin,CON
+Hutijin,WIS
+Moloch,DEX
+Moloch,CON
+Moloch,WIS
+Moloch,CHA
+Titivilus,DEX
+Titivilus,CON
+Titivilus,WIS
+Titivilus,CHA
+Zariel,INT
+Zariel,WIS
+Zariel,CHA
+Barbed,STR
+Barbed,CON
+Barbed,WIS
+Barbed,CHA
+Bearded,STR
+Bearded,CON
+Bearded,WIS
+Bone,INT
+Bone,WIS
+Bone,CHA
+Chain,CON
+Chain,WIS
+Chain,CHA
+Erinyes,DEX
+Erinyes,CON
+Erinyes,WIS
+Erinyes,CHA
+Hellfire Engine,DEX
+Hellfire Engine,WIS
+Hellfire Engine,CHA
+Horned,STR
+Horned,DEX
+Horned,WIS
+Horned,CHA
+Ice,DEX
+Ice,CON
+Ice,WIS
+Ice,CHA
+Narzugon,DEX
+Narzugon,CON
+Narzugon,CHA
+Orthon,DEX
+Orthon,CON
+Orthon,WIS
+Pit Fiend,DEX
+Pit Fiend,CON
+Pit Fiend,WIS
+Brontosaurus,CON
+Adult Black Chromatic Dragon,DEX
+Adult Black Chromatic Dragon,CON
+Adult Black Chromatic Dragon,WIS
+Adult Black Chromatic Dragon,CHA
+Ancient Black Chromatic Dragon,DEX
+Ancient Black Chromatic Dragon,CON
+Ancient Black Chromatic Dragon,WIS
+Ancient Black Chromatic Dragon,CHA
+Wyrmling Black Chromatic Dragon,DEX
+Wyrmling Black Chromatic Dragon,CON
+Wyrmling Black Chromatic Dragon,WIS
+Wyrmling Black Chromatic Dragon,CHA
+Young Black Chromatic Dragon,DEX
+Young Black Chromatic Dragon,CON
+Young Black Chromatic Dragon,WIS
+Young Black Chromatic Dragon,CHA
+Adult Blue Chromatic Dragon,DEX
+Adult Blue Chromatic Dragon,CON
+Adult Blue Chromatic Dragon,WIS
+Adult Blue Chromatic Dragon,CHA
+Ancient Blue Chromatic Dragon,DEX
+Ancient Blue Chromatic Dragon,CON
+Ancient Blue Chromatic Dragon,WIS
+Ancient Blue Chromatic Dragon,CHA
+Wyrmling Blue Chromatic Dragon,DEX
+Wyrmling Blue Chromatic Dragon,CON
+Wyrmling Blue Chromatic Dragon,WIS
+Wyrmling Blue Chromatic Dragon,CHA
+Young Blue Chromatic Dragon,DEX
+Young Blue Chromatic Dragon,CON
+Young Blue Chromatic Dragon,WIS
+Young Blue Chromatic Dragon,CHA
+Adult Green Chromatic Dragon,DEX
+Adult Green Chromatic Dragon,CON
+Adult Green Chromatic Dragon,WIS
+Adult Green Chromatic Dragon,CHA
+Ancient Green Chromatic Dragon,DEX
+Ancient Green Chromatic Dragon,CON
+Ancient Green Chromatic Dragon,WIS
+Ancient Green Chromatic Dragon,CHA
+Wyrmling Green Chromatic Dragon,DEX
+Wyrmling Green Chromatic Dragon,CON
+Wyrmling Green Chromatic Dragon,WIS
+Wyrmling Green Chromatic Dragon,CHA
+Young Green Chromatic Dragon,DEX
+Young Green Chromatic Dragon,CON
+Young Green Chromatic Dragon,WIS
+Young Green Chromatic Dragon,CHA
+Adult Red Chromatic Dragon,DEX
+Adult Red Chromatic Dragon,CON
+Adult Red Chromatic Dragon,WIS
+Adult Red Chromatic Dragon,CHA
+Ancient Red Chromatic Dragon,DEX
+Ancient Red Chromatic Dragon,CON
+Ancient Red Chromatic Dragon,WIS
+Ancient Red Chromatic Dragon,CHA
+Wyrmling Red Chromatic Dragon,DEX
+Wyrmling Red Chromatic Dragon,CON
+Wyrmling Red Chromatic Dragon,WIS
+Wyrmling Red Chromatic Dragon,CHA
+Young Red Chromatic Dragon,DEX
+Young Red Chromatic Dragon,CON
+Young Red Chromatic Dragon,WIS
+Young Red Chromatic Dragon,CHA
+Adult White Chromatic Dragon,DEX
+Adult White Chromatic Dragon,CON
+Adult White Chromatic Dragon,WIS
+Adult White Chromatic Dragon,CHA
+Ancient White Chromatic Dragon,DEX
+Ancient White Chromatic Dragon,CON
+Ancient White Chromatic Dragon,WIS
+Ancient White Chromatic Dragon,CHA
+Wyrmling White Chromatic Dragon,DEX
+Wyrmling White Chromatic Dragon,CON
+Wyrmling White Chromatic Dragon,WIS
+Wyrmling White Chromatic Dragon,CHA
+Young White Chromatic Dragon,DEX
+Young White Chromatic Dragon,CON
+Young White Chromatic Dragon,WIS
+Young White Chromatic Dragon,CHA
+Adult Brass Metallic Dragon,DEX
+Adult Brass Metallic Dragon,CON
+Adult Brass Metallic Dragon,WIS
+Adult Brass Metallic Dragon,CHA
+Ancient Brass Metallic Dragon,DEX
+Ancient Brass Metallic Dragon,CON
+Ancient Brass Metallic Dragon,WIS
+Ancient Brass Metallic Dragon,CHA
+Wyrmling Brass Metallic Dragon,DEX
+Wyrmling Brass Metallic Dragon,CON
+Wyrmling Brass Metallic Dragon,WIS
+Wyrmling Brass Metallic Dragon,CHA
+Young Brass Metallic Dragon,DEX
+Young Brass Metallic Dragon,CON
+Young Brass Metallic Dragon,WIS
+Young Brass Metallic Dragon,CHA
+Adult Bronze Metallic Dragon,DEX
+Adult Bronze Metallic Dragon,CON
+Adult Bronze Metallic Dragon,WIS
+Adult Bronze Metallic Dragon,CHA
+Ancient Bronze Metallic Dragon,DEX
+Ancient Bronze Metallic Dragon,CON
+Ancient Bronze Metallic Dragon,WIS
+Ancient Bronze Metallic Dragon,CHA
+Wyrmling Bronze Metallic Dragon,DEX
+Wyrmling Bronze Metallic Dragon,CON
+Wyrmling Bronze Metallic Dragon,WIS
+Wyrmling Bronze Metallic Dragon,CHA
+Young Bronze Metallic Dragon,DEX
+Young Bronze Metallic Dragon,CON
+Young Bronze Metallic Dragon,WIS
+Young Bronze Metallic Dragon,CHA
+Adult Copper Metallic Dragon,DEX
+Adult Copper Metallic Dragon,CON
+Adult Copper Metallic Dragon,WIS
+Adult Copper Metallic Dragon,CHA
+Ancient Copper Metallic Dragon,DEX
+Ancient Copper Metallic Dragon,CON
+Ancient Copper Metallic Dragon,WIS
+Ancient Copper Metallic Dragon,CHA
+Wyrmling Copper Metallic Dragon,DEX
+Wyrmling Copper Metallic Dragon,CON
+Wyrmling Copper Metallic Dragon,WIS
+Wyrmling Copper Metallic Dragon,CHA
+Young Copper Metallic Dragon,DEX
+Young Copper Metallic Dragon,CON
+Young Copper Metallic Dragon,WIS
+Young Copper Metallic Dragon,CHA
+Adult Gold Metallic Dragon,DEX
+Adult Gold Metallic Dragon,CON
+Adult Gold Metallic Dragon,WIS
+Adult Gold Metallic Dragon,CHA
+Ancient Gold Metallic Dragon,DEX
+Ancient Gold Metallic Dragon,CON
+Ancient Gold Metallic Dragon,WIS
+Ancient Gold Metallic Dragon,CHA
+Wyrmling Gold Metallic Dragon,DEX
+Wyrmling Gold Metallic Dragon,CON
+Wyrmling Gold Metallic Dragon,WIS
+Wyrmling Gold Metallic Dragon,CHA
+Young Gold Metallic Dragon,DEX
+Young Gold Metallic Dragon,CON
+Young Gold Metallic Dragon,WIS
+Young Gold Metallic Dragon,CHA
+Adult Silver Metallic Dragon,DEX
+Adult Silver Metallic Dragon,CON
+Adult Silver Metallic Dragon,WIS
+Adult Silver Metallic Dragon,CHA
+Ancient Silver Metallic Dragon,DEX
+Ancient Silver Metallic Dragon,CON
+Ancient Silver Metallic Dragon,WIS
+Ancient Silver Metallic Dragon,CHA
+Wyrmling Silver Metallic Dragon,DEX
+Wyrmling Silver Metallic Dragon,CON
+Wyrmling Silver Metallic Dragon,WIS
+Wyrmling Silver Metallic Dragon,CHA
+Young Silver Metallic Dragon,DEX
+Young Silver Metallic Dragon,CON
+Young Silver Metallic Dragon,WIS
+Young Silver Metallic Dragon,CHA
+Dragon Turtle,DEX
+Dragon Turtle,CON
+Dragon Turtle,WIS
+Dragonclaw,WIS
+Dragonfang,WIS
+Dragonsoul,WIS
+Dragonwing,WIS
+Dread Warrior,WIS
+Drow Arachnomancer,CON
+Drow Arachnomancer,INT
+Drow Arachnomancer,CHA
+Drow Elite Warrior,DEX
+Drow Elite Warrior,CON
+Drow Elite Warrior,WIS
+Drow Favored Consort,DEX
+Drow Favored Consort,CON
+Drow Favored Consort,CHA
+Drow House Captain,DEX
+Drow House Captain,CON
+Drow House Captain,WIS
+Drow Inquisitor,CON
+Drow Inquisitor,WIS
+Drow Inquisitor,CHA
+Drow Matron Mother,CON
+Drow Matron Mother,WIS
+Drow Matron Mother,CHA
+Drow Priestess of Lolth,CON
+Drow Priestess of Lolth,WIS
+Drow Priestess of Lolth,CHA
+Drow Shadowblade,DEX
+Drow Shadowblade,CON
+Drow Shadowblade,WIS
+Duergar Despot,CON
+Duergar Despot,WIS
+Duergar Mind Master,WIS
+Eidolon,WIS
+Sacred Statue,WIS
+Elder Elemental Tempest,WIS
+Elder Elemental Tempest,CHA
+Elder Elemental Leviathan,WIS
+Elder Elemental Leviathan,CHA
+Elder Elemental Phoenix,WIS
+Elder Elemental Phoenix,CHA
+Elder Elemental Zaratan,WIS
+Elder Elemental Zaratan,CHA
+Empyrean,STR
+Empyrean,INT
+Empyrean,WIS
+Empyrean,CHA
+Froghemoth,CON
+Froghemoth,WIS
+Giant Four-Armed Gargoyle,WIS
+Dao,INT
+Dao,WIS
+Dao,CHA
+Djinni,DEX
+Djinni,WIS
+Djinni,CHA
+Efreeti,INT
+Efreeti,WIS
+Efreeti,CHA
+Marid,DEX
+Marid,WIS
+Marid,CHA
+Cloud Giant,CON
+Cloud Giant,WIS
+Cloud Giant,CHA
+Cloud Giant Smiling One,CON
+Cloud Giant Smiling One,INT
+Cloud Giant Smiling One,CHA
+Fire Giant,DEX
+Fire Giant,CON
+Fire Giant,CHA
+Fire Giant Dreadnought,DEX
+Fire Giant Dreadnought,CON
+Fire Giant Dreadnought,CHA
+Frost Giant,CON
+Frost Giant,WIS
+Frost Giant,CHA
+Frost Giant Everlasting One,STR
+Frost Giant Everlasting One,CON
+Frost Giant Everlasting One,WIS
+Stone Giant,DEX
+Stone Giant,CON
+Stone Giant,WIS
+Stone Giant Dreamwalker,DEX
+Stone Giant Dreamwalker,CON
+Stone Giant Dreamwalker,WIS
+Storm Giant,STR
+Storm Giant,CON
+Storm Giant,WIS
+Storm Giant,CHA
+Storm Giant Quintessent,STR
+Storm Giant Quintessent,CON
+Storm Giant Quintessent,WIS
+Storm Giant Quintessent,CHA
+Githyanki Gish,CON
+Githyanki Gish,INT
+Githyanki Gish,WIS
+Githyanki KithRak,CON
+Githyanki KithRak,INT
+Githyanki KithRak,WIS
+Githyanki Knight,CON
+Githyanki Knight,INT
+Githyanki Knight,WIS
+Githyanki Supreme Commander,CON
+Githyanki Supreme Commander,INT
+Githyanki Supreme Commander,WIS
+Githyanki Warrior,CON
+Githyanki Warrior,INT
+Githyanki Warrior,WIS
+Githzerai Anarch,STR
+Githzerai Anarch,DEX
+Githzerai Anarch,INT
+Githzerai Anarch,WIS
+Githzerai Enlightened,STR
+Githzerai Enlightened,DEX
+Githzerai Enlightened,INT
+Githzerai Enlightened,WIS
+Githzerai Monk,STR
+Githzerai Monk,DEX
+Githzerai Monk,INT
+Githzerai Monk,WIS
+Githzerai Zerth,STR
+Githzerai Zerth,DEX
+Githzerai Zerth,INT
+Githzerai Zerth,WIS
+Gnoll Fang of Yeenoghu,CON
+Gnoll Fang of Yeenoghu,WIS
+Gnoll Fang of Yeenoghu,CHA
+Gnoll Flesh Gnawer,DEX
+Flind,CON
+Flind,WIS
+Gray Render,STR
+Gray Render,CON
+Grung,DEX
+Grung Elite Warrior,DEX
+Grung Wildling,DEX
+Annis Hag,CON
+Bheur Hag,WIS
+Hobgoblin Warlord,INT
+Hobgoblin Warlord,WIS
+Hobgoblin Warlord,CHA
+Inevitable Marut,INT
+Inevitable Marut,WIS
+Inevitable Marut,CHA
+Kraken,STR
+Kraken,DEX
+Kraken,CON
+Kraken,INT
+Kraken,WIS
+Malformed Kraken,STR
+Malformed Kraken,CON
+Malformed Kraken,INT
+Malformed Kraken,WIS
+Malformed Kraken,CHA
+Lich,CON
+Lich,INT
+Lich,WIS
+Lizard King/Queen,CON
+Lizard King/Queen,WIS
+Mind Flayer,INT
+Mind Flayer,WIS
+Mind Flayer,CHA
+Illithlich,CON
+Illithlich,INT
+Illithlich,WIS
+Alhoon,CON
+Alhoon,INT
+Alhoon,WIS
+Alhoon,CHA
+Elder Brain,INT
+Elder Brain,WIS
+Elder Brain,CHA
+Ulitharid,INT
+Ulitharid,WIS
+Ulitharid,CHA
+Mindwitness,INT
+Mindwitness,WIS
+Morkoth,DEX
+Morkoth,INT
+Morkoth,WIS
+Mummy,WIS
+Mummy Lord,CON
+Mummy Lord,INT
+Mummy Lord,WIS
+Mummy Lord,CHA
+Naergoth Bladelord,DEX
+Naergoth Bladelord,WIS
+Guardian Naga,DEX
+Guardian Naga,CON
+Guardian Naga,INT
+Guardian Naga,WIS
+Guardian Naga,CHA
+Spirit Naga,DEX
+Spirit Naga,CON
+Spirit Naga,INT
+Spirit Naga,WIS
+Spirit Naga,CHA
+Nagpa,INT
+Nagpa,WIS
+Nagpa,CHA
+Neogi Master,WIS
+Neothelid,INT
+Neothelid,WIS
+Neothelid,CHA
+Nightwalker,CON
+Abjurer,INT
+Abjurer,WIS
+Archdruid,INT
+Archdruid,WIS
+Archmage,INT
+Archmage,WIS
+Assassin,DEX
+Assassin,INT
+Bandit Captain,STR
+Bandit Captain,DEX
+Bandit Captain,WIS
+Bard,DEX
+Bard,WIS
+Blackguard,WIS
+Blackguard,CHA
+Champion,STR
+Champion,CON
+Conjurer,INT
+Conjurer,WIS
+Diviner,INT
+Diviner,WIS
+Enchanter,INT
+Enchanter,WIS
+Evoker,INT
+Evoker,WIS
+Gladiator,STR
+Gladiator,DEX
+Gladiator,CON
+Gladiator,INT
+Gladiator,WIS
+Illusionist,INT
+Illusionist,WIS
+Knight,CON
+Knight,WIS
+Mage,INT
+Mage,WIS
+Master Thief,DEX
+Master Thief,INT
+Necromancer,INT
+Necromancer,WIS
+Transmuter,INT
+Transmuter,WIS
+War Priest,CON
+War Priest,WIS
+Warlock of the Archfey,WIS
+Warlock of the Archfey,CHA
+Warlock of the Fiend,WIS
+Warlock of the Fiend,CHA
+Warlock of the Great Old One,WIS
+Warlock of the Great Old One,CHA
+Warlord,STR
+Warlord,DEX
+Warlord,CON
+Oblex Spawn,INT
+Oblex Spawn,CHA
+Adult Oblex,INT
+Adult Oblex,CHA
+Elder Oblex,INT
+Elder Oblex,CHA
+Oni,DEX
+Oni,CON
+Oni,WIS
+Oni,CHA
+Ooze Master,INT
+Ooze Master,WIS
+Orc Blade of Ilneval,WIS
+Orc War Chief,STR
+Orc War Chief,CON
+Orc War Chief,WIS
+Otyugh,CON
+Pegasus,DEX
+Pegasus,WIS
+Pegasus,CHA
+Prince of Apocalypse Imix,DEX
+Prince of Apocalypse Imix,CON
+Prince of Apocalypse Imix,CHA
+Prince of Apocalypse Ogremoch,STR
+Prince of Apocalypse Ogremoch,CON
+Prince of Apocalypse Ogremoch,WIS
+Prince of Apocalypse Olhydra,STR
+Prince of Apocalypse Olhydra,CON
+Prince of Apocalypse Olhydra,WIS
+Prince of Apocalypse Yan-C-BIn,DEX
+Prince of Apocalypse Yan-C-BIn,WIS
+Prince of Apocalypse Yan-C-BIn,CHA
+Purple Worm,CON
+Purple Worm,WIS
+Retriever,DEX
+Retriever,CON
+Retriever,WIS
+Revenant,STR
+Revenant,CON
+Revenant,WIS
+Revenant,CHA
+Roc,DEX
+Roc,CON
+Roc,WIS
+Roc,CHA
+Sahuagin Baron,DEX
+Sahuagin Baron,CON
+Sahuagin Baron,INT
+Sahuagin Baron,WIS
+Frost Salamander,CON
+Frost Salamander,WIS
+Shadar-Kai Gloom Weaver,DEX
+Shadar-Kai Gloom Weaver,CON
+Shadar-Kai Shadow Dancer,DEX
+Shadar-Kai Shadow Dancer,CHA
+Shadar-Kai Soul Monger,DEX
+Shadar-Kai Soul Monger,WIS
+Shadar-Kai Soul Monger,CHA
+Skulk,CON
+Spawn of Kyuss,WIS
+Androsphinx,DEX
+Androsphinx,CON
+Androsphinx,INT
+Androsphinx,WIS
+Star Spawn Hulk,DEX
+Star Spawn Hulk,WIS
+Star Spawn Larva Mage,DEX
+Star Spawn Larva Mage,WIS
+Star Spawn Larva Mage,CHA
+Star Spawn Mangler,DEX
+Star Spawn Mangler,CON
+Star Spawn Seer,DEX
+Star Spawn Seer,INT
+Star Spawn Seer,WIS
+Star Spawn Seer,CHA
+Tarrasque,INT
+Tarrasque,WIS
+Tarrasque,CHA
+Tiamat,STR
+Tiamat,DEX
+Tiamat,WIS
+Dire Troll,WIS
+Dire Troll,CHA
+Vampire,DEX
+Vampire,WIS
+Vampire,CHA
+Vampire Spawn,DEX
+Vampire Spawn,WIS
+Vampiric Mist,WIS
+Yuan-Ti Broodguard,STR
+Yuan-Ti Broodguard,DEX
+Yuan-Ti Broodguard,WIS
+Yuan-Ti Mind Whisperer,WIS
+Yuan-Ti Mind Whisperer,CHA
+Yuan-Ti Nightmare Speaker,WIS
+Yuan-Ti Nightmare Speaker,CHA
+Yuan-Ti Pit Master,WIS
+Yuan-Ti Pit Master,CHA
+Arcanaloth,DEX
+Arcanaloth,INT
+Arcanaloth,WIS
+Arcanaloth,CHA
+Dhergoloth,STR
+Merrenoloth,DEX
+Merrenoloth,INT
+Oinoloth,CON
+Oinoloth,WIS
+Yagnoloth,DEX
+Yagnoloth,INT
+Yagnoloth,WIS
+Yagnoloth,CHA
+Zombie,WIS
+Beholder Zombie,WIS
+Greater Zombie,WIS
+Ogre Zombie,WIS
+Strahd Zombie,WIS

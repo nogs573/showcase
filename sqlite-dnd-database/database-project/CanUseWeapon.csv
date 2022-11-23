@@ -1,0 +1,453 @@
+ClassName,WeaponName
+Barbarian,Club
+Barbarian,Dagger
+Barbarian,Dart
+Barbarian,Handaxe
+Barbarian,Javelin
+Barbarian,Light Hammer
+Barbarian,Mace
+Barbarian,Quarterstaff
+Barbarian,Shortspear
+Barbarian,Sickle
+Barbarian,Metal Gauntlet
+Barbarian,Wrist Razors
+Barbarian,Greatclub
+Barbarian,Scythe
+Barbarian,Blowgun
+Barbarian,Light Crossbow
+Barbarian,Pistol
+Barbarian,Sling
+Barbarian,Heavy Crossbow
+Barbarian,Musket
+Barbarian,Battleaxe
+Barbarian,Flail
+Barbarian,Fullstaff
+Barbarian,Katana
+Barbarian,Longsword
+Barbarian,Morningstar
+Barbarian,Nunchuka
+Barbarian,Rapier
+Barbarian,Scimitar
+Barbarian,Shortsword
+Barbarian,Spear
+Barbarian,Warhammer
+Barbarian,Whip
+Barbarian,Glaive
+Barbarian,Greataxe
+Barbarian,Greatspear
+Barbarian,Greatstaff
+Barbarian,Greatsword
+Barbarian,Halberd
+Barbarian,Maul
+Barbarian,Pike
+Barbarian,Trident
+Barbarian,War Pick
+Barbarian,War Scythe
+Barbarian,Hand Crossbow
+Barbarian,Revolver
+Barbarian,Shortbow
+Barbarian,Greatbow
+Barbarian,Longbow
+Barbarian,Long Rifle
+Barbarian,Siege Crossbow
+Barbarian,Arrow of Slaying
+Barbarian,Berserker Axe
+Barbarian,Blackrazor
+Barbarian,Dagger of Venom
+Barbarian,Dragon Slayer
+Barbarian,Dwarven Thrower
+Barbarian,Flail of Tiamat
+Barbarian,Flame Tongue
+Barbarian,Frost Brand
+Barbarian,Giant Slayer
+Barbarian,Javelin of Lightning
+Barbarian,Mace of Disruption
+Barbarian,Oathbow
+Barbarian,Sun Blade
+Barbarian,Sword of Zariel
+Barbarian,Topaz Annihilator
+Barbarian,Whelm
+Bard,Club
+Bard,Dagger
+Bard,Dart
+Bard,Handaxe
+Bard,Javelin
+Bard,Light Hammer
+Bard,Mace
+Bard,Quarterstaff
+Bard,Shortspear
+Bard,Sickle
+Bard,Metal Gauntlet
+Bard,Wrist Razors
+Bard,Greatclub
+Bard,Scythe
+Bard,Blowgun
+Bard,Light Crossbow
+Bard,Pistol
+Bard,Sling
+Bard,Heavy Crossbow
+Bard,Musket
+Bard,Hand Crossbow
+Bard,Longsword
+Bard,Rapier
+Bard,Shortsword
+Bard,Dagger of Venom
+Bard,Dragon Slayer
+Bard,Flame Tongue
+Bard,Frost Brand
+Bard,Giant Slayer
+Bard,Javelin of Lightning
+Bard,Mace of Disruption
+Bard,Sun Blade
+Bard,Sword of Zariel
+Bard,Topaz Annihilator
+Cleric,Club
+Cleric,Dagger
+Cleric,Dart
+Cleric,Handaxe
+Cleric,Javelin
+Cleric,Light Hammer
+Cleric,Mace
+Cleric,Quarterstaff
+Cleric,Shortspear
+Cleric,Sickle
+Cleric,Metal Gauntlet
+Cleric,Wrist Razors
+Cleric,Greatclub
+Cleric,Scythe
+Cleric,Blowgun
+Cleric,Light Crossbow
+Cleric,Pistol
+Cleric,Sling
+Cleric,Heavy Crossbow
+Cleric,Musket
+Cleric,Dagger of Venom
+Cleric,Devotees Censer
+Cleric,Giant Slayer
+Cleric,Javelin of Lightning
+Cleric,Mace of Disruption
+Cleric,Topaz Annihilator
+Druid,Club
+Druid,Dagger
+Druid,Dart
+Druid,Javelin
+Druid,Mace
+Druid,Quarterstaff
+Druid,Scimitar
+Druid,Sickle
+Druid,Sling
+Druid,Spear
+Druid,Dagger of Venom
+Druid,Dragon Slayer
+Druid,Flame Tongue
+Druid,Frost Brand
+Druid,Giant Slayer
+Druid,Javelin of Lightning
+Druid,Mace of Disruption
+Fighter,Club
+Fighter,Dagger
+Fighter,Dart
+Fighter,Handaxe
+Fighter,Javelin
+Fighter,Light Hammer
+Fighter,Mace
+Fighter,Quarterstaff
+Fighter,Shortspear
+Fighter,Sickle
+Fighter,Metal Gauntlet
+Fighter,Wrist Razors
+Fighter,Greatclub
+Fighter,Scythe
+Fighter,Blowgun
+Fighter,Light Crossbow
+Fighter,Pistol
+Fighter,Sling
+Fighter,Heavy Crossbow
+Fighter,Musket
+Fighter,Battleaxe
+Fighter,Flail
+Fighter,Fullstaff
+Fighter,Katana
+Fighter,Longsword
+Fighter,Morningstar
+Fighter,Nunchuka
+Fighter,Rapier
+Fighter,Scimitar
+Fighter,Shortsword
+Fighter,Spear
+Fighter,Warhammer
+Fighter,Whip
+Fighter,Glaive
+Fighter,Greataxe
+Fighter,Greatspear
+Fighter,Greatstaff
+Fighter,Greatsword
+Fighter,Halberd
+Fighter,Maul
+Fighter,Pike
+Fighter,Trident
+Fighter,War Pick
+Fighter,War Scythe
+Fighter,Hand Crossbow
+Fighter,Revolver
+Fighter,Shortbow
+Fighter,Greatbow
+Fighter,Longbow
+Fighter,Long Rifle
+Fighter,Siege Crossbow
+Fighter,Arrow of Slaying
+Fighter,Berserker Axe
+Fighter,Blackrazor
+Fighter,Dagger of Venom
+Fighter,Dragon Slayer
+Fighter,Dwarven Thrower
+Fighter,Flail of Tiamat
+Fighter,Flame Tongue
+Fighter,Frost Brand
+Fighter,Giant Slayer
+Fighter,Javelin of Lightning
+Fighter,Mace of Disruption
+Fighter,Oathbow
+Fighter,Sun Blade
+Fighter,Sword of Zariel
+Fighter,Topaz Annihilator
+Fighter,Whelm
+Monk,Club
+Monk,Dagger
+Monk,Dart
+Monk,Handaxe
+Monk,Javelin
+Monk,Light Hammer
+Monk,Mace
+Monk,Quarterstaff
+Monk,Shortspear
+Monk,Sickle
+Monk,Metal Gauntlet
+Monk,Wrist Razors
+Monk,Greatclub
+Monk,Scythe
+Monk,Blowgun
+Monk,Light Crossbow
+Monk,Pistol
+Monk,Sling
+Monk,Heavy Crossbow
+Monk,Musket
+Monk,Shortsword
+Monk,Dagger of Venom
+Monk,Dragon Slayer
+Monk,Flame Tongue
+Monk,Frost Brand
+Monk,Giant Slayer
+Monk,Javelin of Lightning
+Monk,Mace of Disruption
+Monk,Sun Blade
+Monk,Topaz Annihilator
+Paladin,Club
+Paladin,Dagger
+Paladin,Dart
+Paladin,Handaxe
+Paladin,Javelin
+Paladin,Light Hammer
+Paladin,Mace
+Paladin,Quarterstaff
+Paladin,Shortspear
+Paladin,Sickle
+Paladin,Metal Gauntlet
+Paladin,Wrist Razors
+Paladin,Greatclub
+Paladin,Scythe
+Paladin,Blowgun
+Paladin,Light Crossbow
+Paladin,Pistol
+Paladin,Sling
+Paladin,Heavy Crossbow
+Paladin,Musket
+Paladin,Battleaxe
+Paladin,Flail
+Paladin,Fullstaff
+Paladin,Katana
+Paladin,Longsword
+Paladin,Morningstar
+Paladin,Nunchuka
+Paladin,Rapier
+Paladin,Scimitar
+Paladin,Shortsword
+Paladin,Spear
+Paladin,Warhammer
+Paladin,Whip
+Paladin,Glaive
+Paladin,Greataxe
+Paladin,Greatspear
+Paladin,Greatstaff
+Paladin,Greatsword
+Paladin,Halberd
+Paladin,Maul
+Paladin,Pike
+Paladin,Trident
+Paladin,War Pick
+Paladin,War Scythe
+Paladin,Hand Crossbow
+Paladin,Revolver
+Paladin,Shortbow
+Paladin,Greatbow
+Paladin,Longbow
+Paladin,Long Rifle
+Paladin,Siege Crossbow
+Paladin,Arrow of Slaying
+Paladin,Berserker Axe
+Paladin,Blackrazor
+Paladin,Dagger of Venom
+Paladin,Devotees Censer
+Paladin,Dragon Slayer
+Paladin,Dwarven Thrower
+Paladin,Flail of Tiamat
+Paladin,Flame Tongue
+Paladin,Frost Brand
+Paladin,Giant Slayer
+Paladin,Holy Avenger
+Paladin,Javelin of Lightning
+Paladin,Mace of Disruption
+Paladin,Oathbow
+Paladin,Sun Blade
+Paladin,Sword of Zariel
+Paladin,Topaz Annihilator
+Paladin,Whelm
+Ranger,Club
+Ranger,Dagger
+Ranger,Dart
+Ranger,Handaxe
+Ranger,Javelin
+Ranger,Light Hammer
+Ranger,Mace
+Ranger,Quarterstaff
+Ranger,Shortspear
+Ranger,Sickle
+Ranger,Metal Gauntlet
+Ranger,Wrist Razors
+Ranger,Greatclub
+Ranger,Scythe
+Ranger,Blowgun
+Ranger,Light Crossbow
+Ranger,Pistol
+Ranger,Sling
+Ranger,Heavy Crossbow
+Ranger,Musket
+Ranger,Battleaxe
+Ranger,Flail
+Ranger,Fullstaff
+Ranger,Katana
+Ranger,Longsword
+Ranger,Morningstar
+Ranger,Nunchuka
+Ranger,Rapier
+Ranger,Scimitar
+Ranger,Shortsword
+Ranger,Spear
+Ranger,Warhammer
+Ranger,Whip
+Ranger,Glaive
+Ranger,Greataxe
+Ranger,Greatspear
+Ranger,Greatstaff
+Ranger,Greatsword
+Ranger,Halberd
+Ranger,Maul
+Ranger,Pike
+Ranger,Trident
+Ranger,War Pick
+Ranger,War Scythe
+Ranger,Hand Crossbow
+Ranger,Revolver
+Ranger,Shortbow
+Ranger,Greatbow
+Ranger,Longbow
+Ranger,Long Rifle
+Ranger,Siege Crossbow
+Ranger,Arrow of Slaying
+Ranger,Berserker Axe
+Ranger,Blackrazor
+Ranger,Dagger of Venom
+Ranger,Dragon Slayer
+Ranger,Dwarven Thrower
+Ranger,Flail of Tiamat
+Ranger,Flame Tongue
+Ranger,Frost Brand
+Ranger,Giant Slayer
+Ranger,Javelin of Lightning
+Ranger,Mace of Disruption
+Ranger,Oathbow
+Ranger,Sun Blade
+Ranger,Sword of Zariel
+Ranger,Topaz Annihilator
+Ranger,Whelm
+Rogue,Club
+Rogue,Dagger
+Rogue,Dart
+Rogue,Handaxe
+Rogue,Javelin
+Rogue,Light Hammer
+Rogue,Mace
+Rogue,Quarterstaff
+Rogue,Shortspear
+Rogue,Sickle
+Rogue,Metal Gauntlet
+Rogue,Wrist Razors
+Rogue,Greatclub
+Rogue,Scythe
+Rogue,Blowgun
+Rogue,Light Crossbow
+Rogue,Pistol
+Rogue,Sling
+Rogue,Heavy Crossbow
+Rogue,Musket
+Rogue,Hand Crossbow
+Rogue,Longsword
+Rogue,Rapier
+Rogue,Shortsword
+Rogue,Dagger of Venom
+Rogue,Dragon Slayer
+Rogue,Flame Tongue
+Rogue,Frost Brand
+Rogue,Giant Slayer
+Rogue,Javelin of Lightning
+Rogue,Mace of Disruption
+Rogue,Sun Blade
+Rogue,Sword of Zariel
+Rogue,Topaz Annihilator
+Sorcerer,Dagger
+Sorcerer,Dart
+Sorcerer,Sling
+Sorcerer,Quarterstaff
+Sorcerer,Light Crossbow
+Sorcerer,Dagger of Venom
+Warlock,Club
+Warlock,Dagger
+Warlock,Dart
+Warlock,Handaxe
+Warlock,Javelin
+Warlock,Light Hammer
+Warlock,Mace
+Warlock,Quarterstaff
+Warlock,Shortspear
+Warlock,Sickle
+Warlock,Metal Gauntlet
+Warlock,Wrist Razors
+Warlock,Greatclub
+Warlock,Scythe
+Warlock,Blowgun
+Warlock,Light Crossbow
+Warlock,Pistol
+Warlock,Sling
+Warlock,Heavy Crossbow
+Warlock,Musket
+Warlock,Dagger of Venom
+Warlock,Giant Slayer
+Warlock,Javelin of Lightning
+Warlock,Mace of Disruption
+Warlock,Topaz Annihilator
+Wizard,Dagger
+Wizard,Dart
+Wizard,Sling
+Wizard,Quarterstaff
+Wizard,Light Crossbow
+Wizard,Dagger of Venom

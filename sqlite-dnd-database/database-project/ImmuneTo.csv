@@ -1,0 +1,382 @@
+CreatureName,DamageName
+Allip,Cold
+Allip,Necrotic
+Allip,Poison
+Solar,Necrotic
+Solar,Poison
+Animated Object - Armor,Psychic
+Animated Object - Armor,Poison
+Animated Object - Broom of Attack,Psychic
+Animated Object - Broom of Attack,Poison
+Animated Object - Flying Sword,Poison
+Animated Object - Rug of Smothering,Psychic
+Animated Object - Rug of Smothering,Poison
+Animated Object - Table,Psychic
+Atropal,Cold
+Atropal,Necrotic
+Atropal,Bludgeoning
+Atropal,Piercing
+Atropal,Slashing
+Avatar of Death,Poison
+Azer,Poison
+Baba Lysagas Creeping Hut,Psychic
+Banshee,Cold
+Banshee,Necrotic
+Banshee,Poison
+Barghest,Acid
+Barghest,Poison
+Basilisk,Fire
+Basilisk,Poison
+Beholder,Fire
+Beholder,Poison
+Bodak,Lightning
+Bodak,Poison
+Cadaver Collector,Poison
+Cadaver Collector,Psychic
+Cadaver Collector,Bludgeoning
+Cadaver Collector,Piercing
+Cadaver Collector,Slashing
+Centaur Mummy,Necrotic
+Centaur Mummy,Poison
+Bronze Scout,Bludgeoning
+Bronze Scout,Piercing
+Bronze Scout,Slashing
+Iron Cobra,Bludgeoning
+Iron Cobra,Piercing
+Iron Cobra,Slashing
+Oaken Bolter,Bludgeoning
+Oaken Bolter,Piercing
+Oaken Bolter,Slashing
+Stone Defender,Bludgeoning
+Stone Defender,Piercing
+Stone Defender,Slashing
+Couatl,Psychic
+Couatl,Bludgeoning
+Couatl,Piercing
+Couatl,Slashing
+Death Knight,Poison
+Deathlock,Poison
+Deathlock Mastermind,Poison
+Deathlock Wight,Poison
+Demilich,Necrotic
+Demilich,Poison
+Demilich,Psychic
+Demilich,Bludgeoning
+Demilich,Piercing
+Demilich,Slashing
+Baphomet,Poison
+Baphomet,Bludgeoning
+Baphomet,Piercing
+Baphomet,Slashing
+Demogorgon,Poison
+Demogorgon,Bludgeoning
+Demogorgon,Piercing
+Demogorgon,Slashing
+Fraz-UrbLuu,Poison
+Fraz-UrbLuu,Bludgeoning
+Fraz-UrbLuu,Piercing
+Fraz-UrbLuu,Slashing
+GrazZt,Poison
+GrazZt,Bludgeoning
+GrazZt,Piercing
+GrazZt,Slashing
+Juiblex,Poison
+Juiblex,Bludgeoning
+Juiblex,Piercing
+Juiblex,Slashing
+Orcus,Necrotic
+Orcus,Poison
+Orcus,Bludgeoning
+Orcus,Piercing
+Orcus,Slashing
+Yeenoghu,Poison
+Yeenoghu,Bludgeoning
+Yeenoghu,Piercing
+Yeenoghu,Slashing
+Zuggtmoy,Poison
+Zuggtmoy,Bludgeoning
+Zuggtmoy,Piercing
+Zuggtmoy,Slashing
+Abyssal Wretch,Poison
+Alkilith,Poison
+Armanite,Poison
+Babau,Poison
+Balor,Fire
+Balor,Poison
+Barlgura,Poison
+Bulezau,Poison
+Chasme,Poison
+Draegloth,Poison
+Dretch,Poison
+Dybbuk,Poison
+Glabrezu,Poison
+Goristro,Poison
+Hezrou,Poison
+Manes,Poison
+Marilith,Poison
+Maurezhi,Poison
+Maw,Poison
+Molydeus,Poison
+Nabassu,Poison
+Nalfeshnee,Poison
+Quasit,Poison
+Rutterkin,Poison
+Shadow Demon,Cold
+Shadow Demon,Lightning
+Shadow Demon,Poison
+Shoosuva,Poison
+Sibriex,Poison
+Vrock,Poison
+Yochlol,Poison
+Black Abishai,Acid
+Black Abishai,Fire
+Black Abishai,Poison
+Blue Abishai,Fire
+Blue Abishai,Poison
+Green Abishai,Fire
+Red Abishai,Fire
+Red Abishai,Poison
+White Abishai,Cold
+White Abishai,Fire
+White Abishai,Poison
+Amnizu,Fire
+Amnizu,Poison
+Bael,Fire
+Bael,Poison
+Geryon,Cold
+Geryon,Fire
+Geryon,Poison
+Hutijin,Fire
+Hutijin,Poison
+Moloch,Fire
+Moloch,Poison
+Titivilus,Fire
+Titivilus,Poison
+Zariel,Necrotic
+Zariel,Poison
+Barbed,Fire
+Barbed,Poison
+Bearded,Fire
+Bearded,Poison
+Bone,Fire
+Bone,Poison
+Chain,Fire
+Chain,Poison
+Erinyes,Fire
+Erinyes,Poison
+Hellfire Engine,Fire
+Hellfire Engine,Poison
+Horned,Fire
+Horned,Poison
+Ice,Cold
+Ice,Fire
+Ice,Poison
+Imp,Fire
+Imp,Poison
+Lemure,Fire
+Lemure,Poison
+Merregon,Fire
+Merregon,Poison
+Narzugon,Fire
+Narzugon,Poison
+Nupperibo,Fire
+Nupperibo,Poison
+Orthon,Fire
+Orthon,Poison
+Spined,Fire
+Spined,Poison
+Devourer,Poison
+Eidolon,Cold
+Eidolon,Necrotic
+Eidolon,Poison
+Sacred Statue,Cold
+Sacred Statue,Necrotic
+Sacred Statue,Poison
+Elder Elemental Tempest,Lightning
+Elder Elemental Tempest,Poison
+Elder Elemental Tempest,Thunder
+Elder Elemental Leviathan,Acid
+Elder Elemental Leviathan,Poison
+Elder Elemental Phoenix,Fire
+Elder Elemental Phoenix,Poison
+Elder Elemental Zaratan,Poison
+Air Elemental Myrmidon,Poison
+Earth Elemental Myrmidon,Poison
+Fire Elemental Myrmidon,Fire
+Fire Elemental Myrmidon,Poison
+Water Elemental Myrmidon,Poison
+Air Elemental,Poison
+Earth Elemental,Poison
+Fire Elemental,Fire
+Fire Elemental,Poison
+Water Elemental,Poison
+Flail Snail,Poison
+Flameskull,Cold
+Flameskull,Fire
+Flameskull,Poison
+Galeb Duhr,Poison
+Gargoyle,Poison
+Giant Four-Armed Gargoyle,Poison
+Djinni,Thunder
+Marid,Cold
+Marid,Lightning
+Ghost,Cold
+Ghost,Necrotic
+Ghost,Poison
+Ghast,Poison
+Storm Giant,Lightning
+Storm Giant,Thunder
+Storm Giant Quintessent,Lightning
+Storm Giant Quintessent,Thunder
+Clay Golem,Poison
+Clay Golem,Psychic
+Flesh Golem,Poison
+Iron Golem,Poison
+Iron Golem,Psychic
+Guardian Portrait,Poison
+Helmed Horror,Force
+Helmed Horror,Necrotic
+Helmed Horror,Poison
+Inevitable Marut,Poison
+Invisible Stalker,Poison
+Kraken,Bludgeoning
+Kraken,Piercing
+Kraken,Slashing
+Malformed Kraken,Lightning
+Lich,Poison
+Lich,Bludgeoning
+Lich,Piercing
+Lich,Slashing
+Magmin,Fire
+Dust Mephit,Poison
+Ice Mephit,Cold
+Ice Mephit,Poison
+Magma Mephit,Fire
+Magma Mephit,Poison
+Smoke Mephit,Poison
+Steam Mephit,Poison
+Illithlich,Poison
+Illithlich,Bludgeoning
+Illithlich,Piercing
+Illithlich,Slashing
+Alhoon,Poison
+Alhoon,Bludgeoning
+Alhoon,Piercing
+Alhoon,Slashing
+Mummy,Necrotic
+Mummy,Poison
+Mummy Lord,Necrotic
+Mummy Lord,Poison
+Mummy Lord,Bludgeoning
+Mummy Lord,Piercing
+Mummy Lord,Slashing
+Naergoth Bladelord,Poison
+Nightwalker,Necrotic
+Nightwalker,Poison
+Ooze Master,Acid
+Ooze Master,Cold
+Ooze Master,Poison
+Black Pudding,Cold
+Black Pudding,Lightning
+Black Pudding,Slashing
+Ochre Jelly,Lightning
+Ochre Jelly,Slashing
+Phantom Warrior,Cold
+Phantom Warrior,Necrotic
+Phantom Warrior,Poison
+Prince of Apocalypse Imix,Fire
+Prince of Apocalypse Imix,Poison
+Prince of Apocalypse Ogremoch,Poison
+Prince of Apocalypse Olhydra,Acid
+Prince of Apocalypse Olhydra,Cold
+Prince of Apocalypse Olhydra,Poison
+Prince of Apocalypse Yan-C-BIn,Lightning
+Prince of Apocalypse Yan-C-BIn,Poison
+Prince of Apocalypse Yan-C-BIn,Thunder
+Remorhaz,Fire
+Young Remorhaz,Fire
+Retriever,Poison
+Retriever,Bludgeoning
+Retriever,Piercing
+Retriever,Slashing
+Revenant,Poison
+Salamander,Fire
+Fire Snake,Fire
+Frost Salamander,Cold
+Scarecrow,Poison
+Shadar-Kai Soul Monger,Psychic
+Shadow,Necrotic
+Shadow,Poison
+Shambling Mound,Lightning
+Skeleton,Poison
+Giant Skeleton,Poison
+Minotaur Skeleton,Poison
+Warhorse Skeleton,Poison
+Skull Lord,Poison
+Specter,Necrotic
+Specter,Poison
+Androsphinx,Bludgeoning
+Androsphinx,Piercing
+Androsphinx,Slashing
+Gynosphinx,Psychic
+Star Spawn Larva Mage,Psychic
+Star Spawn Mangler,Psychic
+Star Spawn Seer,Psychic
+Steel Predator,Poison
+Steel Predator,Psychic
+Steel Predator,Bludgeoning
+Steel Predator,Piercing
+Steel Predator,Slashing
+Stone Cursed,Poison
+Stone Juggernaut,Bludgeoning
+Stone Juggernaut,Piercing
+Stone Juggernaut,Slashing
+Strahds Animated Armor,Poison
+Sword Wraith Commander,Poison
+Sword Wraith Warrior,Poison
+Tarrasque,Poison
+Tarrasque,Bludgeoning
+Tarrasque,Piercing
+Tarrasque,Slashing
+Tecuziztecatl,Acid
+Tiamat,Cold
+Tiamat,Fire
+Tiamat,Lightning
+Tiamat,Bludgeoning
+Tiamat,Piercing
+Tiamat,Slashing
+Tiny Servant,Psychic
+Topi,Poison
+Spirit Troll,Bludgeoning
+Spirit Troll,Piercing
+Spirit Troll,Slashing
+Vampiric Mist,Poison
+Vargouille,Poison
+Water Weird,Poison
+White Maw,Poison
+Wight,Poison
+Will-O-Wisp,Poison
+Wraith,Necrotic
+Wraith,Poison
+Yuan-Ti Anathema,Poison
+Arcanaloth,Acid
+Arcanaloth,Poison
+Canoloth,Acid
+Canoloth,Poison
+Dhergoloth,Acid
+Dhergoloth,Poison
+Hydroloth,Acid
+Hydroloth,Poison
+Merrenoloth,Acid
+Merrenoloth,Poison
+Mezzoloth,Acid
+Mezzoloth,Poison
+Nycaloth,Acid
+Nycaloth,Poison
+Oinoloth,Acid
+Oinoloth,Poison
+Ultroloth,Acid
+Ultroloth,Poison
+Yagnoloth,Acid
+Yagnoloth,Poison
+Greater Zombie,Poison

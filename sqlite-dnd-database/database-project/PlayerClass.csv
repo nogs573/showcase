@@ -1,0 +1,13 @@
+ClassName,HitDice,LightArmor,MediumArmor,HeavyArmor,Shield
+Barbarian,d12,Y,Y,N,Y
+Bard,d8,Y,N,N,N
+Cleric,d8,Y,Y,N,Y
+Druid,d8,Y,Y,N,Y
+Fighter,d10,Y,Y,Y,Y
+Monk,d8,N,N,N,N
+Paladin,d10,Y,Y,Y,Y
+Ranger,d10,Y,Y,N,Y
+Rogue,d8,Y,N,N,N
+Sorcerer,d6,N,N,N,N
+Warlock,d8,Y,N,N,N
+Wizard,d6,N,N,N,N

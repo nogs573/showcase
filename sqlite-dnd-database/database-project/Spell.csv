@@ -1,0 +1,362 @@
+SpellName,Level,Ritual,CastingTime,Range,Verbal,Somatic,Material,Concentration,Duration,DamageDice,MaxDamage,Sourcebook,Description
+Acid Splash,0,N,4,60,Y,Y,N,N,0,1d6,6,PHB,DAM: Add extra 1d6 at 5th level 11th level and 17th level. 
+Blade Ward,0,N,4,0,Y,Y,N,N,6,N,0,PHB,Gain resistance to bludgeoning/piercing/slashing DMG from weapons. 
+Chill Touch,0,N,4,120,Y,Y,N,N,6,1d6,6,PHB,Extra 1d6 DAM at 5th level 11th level and 17th level. Cant regain HP. 
+Dancing Lights,0,N,4,120,Y,Y,Y,Y,60,N,0,PHB,Create 4 glowing hovering objects that shed light out 10 ft. Can move 60 ft. 
+Druidcraft,0,N,4,30,Y,Y,N,N,0,N,0,PHB,Create minor druidic effect. See Sourcebook. 
+Eldritch Blast,0,N,4,120,Y,Y,N,N,0,1d10,10,PHB,Beam. 2 beams at 5th level 3 at 11th 4 at 17th. Can choose different targets. 
+Fire Bolt,0,N,4,120,Y,Y,N,N,0,1d10,10,PHB,DAM at 5th level: 2d10 at 11th level: 3d10 at 17th level: 4d10. 
+Friends,0,N,4,0,N,Y,Y,Y,60,N,0,PHB,Advantage on CHA checks to target who knows magic used once spell ends. 
+Guidance,0,N,4,0,Y,Y,N,Y,60,N,0,PHB,Once add 1d4 to an ability check. 
+Light,0,N,4,0,Y,N,Y,N,3600,N,0,PHB,Object sheds light in 20 ft. radious. Hostile targets get DEX save. 
+Mage Hand,0,N,4,30,Y,Y,N,N,60,N,0,PHB,Create spectral hand that manipulates objects. Can pick up <= 10 lbs. 
+Mending,0,N,60,0,Y,Y,Y,N,0,N,0,PHB,Mends one break or tear no larger than 1ft. in a mundane object. 
+Message,0,N,4,120,Y,Y,Y,N,6,N,0,PHB,Point at target and whisper a message. They can whisper a response. 
+Minor Illusion,0,N,4,30,N,Y,Y,N,60,N,0,PHB,Create illusory sound or image. Investigation check against spell DC to detect. 
+Poison Spray,0,N,4,10,Y,Y,N,N,0,1d12,12,PHB,DAM increase. 5th level: 2d12 11th level: 3d12 17th level: 4d12. 
+Prestidigitation,0,N,4,10,Y,Y,N,N,3600,N,0,PHB,Create minor magical effect. See Sourcebook. 
+Produce Flame,0,N,4,0,Y,Y,N,N,600,1d8,8,PHB,Create flame. DAM increase. 5th level: 2d8 11th level: 3d8 17th level: 4d8. 
+Ray of Frost,0,N,4,60,Y,Y,N,N,0,1d8,8,PHB,Speed -10ft. DAM increase. 5th level: 2d8 11th level: 3d8 17th level: 4d8. 
+Resistance,0,N,4,0,Y,Y,Y,Y,60,N,0,PHB,Once before spell ends add 1d4 to a saving throw. Roll before or after save. 
+Sacred Flame,0,N,4,60,Y,Y,N,N,0,1d8,8,PHB,No cover. DAM increase. 5th level: 2d8 11th level: 3d8 17th level: 4d8. 
+Shillelagh,0,N,2,0,Y,Y,Y,N,60,N,0,PHB,Use casting ability instead of STR for attackdamage. Weapon does 1d8 DMG. 
+Shocking Grasp,0,N,4,0,Y,Y,N,N,0,1d8,8,PHB,Target cant take reactions until next turn. Advantage if target has metal armor. 
+Spare the Dying,0,N,4,0,Y,Y,N,N,0,N,0,PHB,Stabilize dying creature. No effect on undead or constructs. 
+Thaumaturgy,0,N,4,30,Y,N,N,N,60,N,0,PHB,Create minor magical effect. See Sourcebook. 
+Thorn Whip,0,N,4,30,Y,Y,Y,N,0,1d6,6,PHB,Pulled 10 ft to root. DAM increase. 5th level: 2d6 11th level: 3d6 17th level: 4d6. 
+True Strike,0,N,4,30,N,Y,N,Y,6,N,0,PHB,Next turn you gain advantage on first attack against the target. 
+Vicious Mockery,0,N,4,60,Y,N,N,N,0,1d4,4,PHB,Disadvantage to attack.DAM increase.5th level:2d411th level:3d417th level:4d4 
+Alarm,1,Y,60,30,Y,Y,Y,N,28800,N,0,PHB,Audible or silent alarm triggered on entry by those you havent said can enter 
+Animal Friendship,1,N,4,30,Y,Y,Y,N,86400,N,0,PHB,Charm beasts with INT <= 3; spell fails if you hurt beast Higher Lvl: One more beast
+Armor of Agathys,1,N,4,0,Y,Y,Y,N,3600,5,5,PHB,Gain 5 THP. Melee attackers take 5 DAM. Higher Lvl: 5 temp HP and 5 DAM
+Arms of Hadar,1,N,4,0,Y,Y,N,N,0,2d6,12,PHB,Targets cant take reactions until next turn Higher Lvl: Extra 1d6 DAM
+Bane,1,N,4,30,Y,Y,Y,Y,60,N,0,PHB,Targets attack rolls and saving throws are deducted 1d4. Higher Lvl: One more creature
+Bless,1,N,4,30,Y,Y,Y,Y,60,N,0,PHB,Targets add 1d4 to attack rolls and saving throws. Higher Lvl: One more creature.
+Burning Hands,1,N,4,0,Y,Y,N,N,0,3d6,18,PHB,Flammable objects ignite. Higher Lvl: Extra 1d6 DAM.
+Charm Person,1,N,4,30,Y,Y,N,N,3600,N,0,PHB,Charm target so it treats you as friendly. Gets advantage to save if fighting you. Higher Lvl: One more target <= 30ft.
+Chromatic Orb,1,N,4,90,Y,Y,Y,N,0,3d8,24,PHB,Choose type: acid cold fire lightning poison or thunder. Higher Lvl: Extra 1d8 DAM.
+Color Spray,1,N,4,0,Y,Y,Y,N,6,N,0,PHB,Blinds 6d10 HP worth of creatures starting with lowest HP. Higher Lvl: Extra 2d10 HP.
+Command,1,N,4,60,Y,N,N,N,6,N,0,PHB,Speak 1 word command to target. Cant cause harm. Doesnt affect undead. Higher Lvl: One more creature.
+Compelled Duel,1,N,2,30,Y,N,N,Y,60,N,0,PHB,Compel target to attack you one-on-one. See Sourcebook. 
+Comprehend Languages,1,Y,4,0,Y,Y,Y,N,3600,N,0,PHB,Know literal meaning of any speech. Understand written words while touching. 
+Create or Destroy Water,1,N,4,30,Y,Y,Y,N,0,N,0,PHB,Create/destroy 10 gal. of water or 30 ft. cube of rain/fog. 
+Cure Wounds,1,N,4,0,Y,Y,N,N,0,HEAL: 1d8,-13,PHB,HEAL: 1d8 + spellcasting ability modifier. No effect on undead or constructs. Higher Lvl: Extra 1d8 HEAL.
+Detect Evil and Good,1,N,4,0,Y,Y,N,Y,600,N,0,PHB,Know location of aberrationcelestialelementalfeyfiendundead(un)holy ground. 
+Detect Magic,1,Y,4,0,Y,Y,N,Y,600,N,0,PHB,Sense presence of magic. Use action to see auras around creatures/objects. 
+Detect Poison and Disease,1,Y,4,0,Y,Y,Y,Y,600,N,0,PHB,Sense location and type of disease poison or poisonous creature. 
+Disguise Self,1,N,4,0,Y,Y,N,N,3600,N,0,PHB,Create illusion to appear as someone else. Foiled by Investigation vs. spell DC. 
+Dissonant Whispers,1,N,4,60,Y,N,N,N,0,3d6,18,PHB,Target immediately uses reaction to move as far away as possible. Higher Lvl: Extra 1d6 DAM.
+Divine Favor,1,N,2,0,Y,Y,N,Y,60,N,0,PHB,Your weapon attacks deal extra 1d4 radiant DAM on a hit. 
+Ensnaring Strike,1,N,2,0,Y,N,N,Y,60,1d6,6,PHB,Restrain target. Large and bigger creatures have advantage to save. Higher Lvl: Extra 1d6 DAM.
+Entangle,1,N,4,90,Y,Y,N,Y,60,N,0,PHB,Creatures become restrained.Use action to use STR against spell DC to escape. 
+Expeditious Retreat,1,N,2,0,Y,Y,N,Y,600,N,0,PHB,You can take Dash as a bonus action until spell ends. 
+Faerie Fire,1,N,4,60,Y,N,N,Y,60,N,0,PHB,Objects/creatures in cube are outlined in light and are attacked with advantage. 
+False Life,1,N,4,0,Y,Y,Y,N,3600,N,0,PHB,You gain 1d4+4 temp HP. Higher Lvl: Extra 5 temp HP.
+Feather Fall,1,N,1,60,Y,N,Y,N,60,N,0,PHB,Targets descent slows to 60 ft. per round takes no DAM and can land on feet. 
+Find Familiar,1,Y,3600,10,Y,Y,Y,N,0,N,0,PHB,Gain the service of a familiar. See Sourcebook. 
+Fog Cloud,1,N,4,120,Y,Y,N,Y,3600,N,0,PHB,Creates a foggy sphere. Can be banished by moderate wind. Higher Lvl: Increase radius by 20 ft.
+Goodberry,1,N,4,0,Y,Y,Y,N,0,N,0,PHB,Create <= 10 berries that HEAL 1 HP each. Expire after 24 hours. 
+Grease,1,N,4,60,Y,Y,Y,N,60,N,0,PHB,Creatures in area or entering area fall prone if they fail DEX save. 
+Guiding Bolt,1,N,4,120,Y,Y,N,N,6,4d6,24,PHB,Next attack roll against target before end of your next turn has advantage. Higher Lvl: Extra 1d6 DAM.
+Hail of Thorns,1,N,2,0,Y,N,N,Y,60,1d10,10,PHB,Target hit by ranged attack and those adjacent who fail save hit by thorns. Higher Lvl: Extra 1d10 DAM.
+Healing Word,1,N,2,60,Y,N,N,N,0,N,0,PHB,Target HEAL 1d4 + spellcasting ability. No effect on constructs/undead. Higher Lvl: Extra 1d4 HEAL.
+Hellish Rebuke,1,N,1,60,Y,Y,N,N,0,2d10,20,PHB,Magical counterattack to taking damage. Higher Lvl: Extra 1d10 DAM.
+Heroism,1,N,4,0,Y,Y,N,Y,60,N,0,PHB,Immune to being frightened. Temp HP equal to casting ability modifier each turn. Higher Lvl: 1 additional creature.
+Hex,1,N,2,90,Y,Y,Y,Y,3600,N,0,PHB,Target takes 1d6 necrotic DAM when you hit it;disadvantage on ability of choice. Higher Lvl: 3rd: duration 8 hrs;5th 24 hrs
+Hunters Mark,1,N,2,90,Y,N,N,Y,3600,N,0,PHB,Mark quarry. Extra 1d6 DAM on weapon hit. Advantage on rolls to find it. Higher Lvl: 3rd: duration 8hrs;5th: 24hrs
+Identify,1,Y,60,0,Y,Y,Y,N,0,N,0,PHB,Learn what an item is and what spells affect it. 
+Illusory Script,1,Y,60,0,N,Y,Y,N,864000,N,0,PHB,Write magical script on surface that only designated people can read. 
+Inflict Wounds,1,N,4,0,Y,Y,N,N,0,3d10,30,PHB,Inflict necrotic damage on target. Higher Lvl: Extra 1d10 DAM.
+Jump,1,N,4,0,Y,Y,Y,N,60,N,0,PHB,Targets jump distance tripled until spell ends. 
+Longstrider,1,N,4,0,Y,Y,Y,N,3600,N,0,PHB,Targets speed increases by 10 ft. Higher Lvl: One additional creature.
+Mage Armor,1,N,4,0,Y,Y,Y,N,28800,N,0,PHB,If target isnt wearing armor its base AC becomes 13 + DEX modifier. 
+Magic Missile,1,N,4,120,Y,Y,N,N,0,(1d4+1)x3,15,PHB,You choose the target for each dart that does 1d4+1 DAM. Higher Lvl: One additional dart.
+Protection from Evil and Good,1,N,4,0,Y,Y,Y,Y,600,N,0,PHB,Protect against certain types of creatures. See Sourcebook. 
+Purify Food and Drink,1,Y,4,10,Y,Y,N,N,0,N,0,PHB,All nonmagical food and drink in range is rendered free of poison and disease. 
+Ray of Sickness,1,N,4,60,Y,Y,N,N,0,2d8,16,PHB,Target also makes CON save. On fail poisoned until end of next turn. Higher Lvl: Extra 1d8 DAM.
+Sanctuary,1,N,2,30,Y,Y,Y,N,60,N,0,PHB,Those choosing to attack target must make WIS save or choose new target. 
+Searing Smite,1,N,2,0,Y,N,N,Y,60,1d6,6,PHB,Target takes initial DAM and CON save at start of each turn or take 1d6 fire. Higher Lvl: Extra 1d6 initial DAM.
+Shield,1,N,1,0,Y,Y,N,N,6,N,0,PHB,Gain +5 bonus to AC including triggering attack. Negates Magic Missile attacks. 
+Shield of Faith,1,N,2,60,Y,Y,Y,Y,600,N,0,PHB,Target gains +2 bonus to AC. 
+Silent Image,1,N,4,60,Y,Y,Y,Y,600,N,0,PHB,Create visual-only illusion. Use action to make it move. Investigation to discover. 
+Sleep,1,N,4,90,Y,Y,Y,N,60,N,0,PHB,5d8 total HP of creatures in area fall asleep. Go in order of lowest HP to hightest. Higher Lvl: Addition 2d8 HP fall asleep.
+Speak with Animals,1,Y,4,0,Y,Y,N,N,600,N,0,PHB,Understand and speak to beasts. Get info about nearby locations and monsters. 
+Tashas Hideous Laughter,1,N,4,30,Y,Y,Y,Y,60,N,0,PHB,Target (INT > 4) is prone incapacitated cant stand. WIS save each turn to end. 
+Tensers Floating Disk,1,Y,4,30,Y,Y,Y,N,3600,N,0,PHB,Create floating disk that holds 500 lbs and stays within 20 ft. of you. 
+Thunderous Smite,1,N,2,0,Y,N,N,Y,60,2d6,12,PHB,Attack target takes extra thunder DAM and STR save or pushed 10 ft. and prone. 
+Thunderwave,1,N,4,0,Y,Y,N,N,0,2d8,16,PHB,Creatures failing save and objects pushed 10 ft. Boom heard for 300 ft. Higher Lvl: Extra 1d8 DAM.
+Unseen Servant,1,Y,4,60,Y,Y,Y,N,3600,N,0,PHB,Create invisible force that can perform simple menial tasks for you. 
+Witch Bolt,1,N,4,30,Y,Y,Y,Y,60,1d12,12,PHB,Use action to auto hit target hit last round for 1d12 lightning DAM if in range. Higher Lvl: Extra 1d12 DAM.
+Wrathful Smite,1,N,2,0,Y,N,N,Y,60,1d6,6,PHB,Target hit also makes WIS save or is frightened. WIS save to end effect. 
+Aid,2,N,4,30,Y,Y,Y,N,28800,HEAL: 5,-5,PHB,Each target also increases maximum HP by 5. Higher Lvl: HEAL extra 5 HP
+Alter Self,2,N,4,0,Y,Y,N,Y,3600,N,0,PHB,Choose one: breathe/swim underwater natural weapons change appearance 
+Animal Messenger,2,Y,4,30,Y,Y,Y,N,86400,N,0,PHB,Beast will relay 25 word message to a target you describe Higher Lvl: 48 hours longer
+Arcane Lock,2,N,4,0,Y,Y,Y,N,2147483647,N,0,PHB,Locks object until password is spoken or dispel/knock. Object break DC +10. 
+Augury,2,Y,60,0,Y,Y,Y,N,0,N,0,PHB,See omen predicting results of action taken within 30 minutes. 
+Barkskin,2,N,4,0,Y,Y,Y,Y,3600,N,0,PHB,Target AC is never less than 16 during spell. 
+Beast Sense,2,Y,4,0,N,Y,N,Y,3600,N,0,PHB,Use action to see/hear whatever beast does. Use action to return. 
+Blindness/Deafness,2,N,4,30,Y,N,N,N,60,N,0,PHB,Target becomes blind or deaf (your choice). Higher Lvl: One more creature.
+Blur,2,N,4,0,Y,N,N,Y,60,N,0,PHB,Creatures relying on sight have disadvantage to attack. 
+Branding Smite,2,N,2,0,Y,N,N,Y,60,2d6,12,PHB,Target becomes visible sheds dim light. Higher Lvl: Extra 1d6 DAM.
+Calm Emotions,2,N,4,60,Y,Y,N,Y,60,N,0,PHB,Suppress charm effects or hostility on target. 
+Cloud of Daggers,2,N,4,60,Y,Y,Y,Y,60,4d4,16,PHB,DAM taken on entering or starting turn in area. Higher Lvl: Extra 2d4 DAM.
+Continual Flame,2,N,4,0,Y,Y,Y,N,2147483647,N,0,PHB,Heatless flame comes from object. Can be covered but not snuffed out. 
+Cordon of Arrows,2,N,4,5,Y,Y,Y,N,28800,1d6,6,PHB,Ammo fired at creatures within 30 ft. Spell ends when ammo gone. Higher Lvl: Two extra ammo.
+Crown of Madness,2,N,4,120,Y,Y,N,Y,60,N,0,PHB,Charm humanoid to attack your target of choice. Use action to keep control. 
+Darkness,2,N,4,60,Y,N,Y,Y,600,N,0,PHB,Creates darkness normal light cant dispel. Dispels light spells <= 2nd level. 
+Darkvision,2,N,4,0,Y,Y,Y,N,28800,N,0,PHB,Grants creature darkvision (60 ft.) but cant see in Darkness aura. 
+Detect Thoughts,2,N,4,0,Y,Y,Y,Y,60,N,0,PHB,Read thoughts of those around you. See Sourcebook. 
+Enhance Ability,2,N,4,0,Y,Y,Y,Y,3600,N,0,PHB,Target creature gains a beneficial effect. See Sourcebook. Higher Lvl: One additional creature.
+Enlarge/Reduce,2,N,4,30,Y,Y,Y,Y,60,N,0,PHB,Enlarge or reduce target. See Sourcebook. 
+Enthrall,2,N,4,60,Y,Y,N,N,60,N,0,PHB,Disadvantage to see anybody but you; attacked ones have advantage to save. 
+Find Steed,2,N,600,30,Y,Y,N,N,0,N,0,PHB,Summons a spirit in the form of a steed. See Sourcebook. 
+Find Traps,2,N,4,120,Y,Y,N,N,0,N,0,PHB,Sense the presence (not location) of any magical or mundane trap nearby. 
+Flame Blade,2,N,2,0,Y,Y,Y,Y,600,3d6,18,PHB,Create fiery scimitar that sheds bright light 10ft. and dim light for another 10ft. Higher Lvl: Extra 1d6 DAM per 2 levels.
+Flaming Sphere,2,N,4,60,Y,Y,Y,Y,60,2d6,12,PHB,Creatures next to spheres at end of turn take DAM. Move spheres 30 ft. Higher Lvl: Extra 1d6 DAM.
+Gentle Repose,2,Y,4,0,Y,Y,Y,N,864000,N,0,PHB,Preserves corpse. Extends time limit of Raise Dead spell. 
+Gust of Wind,2,N,4,0,Y,Y,Y,Y,60,N,0,PHB,Push targets 15 ft. in directon of wind. Creatures move half speed against wind. 
+Heat Metal,2,N,4,60,Y,Y,Y,Y,60,2d8,16,PHB,Heat metallic objects including weapons and armor. See Sourcebook. Higher Lvl: Extra 1d8 DAM.
+Hold Person,2,N,4,60,Y,Y,Y,Y,60,N,0,PHB,Target is paralyzed. New saving throw at end of turn. Higher Lvl: 1 additional creature.
+Invisibility,2,N,4,0,Y,Y,Y,Y,3600,N,0,PHB,Target becomes invisible. Ends if target attacks or casts a spell. Higher Lvl: One additional creature.
+Knock,2,N,4,60,Y,N,N,N,0,N,0,PHB,Open mundane lock or suppress an Arcane Lock for 10 minutes. Loud knock. 
+Lesser Restoration,2,N,4,0,Y,Y,N,N,0,N,0,PHB,End one disease or condition (blind deaf paralyzed poisoned) on target. 
+Levitate,2,N,4,60,Y,Y,Y,Y,600,N,0,PHB,Target <= 500 lbs. floats 20 ft.Can move up/down 20ft./turn. Floats down on end. 
+Locate Animals or Plants,2,Y,4,0,Y,Y,Y,N,0,N,0,PHB,Name a kind of beast or plant and find the nearest one within 5 miles. 
+Locate Object,2,N,4,0,Y,Y,Y,Y,600,N,0,PHB,Sense object direction within 1000 ft. or locate it within 30 ft. 
+Magic Mouth,2,Y,60,30,Y,Y,Y,N,2147483647,N,0,PHB,Magic mouth repeats <= 25 word message once condition is met. 
+Magic Weapon,2,N,2,0,Y,Y,N,Y,3600,N,0,PHB,Nonmagical weapon becomes +1. Higher Lvl: 4th: +2 weapon6th: +3
+Melfs Acid Arrow,2,N,4,90,Y,Y,Y,N,0,4d4,16,PHB,Half DAM on miss. On hit target also takes 2d4 acid DAM at end of next turn. Higher Lvl: 1d4 DAM on both effects
+Mirror Image,2,N,4,0,Y,Y,N,N,60,N,0,PHB,Create duplicates that make you harder to hit. See Sourcebook. 
+Misty Step,2,N,2,0,Y,N,N,N,0,N,0,PHB,Teleport <= 30 ft. away to unoccupied location. 
+Moonbeam,2,N,4,120,Y,Y,Y,Y,60,2d10,20,PHB,DAM taken entering/start turn in beam. Shapechanges disadvantage to save. Higher Lvl: Extra 1d10 DAM.
+Nystuls Magic Aura,2,N,4,0,Y,Y,Y,N,86400,N,0,PHB,Divination spells reveal false info about target. See Sourcebook. 
+Pass without Trace,2,N,4,0,Y,Y,Y,Y,3600,N,0,PHB,Targets get +10 to Stealth checks and can only be tracked by magic. 
+Phantasmal Force,2,N,4,60,Y,Y,Y,Y,60,N,0,PHB,Affect target with illusion. Can DAM for 1d6 Psychic. See Sourcebook. 
+Prayer of Healing,2,N,600,30,Y,N,N,N,0,HEAL: 2d8,-21,PHB,Targets HEAL 2d8 + casting ability modifier HP. No effect on undead/constructs. Higher Lvl: HEAL extra 1d8.
+Protection from Poison,2,N,4,0,Y,Y,N,N,3600,N,0,PHB,Target has 1 poison neutralized advantage on poison save resists poison DAM. 
+Ray of Enfeeblement,2,N,4,60,Y,Y,N,Y,60,N,0,PHB,Target deals 1/2 DMG with STR weapon attacks. CON save to end at turns end. 
+Rope Trick,2,N,4,0,Y,Y,Y,N,3600,N,0,PHB,Climb rope to other space that can hide 8 Medium creatures. Can see outside. 
+Scorching Ray,2,N,4,120,Y,Y,N,N,0,2d6x3,36,PHB,Shoot 3 rays at up to 3 targets. Higher Lvl: One additional ray.
+See Invisibility,2,N,4,0,Y,Y,Y,N,3600,N,0,PHB,See invisible and ethereal creatures. 
+Shatter,2,N,4,60,Y,Y,Y,N,0,3d8,24,PHB,Inorganic creatures have disadvantage to save. Objects take DAM too. Higher Lvl: Extra 1d8 DAM.
+Silence,2,Y,4,120,Y,Y,N,Y,600,N,0,PHB,Creatures in area are deafened immune to thunder DMG cant cast verbally. 
+Spider Climb,2,N,4,0,Y,Y,Y,Y,3600,N,0,PHB,Target can walk on walls or ceiling. Climbing speed becomes walking speed. 
+Spike Growth,2,N,4,150,Y,Y,Y,Y,600,N,0,PHB,Difficult terrain. Moving into or within area takes 2d4 piercing DAM per 5 ft. 
+Spiritual Weapon,2,N,2,60,Y,Y,N,N,60,1d8,13,PHB,Magical weapon does 1d8 + casting ability DMG. Can move 20 ft. per turn. Higher Lvl: Extra 1d8 DAM.
+Suggestion,2,N,4,30,Y,N,Y,Y,28800,N,0,PHB,Target follows reasonable course of action you suggest. Can specify conditions. 
+Warding Bond,2,N,4,0,Y,Y,Y,N,3600,N,0,PHB,Target (60ft) has +1 AC and saves resistance to all DAM shares DAM with you. 
+Web,2,N,4,60,Y,Y,Y,Y,3600,N,0,PHB,Every turn:DEX save or restrain;STR save to escape.Burning webs:2d4 fire DAM. 
+Zone of Truth,2,N,4,60,Y,Y,N,N,600,N,0,PHB,You know which fail saves. They cant lie but know of spell and can be evasive. 
+Animate Dead,3,N,60,10,Y,Y,Y,N,0,N,0,PHB,Creates skeleton or zombie servant that accepts simple directions Higher Lvl: Two more undead
+Aura of Vitality,3,N,4,0,Y,N,N,Y,60,HEAL: 2d6,-12,PHB,Use bonus action to HEAL 1 target in aura. 
+Beacon of Hope,3,N,4,30,Y,Y,N,Y,3600,N,0,PHB,Targets get advantage on WIS and death saving throws; heal spells heal max. 
+Bestow Curse,3,N,4,0,Y,Y,N,Y,60,N,0,PHB,Curse target. See Sourcebook. Higher Lvl: See Sourcebook.
+Blinding Smite,3,N,2,0,Y,N,N,Y,60,3d8,24,PHB,Next melee attack target takes DAM and is blinded until spell ends. 
+Blink,3,N,4,0,Y,Y,N,N,60,N,0,PHB,Roll 11 or higher to go to Ethereal plane between turns; reapper within 10ft. 
+Call Lightning,3,N,4,120,Y,Y,N,Y,600,3d10,30,PHB,Targets take DAM each round. Can change targets each round. Higher Lvl: Extra 1d10 DAM.
+Clairvoyance,3,N,600,5280,Y,Y,Y,Y,600,N,0,PHB,Create sensor in area you can see or hear through. 
+Conjure Animals,3,N,4,60,Y,Y,N,Y,3600,N,0,PHB,Summon fey spirits as creatures (total CR <= 2) that act as a group. 
+Conjure Barrage,3,N,4,0,Y,Y,Y,N,0,3d8,24,PHB,Damage type is same as ammo/weapon used as component. 
+Counterspell,3,N,1,60,N,Y,N,N,0,N,0,PHB,Interrupt spell <= 4th. You make casting ability check (DC 10 + spell level). Higher Lvl: Interrupt spell <= new level.
+Create Food and Water,3,N,4,30,Y,Y,N,N,0,N,0,PHB,Create 45 lbs. of bland nourishing food for 24 hours and 30 gallons of water. 
+Crusaders Mantle,3,N,4,0,Y,N,N,Y,60,N,0,PHB,Nonhostiles in aura deal an extra 1d4 radiant DAM. 
+Daylight,3,N,4,60,Y,Y,N,N,3600,N,0,PHB,Creates bright light. Dispels darkness spells <= 3rd level it overlaps with. 
+Dispel Magic,3,N,4,120,Y,Y,N,N,0,N,0,PHB,End spell <= 3rd level. For >= 4th level casting ability check DC=10+spell level. Higher Lvl: End spell <= new level.
+Elemental Weapon,3,N,4,0,Y,Y,N,Y,3600,N,0,PHB,Weapon is +1 to hit and +1d4 acid cold fire lightning or thunder DAM. Higher Lvl: 5th:+22d4 DAM;7th +33D4
+Fear,3,N,4,0,Y,Y,Y,Y,60,N,0,PHB,Targets drop everything and use Dash to run away. WIS save once out of sight. 
+Feign Death,3,Y,4,0,Y,Y,Y,N,3600,N,0,PHB,Creature appears dead. Resists all non-psychic DMG. Disease/poison delayed. 
+Fireball,3,N,4,150,Y,Y,Y,N,0,8d6,48,PHB,Fire spreads around corners and ignites flammable objects. Higher Lvl: Extra 1d6 DAM.
+Fly,3,N,4,0,Y,Y,Y,Y,600,N,0,PHB,Target gains fly (60 ft.). Fall if spell ends while in air. Higher Lvl: One additional creature.
+Gaseous Form,3,N,4,0,Y,Y,Y,Y,3600,N,0,PHB,Cloud form. Fly(10ft.). Resist nonmagical DMG. STR/DEX/CON save advantage. 
+Glyph of Warding,3,N,3600,0,Y,Y,Y,N,2147483647,N,0,PHB,Create a magical trap. See Sourcebook. Higher Lvl: See Sourcebook.
+Haste,3,N,4,30,Y,Y,Y,Y,60,N,0,PHB,Doubles speed. +2 AC. Advantage on DEX saves. Additional action to Dash. 
+Hunger of Hadar,3,N,4,150,Y,Y,Y,Y,60,N,0,PHB,Start turn in area: 2d6 cold DAM.End turn in area: DEX save or 2d6 acid DAM. 
+Hypnotic Pattern,3,N,4,120,N,Y,Y,Y,60,N,0,PHB,Creatures charmed incapacitated speed = 0. Spell ends on DAM or shaking. 
+Leomunds Tiny Hut,3,Y,60,0,Y,Y,Y,N,28800,N,0,PHB,Protect <= 9 creatures in hut from spells creatures elements. 
+Lightning Arrow,3,N,2,0,Y,Y,N,Y,60,4d8,32,PHB,Creatures within 10 ft. of initial target also take 2d8 DAM (DEX save for half). Higher Lvl: Both effects add 1d8 DAM.
+Lightning Bolt,3,N,4,0,Y,Y,Y,N,0,8d6,48,PHB,Lightning ignites flammable objects. Higher Lvl: Extra 1d6 DAM.
+Magic Circle,3,N,60,10,Y,Y,Y,N,3600,N,0,PHB,Hinder one creature type within cylinder. See Sourcebook. Higher Lvl: Duration increases 1 hour.
+Major Image,3,N,4,120,Y,Y,Y,Y,600,N,0,PHB,Create image of object including sounds smells. Investigation check to foil. Higher Lvl: 6th: lasts until dispelled
+Mass Healing Word,3,N,2,60,Y,N,N,N,0,HEAL: 1d4,-9,PHB,Targets HEAL 1d4 + casting ability modifier. No effect on undead/constructs. Higher Lvl: HEAL extra 1d4.
+Meld into Stone,3,Y,4,0,Y,Y,N,N,28800,N,0,PHB,Meld into stone walls or large stone objects. See Sourcebook. 
+Nondetection,3,N,4,0,Y,Y,Y,N,28800,N,0,PHB,Hide target from all divination and scrying magic. 
+Phantom Steed,3,Y,60,30,Y,Y,N,N,3600,N,0,PHB,You and 1 other can ride phantom steed. Speed=100ft or 10mph (13 fast). 
+Plant Growth,3,N,4,150,Y,Y,N,N,0,N,0,PHB,Cast short term (creatures move 1/4 speed) or long term (double food yield). 
+Protection from Energy,3,N,4,0,Y,Y,N,Y,3600,N,0,PHB,Creature gains resistance to one of: acid cold fire lightning or thunder. 
+Remove Curse,3,N,4,0,Y,Y,N,N,0,N,0,PHB,Remove curse creature or break objects curse attunement to any target. 
+Revivify,3,N,4,0,Y,Y,Y,N,0,N,0,PHB,Raise creature that died within 1 minute to 1 HP. Doesnt restore missing parts. 
+Sending,3,N,4,2147483647,Y,Y,Y,N,6,N,0,PHB,Send <= 25 word message to known creature. Get similar reply. 
+Sleet Storm,3,N,4,150,Y,Y,Y,Y,60,N,0,PHB,Difficult terrain.Each turnDEX save or fall proneCON save or lose concentration. 
+Slow,3,N,4,120,Y,Y,Y,Y,60,N,0,PHB,Affected creatures become slowed. See Sourcebook. 
+Speak with Dead,3,N,4,10,Y,Y,Y,N,600,N,0,PHB,Ask corpse <= 5 questions. Get brief cryptic answers. Can be lies. 
+Speak with Plants,3,N,4,0,Y,Y,N,N,600,N,0,PHB,Animate plants to communicate with and perform tasks. See Sourcebook. 
+Spirit Guardian,3,N,4,0,Y,Y,Y,Y,600,3d8,24,PHB,Enemy creature speed halved. DMG on enter area: necrotic if evil radiant if not. Higher Lvl: Extra 1d8 DAM.
+Stinking Cloud,3,N,4,90,Y,Y,Y,Y,60,N,0,PHB,Creatures that need to breathe spend turn retching. Wind disperses cloud. 
+Tongues,3,N,4,0,Y,N,Y,N,3600,N,0,PHB,Target understands any spoken language and is understood by everyone else. 
+Vampiric Touch,3,N,4,0,Y,Y,N,Y,60,3d6,18,PHB,Each time you hit a target you also HEAL half of the DAM you cause. Higher Lvl: Extra 1d6 DAM.
+Water Breathing,3,Y,4,30,Y,Y,Y,N,86400,N,0,PHB,Creatures gain ability to breathe underwater using normal respiration. 
+Water Walk,3,Y,4,30,Y,Y,Y,N,3600,N,0,PHB,Creaturess walk on liquid rise 60 ft. per round if under. Still take other damage. 
+Wind Wall,3,N,4,120,Y,Y,Y,Y,60,3d8,24,PHB,Strong wind keeps gases flying creatures projectiles gaseous creatures away. 
+Arcane Eye,4,N,4,30,Y,Y,Y,Y,3600,N,0,PHB,Create invisible eye with darkvision(30ft) moves 30ft/rd you can see through. 
+Aura of Life,4,N,4,0,Y,N,N,Y,600,N,0,PHB,Gain necrotic resistance HEAL 1 HP if at 0 HP HP max cant go down. 
+Aura of Purity,4,N,4,0,Y,N,N,Y,600,N,0,PHB,Gain poison resist disease immune advantage on status saving throws. 
+Banishment,4,N,4,60,Y,Y,Y,Y,60,N,0,PHB,Banish target to another plane; native of other plane doesnt return after 1 min. Higher Lvl: One more creature
+Blight,4,N,4,30,Y,Y,N,N,0,8d8,64,PHB,Plants have disadvantage on save and take max DAM. Higher Lvl: Extra 1d8 DAM.
+Compulsion,4,N,4,30,Y,Y,N,Y,60,N,0,PHB,Compel targets to move in specified non-hazardous direction. 
+Confusion,4,N,4,90,Y,Y,Y,Y,60,N,0,PHB,Targets cant take reactions and do random actions. See Sourcebook. Higher Lvl: Increase radius by 5ft.
+Conjure Minor Elementals,4,N,60,90,Y,Y,N,Y,3600,N,0,PHB,Summon elementals (total CR <= 2) that obey commands. Higher Lvl: 6th: CR <= 4; 8th: CR <= 6
+Conjure Woodland Beings,4,N,4,60,Y,Y,Y,Y,3600,N,0,PHB,Summon fey creatures (CR <= 2) that obey commands. Higher Lvl: 6th: CR <= 4; 8th: CR <= 6
+Control Water,4,N,4,300,Y,Y,Y,Y,600,N,0,PHB,Control water. See Sourcebook. 
+Death Ward,4,N,4,0,Y,Y,N,N,28800,N,0,PHB,1 use: Target drops to 1 HP instead of 0 HP or negates instant kill effect. 
+Dimension Door,4,N,4,500,Y,N,N,N,0,N,0,PHB,Teleport yourself and ally to location. If occupied 4d6 force DAM and spell fails. 
+Divination,4,Y,4,0,Y,Y,Y,N,0,N,0,PHB,Question about one event in next 7 days answered by phrase or omen. 
+Dominate Beast,4,N,4,60,Y,Y,N,Y,60,N,0,PHB,Charm beast to give it commands. Has advantage to save if attacking it. Higher Lvl: See Sourcebook.
+Evards Black Tentacles,4,N,4,90,Y,Y,Y,Y,60,3d6,18,PHB,Also restrained. Restrained take DAM every turn. STR/DEX check to get free. 
+Fabricate,4,N,600,120,Y,Y,N,N,0,N,0,PHB,Convert raw materials into object no bigger than 5 ft. cube. 
+Fire Shield,4,N,4,0,Y,Y,Y,N,600,2d8,16,PHB,Choose warm or chill shield. Melee attackers take DMG. Light out 10 ft./20 ft. 
+Freedom of Movement,4,N,4,0,Y,Y,Y,N,3600,N,0,PHB,Immune to difficult terrainslowparalyzerestrain. Spend 5ft to escape restrain. 
+Giant Insect,4,N,4,30,Y,Y,N,Y,600,N,0,PHB,Turn insects into giant insects that obey your commands. 
+Grasping Vine,4,N,2,30,Y,Y,N,Y,60,N,0,PHB,Create vine that lashes out 30 ft. away. Targets failing save pulled 20 ft. to vine. 
+Greater Invisibility,4,N,4,0,Y,Y,N,Y,60,N,0,PHB,Become invisible until spell ends. 
+Guardian of Faith,4,N,4,30,Y,N,N,N,28800,20,20,PHB,Create spectral guardian that attacks hostiles. Leaves after dealing 60 DAM. 
+Hallucinatory Terrain,4,N,600,300,Y,Y,Y,N,86400,N,0,PHB,Make natural terrain seem like other terrain. Investigation check to disbelieve. 
+Ice Storm,4,N,4,300,Y,Y,Y,N,0,2d8+4d6,40,PHB,Storms area of effect becomes difficult terrain until end of next turn. Higher Lvl: Extra 1d8 bludgeoning DAM.
+Leomunds Secret Chest,4,N,4,0,Y,Y,Y,N,0,N,0,PHB,Transport chest back and forth from Ethereal Plane using replica. 
+Locate Creature,4,N,4,0,Y,Y,Y,N,0,N,0,PHB,Sense creature direction within 1000 ft. or locate it within 30 ft. 
+Mordenkainens Faithful Hound,4,N,4,30,Y,Y,Y,N,28800,4d8,32,PHB,Spectral hound guards area and can attack hostiles. See Sourcebook. 
+Mordenkainens Private Sanctum,4,N,600,120,Y,Y,Y,N,86400,N,0,PHB,Create magically secure area. See Sourcebook. Higher Lvl: Extra 100 ft. per cube side
+Otilukes Resilient Sphere,4,N,4,30,Y,Y,Y,Y,60,N,0,PHB,Trap creature in sphere. Sphere only destroyed by Disintegrate spell. 
+Phantasmal Killer,4,N,4,120,Y,Y,N,Y,60,4d10,40,PHB,Target is frightened and takes DAM at start of turn if it doesnt save. Higher Lvl: Extra 1d10 DAM.
+Polymorph,4,N,4,60,Y,Y,Y,Y,3600,N,0,PHB,Transform creatures form. All stats change. Limited to actions of new form. 
+Staggering Smite,4,N,2,0,Y,N,N,Y,60,4d6,24,PHB,WIS save or disadvantage on attack & ability checks; cant take reactions. 
+Stone Shape,4,N,4,0,Y,Y,Y,N,0,N,0,PHB,Reshape stone into any rough shape you wish. 
+Stoneskin,4,N,4,0,Y,Y,Y,Y,3600,N,0,PHB,Target gains resistance to nonmagical bludgeoning piercing and slashing DMG. 
+Wall of Fire,4,N,4,120,Y,Y,Y,Y,60,5d8,40,PHB,Those entering or ending turn on one side of the wall take 5d8 fire DAM. Higher Lvl: Extra 1d8 DAM.
+Animate Objects,5,N,4,120,Y,Y,N,Y,60,N,0,PHB,Animate objects to accept simple commands. Higher Lvl: Two more objects
+Antilife Shell,5,N,4,10,Y,Y,N,Y,3600,N,0,PHB,Erects barrier around you that moves with you. Living creatures cannot enter. 
+Awaken,5,N,28800,0,Y,Y,Y,N,0,N,0,PHB,Target with INT <= 3 gaints INT 10 and can speak. Charmed for 30 days. 
+Banishing Smite,5,N,2,0,Y,N,N,Y,60,5d10,50,PHB,Target banished if <= 50 HP. 
+Bigbys Hand,5,N,4,120,Y,Y,Y,Y,60,4d8,32,PHB,Create giant hand to do various things. See Sourcebook. Higher Lvl: See Sourcebook.
+Circle of Power,5,N,4,0,Y,N,N,Y,600,N,0,PHB,Friendlies: advantage on saving throws against magic/effects. No half DAM. 
+Cloudkill,5,N,4,120,Y,Y,N,Y,600,5d8,40,PHB,DAM taken on entering or starting turn in area. Fog moves away 10 ft. per turn. Higher Lvl: Extra 1d8 DAM.
+Commune,5,Y,60,0,Y,Y,Y,N,60,N,0,PHB,Ask 3 yes/no questions that are answered by deity. See Sourcebook. 
+Commune with Nature,5,Y,60,0,Y,Y,N,N,0,N,0,PHB,Gain knowledge of the land around you. See Sourcebook. 
+Cone of Cold,5,N,4,0,Y,Y,Y,N,0,8d8,64,PHB,Creatures killed become frozen statues. Higher Lvl: Extra 1d8 DAM.
+Conjure Elemental,5,N,60,90,Y,Y,Y,Y,3600,N,0,PHB,Summon elemental CR <= 5. Obeys commands. Hostile if control is lost. Higher Lvl: Increase max CR by 1.
+Conjure Volley,5,N,4,150,Y,Y,Y,N,0,8d8,64,PHB,Damage type is same as ammo/weapon used as component. 
+Contact Other Plane,5,Y,60,0,Y,N,N,N,60,6d6,36,PHB,Contact extraplanar being. YOU make save. 1-word answers to 5 questions. 
+Contagion,5,N,4,0,Y,Y,N,N,604800,N,0,PHB,Give creature a disease. See Sourcebook. 
+Creation,5,N,60,30,Y,Y,Y,N,43200,N,0,PHB,Make nonliving object no larger than 5 ft. cube. See Sourcebook. Higher Lvl: Cube size increases by 5 ft.
+Destructive Wave,5,N,4,0,Y,N,N,N,0,5d6+5d6,60,PHB,Targets in circle take thunder DAM then radiant or necrotic DAM; go prone. 
+Dispel Evil and Good,5,N,4,0,Y,Y,Y,Y,60,N,0,PHB,Feyundeadextraplanar creatures have disadvantaged attacks. See Sourcebook. 
+Dominate Person,5,N,4,60,Y,Y,N,Y,60,N,0,PHB,Charm humanoid to give it commands. Has advantage to save if attacking it. Higher Lvl: See Sourcebook.
+Dream,5,N,60,2147483647,Y,Y,Y,N,28800,3d6,18,PHB,Shape creatures dreams. See Sourcebook. 
+Flame Strike,5,N,4,60,Y,Y,Y,N,0,4d6+4d6,48,PHB,Creatures take fire and radiant damage. Higher Lvl: 1d6 DAM fire OR radiant
+Geas,5,N,60,60,Y,N,N,N,2592000,5d10,50,PHB,Target must perform task you set. 5d10 psychic DAM whenever it disobeys. Higher Lvl: 7th: lasts 1 year;9th: forever
+Greater Restoration,5,N,4,0,Y,Y,Y,N,0,N,0,PHB,End a debilitating effect on target. See Sourcebook. 
+Hallow,5,N,86400,0,Y,Y,Y,N,2147483647,N,0,PHB,Infuse area with holy or unholy power. See Sourcebook. 
+Hold Monster,5,N,4,90,Y,Y,Y,Y,60,N,0,PHB,Target is paralyzed. New saving throw at end of turn. Doesnt work on undead. Higher Lvl: 1 additional creature.
+Insect Plague,5,N,4,300,Y,Y,Y,Y,600,4d10,40,PHB,Targets make save when swarm created or entering or exiting it. Higher Lvl: Extra 1d10 DAM.
+Legend Lore,5,N,600,0,Y,Y,Y,N,0,N,0,PHB,Learn lore about target. Information is accurate but might use figurative words. 
+Mass Cure Wounds,5,N,4,60,Y,Y,N,N,0,HEAL: 3d8,-29,PHB,Creatures HEAL 3d8 + casting ability modifier. No effect on undead/constructs. Higher Lvl: HEAL extra 1d8.
+Mislead,5,N,4,0,N,Y,N,Y,3600,N,0,PHB,Become invisible and create illusory double. Use action to move your double. 
+Modify Memory,5,N,4,30,Y,Y,N,Y,60,N,0,PHB,Reshape another creatures memories. See Sourcebook. Higher Lvl: See Sourcebook.
+Passwall,5,N,4,30,Y,Y,Y,N,3600,N,0,PHB,Create 5ft wide 8ft tall20ft deep opening in wall ceiling or floor. 
+Planar Binding,5,N,3600,60,Y,Y,Y,N,86400,N,0,PHB,Bind celestial elemental fey or fiend to serve you for spell duration. Higher Lvl: See Sourcebook.
+Raise Dead,5,N,3600,0,Y,Y,Y,N,0,N,0,PHB,Return target to life with 1 HP. See Sourcebook. 
+Rarys Telepathic Bond,5,Y,4,30,Y,Y,Y,N,3600,N,0,PHB,Targets can communicate telepathically with each other but not to other planes. 
+Reincarnate,5,N,3600,0,Y,Y,Y,N,0,N,0,PHB,Resurrect dead humanoid into a random humanoid body. See Sourcebook. 
+Scrying,5,N,600,0,Y,Y,Y,Y,600,N,0,PHB,Spy on a target located on the same plane as you. See Sourcebook. 
+Seeming,5,N,4,30,Y,Y,N,N,28800,N,0,PHB,Disguise willing or unwillig creatures as other similar creatures including outfits. 
+Swift Quiver,5,N,2,0,Y,Y,Y,Y,60,N,0,PHB,Quiver produces endless ammo.Use bonus action for 2 attacks using ammo. 
+Telekinesis,5,N,4,60,Y,Y,N,Y,600,N,0,PHB,Move objects or creatures with your mind. See Sourcebook. 
+Teleportation Circle,5,N,60,10,Y,N,Y,N,6,N,0,PHB,Any stepping inside circle teleport to permanent teleportation circle. 
+Tree Stride,5,N,4,0,Y,Y,N,Y,60,N,0,PHB,Enter one tree and emerge from another 500 ft. away. Use once per round. 
+Wall of Force,5,N,4,120,Y,Y,Y,Y,600,N,0,PHB,Create impenetrable wall (even into Ethereal Plane) only unmade by Disintegrate. 
+Wall of Stone,5,N,4,120,Y,Y,Y,Y,600,N,0,PHB,Create wall of stone or other stone structure. See Sourcebook. 
+Arcane Gate,6,N,4,500,Y,Y,N,Y,600,N,0,PHB,Create two linked portals 10ft. across anybody can travel between. 
+Blade Barrier,6,N,4,90,Y,Y,N,Y,600,6d10,60,PHB,Creatures entering wall/circle area take DAM. 
+Chain Lightning,6,N,4,150,Y,Y,Y,N,0,10d8,80,PHB,Bolt hits one target then forks to up to 3 others. Higher Lvl: One more bolt in fork.
+Circle of Death,6,N,4,150,Y,Y,Y,N,0,8d6,48,PHB, Higher Lvl: Extra 2d6 DAM.
+Conjure Fey,6,N,60,90,Y,Y,N,Y,3600,N,0,PHB,Summon fey CR <= 6. Obeys commands. Hostile if control is lost. Higher Lvl: Increase max CR by 1.
+Contingency,6,N,600,0,Y,Y,Y,N,864000,N,0,PHB,Spell <= 5th level activates when condition occurs. That spells slot used too. 
+Create Undead,6,N,60,10,Y,Y,Y,N,0,N,0,PHB,Create undead to serve you for 24 hours. See Sourcebook. Higher Lvl: See Sourcebook.
+Disintegrate,6,N,4,60,Y,Y,Y,N,0,10d6+40,100,PHB,If target drops to 0 HP is disintegrated. Only revived by True Resurrection. Higher Lvl: Extra 3d6 DAM.
+Drawmijs Instant Summons,6,Y,60,0,Y,Y,Y,N,2147483647,N,0,PHB,Speak item name and crush gem to summon object unless its held by other. 
+Eyebite,6,N,4,0,Y,Y,N,Y,60,N,0,PHB,Affect targets negatively. New target each turn. See Sourcebook. 
+Find the Path,6,N,60,0,Y,Y,Y,Y,86400,N,0,PHB,Find the shortest most direct route to a place you are familiar with. 
+Flesh to Stone,6,N,4,60,Y,Y,Y,Y,60,N,0,PHB,Restrained on first fail. Petrified after 3 fails. 
+Forbiddance,6,Y,600,0,Y,Y,Y,N,86400,5d10,50,PHB,Cant teleport/gate into area. A creature type you choose takes DMG in area. 
+Globe of Invulnerability,6,N,4,0,Y,Y,Y,Y,60,N,0,PHB,Spells <= 5th level cannot affect those within the globe. Higher Lvl: 1 higher spell level blocked.
+Guards and Wards,6,N,600,0,Y,Y,Y,N,86400,N,0,PHB,Protect an area of space. See Sourcebook. 
+Harm,6,N,4,60,Y,Y,N,N,0,14d6,84,PHB,Max HP reduced by same amount as DAM. Target cannot fall below 1 HP. 
+Heal,6,N,4,60,Y,Y,N,N,0,HEAL: 70,-70,PHB,Ends blindness deafness any diseases. No effect on constructs/undead. Higher Lvl: Extra 10 HEAL.
+Heroes Feast,6,N,600,30,Y,Y,Y,N,0,N,0,PHB,Cure:diseasepoison.Immune:poisonfright.HP max +2d10WIS save advantage. 
+Magic Jar,6,N,60,0,Y,Y,Y,N,2147483647,N,0,PHB,Your soul enters an external object. See sourcebook. 
+Mass Suggestion,6,N,4,60,Y,N,Y,N,86400,N,0,PHB,Make creatures accept reasonable sounding suggestions. See Sourcebook. Higher Lvl: 7th: 10 days;8th:30;9th:366
+Move Earth,6,N,4,120,Y,Y,Y,Y,7200,N,0,PHB,Reshape dirt sand or clay. Can move to different square after 10 minutes. 
+Otilukes Freezing Sphere,6,N,4,300,Y,Y,Y,N,0,10d6,60,PHB,Water freezes. Can give globe to another who fires it and spell takes effect then. Higher Lvl: Extra 1d6 DAM.
+Ottos Irresistable Dance,6,N,4,30,Y,N,N,Y,60,N,0,PHB,No movement.Disadvantage on DEX saves and attacks.Use action to WIS save. 
+Planar Ally,6,N,600,60,Y,Y,N,N,0,N,0,PHB,Ask otherworldly entity for aid. See Sourcebook. 
+Programmed Illusion,6,N,4,120,Y,Y,Y,N,2147483647,N,0,PHB,Create illusion that performs specific action triggered by specific action. 
+Sunbeam,6,N,4,0,Y,Y,Y,Y,60,6d8,48,PHB,Creatures are blinded until your next turn. Use your action to make a new line. 
+Transport via Plants,6,N,4,10,Y,Y,N,N,6,N,0,PHB,Enter one plant and emerge from another on same plane youve encountered. 
+True Seeing,6,N,4,0,Y,Y,Y,N,3600,N,0,PHB,Target creature gains truesight sees secret doors Ethereal Plane. Range 120 ft. 
+Wall of Ice,6,N,4,120,Y,Y,Y,Y,600,10d6,60,PHB,Ice:AC 12 30 HP. Moving through ice:take 5d6 cold DAM or CON save for half. Higher Lvl: Extra DAM:2d61d6 moving
+Wall of Thorns,6,N,4,120,Y,Y,Y,Y,600,7d8,56,PHB,Move through wall at 1/4 speed and take 7d8 slashing DAM (DEX save for half). Higher Lvl: Extra 1d8 DAM (both types).
+Wind Walk,6,N,60,30,Y,Y,Y,N,28800,N,0,PHB,Fly speed: 300 ft. Resist weapons.Only Dash in cloud form. Can revert to normal. 
+Word of Recall,6,N,4,5,Y,N,N,N,0,N,0,PHB,Instantly teleport to sanctuary you select during prep associated with your deity.
+Conjure Celestial,7,N,60,90,Y,Y,N,Y,3600,N,0,PHB,Summon celestial CR <= 4. Obeys commands that dont violate alignment. Higher Lvl: 9th level: CR <= 5
+Delayed Blast Fireball,7,N,4,150,Y,Y,Y,Y,60,12d6,72,PHB,Creates spot where fireball will erupt. See Sourcebook. Higher Lvl: Extra 1d6 base DAM.
+Divine Word,7,N,2,30,Y,N,N,N,0,N,0,PHB,Targets suffer effects based on their current HP. See Sourcebook. 
+Etherealness,7,N,4,0,Y,Y,N,N,28800,N,0,PHB,Become ethereal. Move up/down at half speed. Cant see past 60 ft. Higher Lvl: 8th:3 targets;9th: 6 targets
+Finger of Death,7,N,4,60,Y,Y,N,N,0,7d8+30,86,PHB,Humanoids killed rise as a zombie next turn permanently under your control. 
+Fire Storm,7,N,4,150,Y,Y,N,N,0,7d10,70,PHB,Each cube must face at least one other cube. Can choose not to affect plants. 
+Forcecage,7,N,4,100,Y,Y,Y,N,3600,N,0,PHB,Creatures stuck in cage can only leave using magic after CHA save. 
+Mirage Arcane,7,N,600,15840,Y,Y,N,N,864000,N,0,PHB,Create audovisualtactile and olfactory illusion. Only Truesight can detect. 
+Mordenkainens Magnificent Mansion,7,N,60,300,Y,Y,Y,N,86400,N,0,PHB,Summon portal to 50000 cubic ft. mansion with food for 100 people. 
+Mordenkainens Sword,7,N,4,60,Y,Y,Y,Y,60,3d10,30,PHB,Use bonus action each turn to move sword <= 20 ft. and attack again. 
+Plane Shift,7,N,4,0,Y,Y,Y,N,0,N,0,PHB,Transport to another plane. You specify general location or teleportation circle. 
+Prismatic Spray,7,N,4,0,Y,Y,N,N,0,10d6,60,PHB,Send a rainbow of negative effects at enemies. See Sourcebook. 
+Project Image,7,N,4,264000,Y,Y,Y,Y,86400,N,0,PHB,Create image of self you can see/hear/speak/move (x2 speed) through. 
+Regenerate,7,N,60,0,Y,Y,Y,N,3600,HEAL: 4d8+15,-47,PHB,Target HEAL 1 HP at start of every turn. Severed parts return after 2 minutes. 
+Resurrection,7,N,3600,0,Y,Y,Y,N,0,N,0,PHB,Resurrect dead creaature. See Sourcebook. 
+Reverse Gravity,7,N,4,100,Y,Y,Y,Y,60,N,0,PHB,Creatures fall upwards taking falling damage. Fall again once spell ends. 
+Sequester,7,N,4,0,Y,Y,Y,N,2147483647,N,0,PHB,Hide target from detection falls into suspended animation. Condition can end it. 
+Simulacrum,7,N,43200,0,Y,Y,Y,N,2147483647,N,0,PHB,Create duplicate of beast or humanoid that obeys your commands. 
+Symbol,7,N,60,0,Y,Y,Y,N,2147483647,10d10,100,PHB,Inscribe harmful magical glyph on surface. See Sourcebook. 
+Teleport,7,N,4,10,Y,N,N,N,0,N,0,PHB,Teleport yourself and willing creatures to a distant location. See Sourcebook. 
+Animal Shapes,8,N,4,30,Y,Y,N,Y,86400,N,0,PHB,Transform targets into Large or smaller beasts with CR <= 4 
+Antimagic Field,8,N,4,10,Y,Y,Y,Y,3600,N,0,PHB,Erects a sphere around you in which all magic no longer works. 
+Antipathy/Sympathy,8,N,3600,60,Y,Y,Y,N,864000,N,0,PHB,Target object/creature attracts or repels specifc creature types. 
+Clone,8,N,3600,0,Y,Y,Y,N,0,N,0,PHB,Create clone of living person; soul transfers to clone if original dies. 
+Control Weather,8,N,600,0,Y,Y,Y,Y,28800,N,0,PHB,Control the weather. See Sourcebook. 
+Demiplane,8,N,4,60,N,Y,N,N,3600,N,0,PHB,Create door to 30 ft. cubic room in demiplane. Trapped if there when spell ends. 
+Dominate Monster,8,N,4,60,Y,Y,N,Y,3600,N,0,PHB,Charm monster to give it commands. Has advantage to save if attacking it. Higher Lvl: 9th: Duration is 8 hours.
+Earthquake,8,N,4,500,Y,Y,Y,Y,60,N,0,PHB,Create a seismic disturbance with various effects. See Sourcebook. 
+Feeblemind,8,N,4,150,Y,Y,Y,N,0,4d6,24,PHB,Creature INT and CHA scores become 1. See Sourcebook. 
+Glibness,8,N,4,0,Y,N,N,N,3600,N,0,PHB,Can replace CHA check rolls with a 15. Spells always detect you telling truth. 
+Holy Aura,8,N,4,0,Y,Y,Y,Y,60,N,0,PHB,Aura helps allies and hurts enemies. See Sourcebook. 
+Incendiary Cloud,8,N,4,150,Y,Y,N,Y,60,10d8,80,PHB,Targets make save when cloud created or entering or exiting it. Cloud move: 10ft. 
+Maze,8,N,4,60,Y,Y,N,Y,600,N,0,PHB,Target uses action each turn to make INT check (DC 20) to escape. 
+Mind Blank,8,N,4,0,Y,Y,N,N,86400,N,0,PHB,Target immune to psychic damage charm mind reading divinations. 
+Power Word Stun,8,N,4,60,Y,N,N,N,0,N,0,PHB,Target <= 150 HP is stunned. Nothing otherwise. CON save at end of turn to end. 
+Sunburst,8,N,4,150,Y,Y,Y,N,0,12d6,72,PHB,Creatures are blinded for 1 minute (CON save at end of turn to end). 
+Telepathy,8,N,4,2147483647,Y,Y,Y,N,86400,N,0,PHB,Telepathically communicate words sounds images with target (INT >= 1). 
+Tsunami,8,N,60,15840,Y,Y,N,Y,36,6d10,60,PHB,Creatures make STR save to avoid more damage (1d10 less DMG each round). 
+Astral Projection,9,N,3600,10,Y,Y,Y,N,2147483647,N,0,PHB,Project to Astral Plane. See Sourcebook. 
+Foresight,9,N,60,0,Y,Y,Y,N,28800,N,0,PHB,Not surprised. Advantage:attackscheckssaves. Disadvantage getting attacked. 
+Gate,9,N,4,60,Y,Y,Y,Y,60,N,0,PHB,Create portal to precise location on another plane or near a specific person. 
+Imprisonment,9,N,60,30,Y,Y,Y,N,2147483647,N,0,PHB,Magically restrain a creature. See sourcebook. 
+Mass Heal,9,N,4,60,Y,Y,N,N,0,HEAL: 700,-700,PHB,Targets HEAL total of 700 HP and cured of diseases blindness and deafness. 
+Meteor Swarm,9,N,4,5280,Y,Y,N,N,0,20d6+20d6,240,PHB,Also damages objects and ignites flammable objects. 
+Power Word Heal,9,N,4,0,Y,Y,N,N,0,HEAL: All HP,-335,PHB,Target also cured of charm fright paralyze or stun. Use reaction to stand up. 
+Power Word Kill,9,N,4,60,Y,N,N,N,0,100,100,PHB,If target has <= 100 HP it dies instantly. No effect otherwise. No saving throw. 
+Prismatic Wall,9,N,4,60,Y,Y,N,N,0,10d6,60,PHB,Create multicolored barrier with various effects. See Sourcebook. 
+Shapechange,9,N,4,0,Y,Y,Y,Y,3600,N,0,PHB,Assume the form of a different creature. See Sourcebook. 
+Storm of Vengeance,9,N,4,15840,Y,Y,N,Y,60,2d6+1d6+10d6+2d6+1d6,96,PHB,Magical storm attacks targets in range. See Sourcebook. 
+Time Stop,9,N,4,0,Y,N,N,N,0,N,0,PHB,Stop time. Take 1d4+1 turns alone. Spell ends if you affect others in any way. 
+True Polymorph,9,N,4,30,Y,Y,Y,Y,3600,N,0,PHB,Transform a creature/object into a different creature/object. See Sourcebook. 
+True Resurrection,9,N,3600,0,Y,Y,Y,N,0,N,0,PHB,Resurrect creature that didnt die of old age. Heals all wounds effects etc. 
+Weird,9,N,4,120,Y,Y,N,Y,60,4d10,40,PHB,Affected creatures make WIS saves each turn and take DAM until they save. 
+Wish,9,N,4,0,Y,N,N,N,0,N,0,PHB,Replicate and spell <= 8th level or other powerful effect granted. See Sourcebook. 
