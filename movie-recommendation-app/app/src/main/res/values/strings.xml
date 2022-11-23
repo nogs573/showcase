@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Movie Guide</string>
+    <string name="category">Categories</string>
+
+    <string name="account_creation_button">Account Creation</string>
+    <string name="logout_button">Logout</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_name">Enter Name (optional)</string>
+    <string name="select_genre">Select Genre</string>
+    <string name="login_button">Login</string>
+    <string name="search_movie_button">Search Movies</string>
+    <string name="account_creation_page">Account Creation</string>
+    <string name="login_page">Login</string>
+    <string name="search_movies_page">Search Movies</string>
+    <string name="description_page">Description Movies</string>
+    <string name="update_genre_button">Update Genre</string>
+    <string name="movie_title">Title: </string>
+    <string name="movie_release_date">Release Year: </string>
+    <string name="movie_summary">Summary: </string>
+    <string name="movie_country">Country of origin: </string>
+    <string name="movie_content">Content Rating: </string>
+    <string name="movie_score">Score: </string>
+    <string name="movie_genres">Genres: </string>
+    <string name="search_bar_hint">Enter the name of the Movie</string>
+    <string name="login_text">Login</string>
+    <string name="filters">Filters</string>
+    <string name="year">Year</string>
+    <string name="countrySearch">Country</string>
+    <string name="rating">Content Rating</string>
+    <string name="ratingShort">Rating</string>
+    <string name="scoreAbove">Score Above</string>
+    <string name="apply">Apply</string>
+
+    <string name="yearRelease">Year of Release</string>
+    <string name="enterYear">Enter Year</string>
+    <string name="enterCountry">Enter Country</string>
+    <string name="enterRating">Enter Rating (G, PG-13, R, etc.)</string>
+    <string name="enterScore">Enter Score (Number from 0.0 to 5.0)</string>
+    <string name="countryOrigin">Country of Origin</string>
+    <string name="clear">CLEAR ALL</string>
+
+    <string-array name="genre_array">
+        <item>All Genres</item>
+        <item>Action</item>
+        <item>Drama</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+        <item>Humor</item>
+        <item>Mystery</item>
+        <item>Non Fiction</item>
+        <item>Romance</item>
+        <item>Sci-fi</item>
+    </string-array>
+    <string name="selectGenre">Select Genre Preference(s)</string>
+    <string name="quizButton">QUIZ</string>
+    <string name="movieFilterTitle">Movie Filters</string>
+    <string name="startButton">START</string>
+    <string name="nextButton">NEXT</string>
+    <string name="quizText1">This is the text of the first question, all the questions will be displayed here?</string>
+    <string name="quizText2">Button</string>
+    <string name="quizText3">TextView</string>
+    <string name="action">Action</string>
+    <string name="drama">Drama</string>
+    <string name="fantasy">Fantasy</string>
+    <string name="horror">Horror</string>
+    <string name="humor">Humor</string>
+    <string name="mystery">Mystery</string>
+    <string name="nonFiction">Non-Fiction</string>
+    <string name="romance">Romance</string>
+    <string name="sciFi">Sci-fi</string>
+    <string name="ratedG">Rated G</string>
+    <string name="ratedPG">Rated PG</string>
+    <string name="ratedPG13">Rated PG-13</string>
+    <string name="ratedR">Rated R</string>
+    <string name="ratedNC17">Rated NC-17</string>
+    <string name="returnHome">Return Home</string>
+
+
+</resources>

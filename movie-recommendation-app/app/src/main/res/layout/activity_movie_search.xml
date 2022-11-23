@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Presentation.MovieSearchActivity">
+
+    <SearchView
+        android:id="@+id/seaMovTextInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/background"
+        android:queryHint="@string/search_bar_hint"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/seaMovSelectGenreDropdown"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+        android:layout_width="0dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toStartOf="@+id/seaMovUpdateGenButton"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/seaMovTextInput">
+
+        <AutoCompleteTextView
+            android:id="@+id/seaMovSelGenItem"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:inputType="none"
+            android:text="@string/category"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/seaMovUpdateGenButton"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:onClick="genreButton"
+        android:text="@string/update_genre_button"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toStartOf="@+id/seaMovFilterButton"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/seaMovSelectGenreDropdown"
+        app:layout_constraintTop_toBottomOf="@+id/seaMovTextInput" />
+
+    <Button
+        android:id="@+id/seaMovFilterButton"
+        android:layout_width="180dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:onClick="launchMovieFilters"
+        android:text="@string/filters"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/seaMovUpdateGenButton"
+        app:layout_constraintTop_toBottomOf="@+id/seaMovTextInput" />
+
+    <TextView
+        android:id="@+id/seaMovDateText"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="@string/year"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/seaMovSelectGenreDropdown" />
+
+    <TextView
+        android:id="@+id/seaMovCountryText"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="@string/countrySearch"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@+id/seaMovRatingText"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/seaMovDateText"
+        app:layout_constraintTop_toBottomOf="@+id/seaMovUpdateGenButton" />
+
+    <TextView
+        android:id="@+id/seaMovRatingText"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="@string/ratingShort"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@+id/seaMovScoreText"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/seaMovCountryText"
+        app:layout_constraintTop_toBottomOf="@+id/seaMovUpdateGenButton" />
+
+    <TextView
+        android:id="@+id/seaMovScoreText"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:gravity="center"
+        android:text="@string/scoreAbove"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/seaMovRatingText"
+        app:layout_constraintTop_toBottomOf="@+id/seaMovFilterButton" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/seaMovRecyclerView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/seaMovDateText" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

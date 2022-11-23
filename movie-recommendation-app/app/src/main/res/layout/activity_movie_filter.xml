@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Presentation.MovieFilterActivity">
+
+
+  <TextView
+      android:id="@+id/filScoreAbove"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="32dp"
+      android:layout_marginTop="16dp"
+      android:text="@string/scoreAbove"
+      android:textSize="16sp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/filRatingInput" />
+
+  <TextView
+      android:id="@+id/filContentRating"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="32dp"
+      android:layout_marginTop="16dp"
+      android:text="@string/rating"
+      android:textSize="16sp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/filCountryInput" />
+
+  <TextView
+      android:id="@+id/filDatePublished"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="32dp"
+      android:layout_marginTop="16dp"
+      android:text="@string/yearRelease"
+      android:textSize="16sp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/filTitle" />
+
+  <TextView
+      android:id="@+id/filTitle"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="32dp"
+      android:layout_marginTop="8dp"
+      android:text="@string/movieFilterTitle"
+      android:textSize="34sp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <TextView
+      android:id="@+id/filCountryMade"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="32dp"
+      android:layout_marginTop="16dp"
+      android:text="@string/countryOrigin"
+      android:textSize="16sp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/filDateInput" />
+
+  <com.google.android.material.textfield.TextInputLayout
+      android:id="@+id/filDateInput"
+      style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="32dp"
+      android:layout_marginEnd="32dp"
+      android:hint="@string/enterYear"
+      app:counterEnabled="true"
+      app:counterMaxLength="4"
+      app:endIconMode="clear_text"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/filDatePublished">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/filDateText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="date"
+        android:maxLength="5"
+        android:textColorHint="#757575" />
+  </com.google.android.material.textfield.TextInputLayout>
+
+  <com.google.android.material.textfield.TextInputLayout
+      android:id="@+id/filCountryInput"
+      style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="32dp"
+      android:layout_marginEnd="32dp"
+      android:hint="@string/enterCountry"
+      app:counterEnabled="true"
+      app:counterMaxLength="25"
+      app:endIconMode="clear_text"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="1.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/filCountryMade">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/filCountryText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:maxLength="26"
+        android:textColorHint="#757575" />
+  </com.google.android.material.textfield.TextInputLayout>
+
+  <com.google.android.material.textfield.TextInputLayout
+      android:id="@+id/filRatingInput"
+      style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="32dp"
+      android:layout_marginEnd="32dp"
+      android:hint="@string/enterRating"
+      app:counterEnabled="true"
+      app:counterMaxLength="5"
+      app:endIconMode="clear_text"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@id/filContentRating">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/filRatingText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="#757575" />
+  </com.google.android.material.textfield.TextInputLayout>
+
+  <com.google.android.material.textfield.TextInputLayout
+      android:id="@+id/filScoreInput"
+      style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="32dp"
+      android:layout_marginEnd="32dp"
+      android:hint="@string/enterScore"
+      app:endIconMode="clear_text"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@id/filScoreAbove">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/filScoreText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:textColorHint="#757575" />
+  </com.google.android.material.textfield.TextInputLayout>
+
+  <Button
+      android:id="@+id/filClearAllButton"
+      android:layout_width="160dp"
+      android:layout_height="80dp"
+      android:layout_marginStart="8dp"
+      android:layout_marginBottom="32dp"
+      android:text="@string/clear"
+      android:textSize="20sp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toStartOf="@id/filApplyButton"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/filScoreInput"
+      app:layout_constraintVertical_bias="0.504" />
+
+  <Button
+      android:id="@+id/filApplyButton"
+      android:layout_width="160dp"
+      android:layout_height="80dp"
+      android:layout_marginEnd="8dp"
+      android:layout_marginBottom="32dp"
+      android:onClick="sendData"
+      android:text="@string/apply"
+      android:textSize="20sp"
+      app:layout_constraintBottom_toBottomOf="parent"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="1.0"
+      app:layout_constraintStart_toEndOf="@+id/filClearAllButton"
+      app:layout_constraintTop_toBottomOf="@+id/filScoreInput"
+      app:layout_constraintVertical_bias="0.504" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

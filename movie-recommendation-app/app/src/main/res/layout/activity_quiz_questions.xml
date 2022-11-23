@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animationCache="true"
+    tools:context=".Presentation.QuizQuestions">
+
+    <Button
+        android:id="@+id/nextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="16dp"
+        android:onClick="loadNextQuestion"
+        android:text="@string/nextButton"
+        app:cornerRadius="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/questionCard"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="7dp"
+        app:layout_constraintBottom_toTopOf="@+id/nextButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.673"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/linearLayoutPart1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="clip_horizontal|center_vertical"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/questionText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="7dp"
+                android:gravity="center"
+                android:text="@string/quizText1"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="7dp"
+                android:onClick="optionSelected"
+                android:text="@string/quizText2"
+                android:textSize="16sp"
+                android:visibility="visible"
+                app:cornerRadius="10dp" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="7dp"
+                android:onClick="optionSelected"
+                android:text="@string/quizText2"
+                android:textSize="16sp"
+                android:visibility="visible"
+                app:cornerRadius="10dp" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="7dp"
+                android:onClick="optionSelected"
+                android:text="@string/quizText2"
+                android:textSize="16sp"
+                app:cornerRadius="10dp" />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="7dp"
+                android:onClick="optionSelected"
+                android:text="@string/quizText2"
+                android:textSize="16sp"
+                app:cornerRadius="10dp" />
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="7dp"
+                android:onClick="optionSelected"
+                android:text="@string/quizText2"
+                android:textSize="16sp"
+                app:cornerRadius="10dp" />
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="7dp"
+                android:onClick="optionSelected"
+                android:text="@string/quizText2"
+                android:textSize="16sp"
+                app:cornerRadius="10dp" />
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="7dp"
+                android:onClick="optionSelected"
+                android:text="@string/quizText2"
+                android:textSize="16sp"
+                app:cornerRadius="10dp" />
+
+            <Button
+                android:id="@+id/button9"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="12.5dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="12.5dp"
+                android:onClick="optionSelected"
+                android:text="@string/quizText2"
+                android:textSize="16sp"
+                app:cornerRadius="10dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayoutPart2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/questionTextPart2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="50dp"
+                android:gravity="center"
+                android:text="@string/quizText3"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <com.google.android.material.chip.ChipGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:paddingLeft="25dp"
+                android:paddingTop="100dp"
+                android:paddingRight="25dp">
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/adventureChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion5"
+                    android:text="@string/action"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/dramaChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion5"
+                    android:text="@string/drama"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/fantasyChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion5"
+                    android:text="@string/fantasy"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/horrorChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion5"
+                    android:text="@string/horror"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/humorChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion5"
+                    android:text="@string/humor"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/mysteryChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion5"
+                    android:text="@string/mystery"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/nonFictionChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion5"
+                    android:text="@string/nonFiction"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/romanceChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion5"
+                    android:text="@string/romance"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/scfiChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion5"
+                    android:text="@string/sciFi"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+            </com.google.android.material.chip.ChipGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayoutPart3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="clip_vertical|center_vertical"
+            android:orientation="vertical"
+            tools:visibility="gone">
+
+            <TextView
+                android:id="@+id/questionTextPart3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginRight="25dp"
+                android:layout_marginBottom="50dp"
+                android:gravity="center"
+                android:text="@string/quizText3"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <com.google.android.material.chip.ChipGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:paddingLeft="25dp"
+                android:paddingTop="100dp"
+                android:paddingRight="25dp">
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/gRatedChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion6"
+                    android:text="@string/ratedG"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/pgRatedChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion6"
+                    android:text="@string/ratedPG"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/pg13RatedChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion6"
+                    android:text="@string/ratedPG13"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/rRatedChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion6"
+                    android:text="@string/ratedR"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/nc17RatedChip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:checkable="true"
+                    android:elevation="7dp"
+                    android:onClick="loadQuestion6"
+                    android:text="@string/ratedNC17"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </com.google.android.material.chip.ChipGroup>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>
