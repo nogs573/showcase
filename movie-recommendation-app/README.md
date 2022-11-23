@@ -1,25 +1,34 @@
-# COMP 3350 Semester Project
+# MovieGuide Project
 
 The purpose of this project is to create a Android application for Nexus 7 tablet while learning the standards of
 software development. We were given groups to work with as a team for the entire semester, held weekly meetings, and
 submitted three iterations of our MovieGuide app. The final version of this project was released on April 25th 2022
 at 4:30PM.
 
+[Link to release website](https://github.com/nogs573/showcase/blob/a0b565ed43cb7009d2c7ae7d089c5cbcfec7745c/movie-recommendation-app/website/movie-guide-website.html)
+
 ## Team Members
 
 Nathan Gagné
+
 Mohammadafaz Munshi
+
 Thomas Peters
+
 Mostafa Raad
+
 Chandra Hofer
+
 Brian Lim
 
-## *Note from Nathan Gagné
+## *Notes from Nathan Gagné
 
+*This is a toy application. It does not contain real movies.
 For this project, I was in charge of the HSQLDB implementation for storing movies, users, and all relevant attributes.
 We used Java with Android, so I wrote everything that has to do with adding/removing Movies and Users using prepared
 statements to combat SQL injection. I also created the demo video on our website submission and assisted with many other
 issues that came up for others during development. I also wrote nearly all of the documentation.
+
 [Link to original repository with issues, milestones, user stories, etc.](https://code.cs.umanitoba.ca/winter-2022-a02/group-3/movie-recommendation-app.git)
 
 Since that repository is not guaranteed to stay up, I decided to move the files here as well. Links have been updated
@@ -48,11 +57,11 @@ Then, open the movie-recommendation-app folder in android studio, gradle build, 
 VISION.md contains the vision statement that we wrote at the beginning of this project to guide design decisions
 as well as the branching strategy that we used for version control.
 
-[Link to VISION.md](https://code.cs.umanitoba.ca/winter-2022-a02/group-3/movie-recommendation-app/-/tree/main/VISION.md)
+[Link to VISION.md](https://github.com/nogs573/showcase/blob/a0b565ed43cb7009d2c7ae7d089c5cbcfec7745c/movie-recommendation-app/VISION.md)
 
 ARCHITECTURE.md contains an diagram that shows the file structure of our project.
 
-[Link to ARCHITECTURE.md](https://code.cs.umanitoba.ca/winter-2022-a02/group-3/movie-recommendation-app/-/tree/main/ARCHITECURE.md)
+[Link to ARCHITECTURE.md](https://github.com/nogs573/showcase/blob/a0b565ed43cb7009d2c7ae7d089c5cbcfec7745c/movie-recommendation-app/ARCHITECTURE.md)
 
 
 
