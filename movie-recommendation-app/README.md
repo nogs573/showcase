@@ -5,7 +5,7 @@ software development. We were given groups to work with as a team for the entire
 submitted three iterations of our MovieGuide app. The final version of this project was released on April 25th 2022
 at 4:30PM.
 
-[Link to release website](https://github.com/nogs573/showcase/blob/a0b565ed43cb7009d2c7ae7d089c5cbcfec7745c/movie-recommendation-app/website/movie-guide-website.html)
+[Link to release website](https://htmlpreview.github.io/?https://github.com/nogs573/showcase/blob/main/movie-recommendation-app/website/movie-guide-website.html)
 
 ## Team Members
 
